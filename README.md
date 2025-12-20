@@ -1,13 +1,10 @@
 # sonetto-rs
 
-    ![main image](/images/r99-murc.png)
-
-    ![heroes image](/images/r99-heroes.png)
-
-
 ## What is sonetto-rs?
 
 sonetto-rs is a ps for reverse 1999 made in rust. why? no one tried and succeeded yet.
+
+![main image](/images/r99-murc.png)
 
 ## How to use sonetto-rs?
 - need to install rust and compile it with cargo
@@ -15,6 +12,8 @@ sonetto-rs is a ps for reverse 1999 made in rust. why? no one tried and succeede
 cargo build --release
 ```
 - need to use the sonetto patch (soon)
+
+![heroes image](/images/r99-heroes.png)
 
 ## Features
 Everythings unlocked out the box
