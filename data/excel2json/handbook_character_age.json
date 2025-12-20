@@ -1,0 +1,23 @@
+[
+  "handbook_character_age",
+  [
+    {
+      "id": 1,
+      "order": 0,
+      "image": "",
+      "rewardIcon": ""
+    },
+    {
+      "id": 2,
+      "order": 0,
+      "image": "",
+      "rewardIcon": ""
+    },
+    {
+      "id": 3,
+      "order": 0,
+      "image": "",
+      "rewardIcon": ""
+    }
+  ]
+]

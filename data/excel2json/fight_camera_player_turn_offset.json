@@ -1,0 +1,21 @@
+[
+  "fight_camera_player_turn_offset",
+  [
+    {
+      "id": 23201,
+      "offset": [
+        0,
+        1.12,
+        -2.5
+      ]
+    },
+    {
+      "id": 30301,
+      "offset": [
+        0,
+        1.5,
+        -3
+      ]
+    }
+  ]
+]

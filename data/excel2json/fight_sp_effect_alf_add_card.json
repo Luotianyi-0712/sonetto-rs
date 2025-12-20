@@ -1,0 +1,17 @@
+[
+  "fight_sp_effect_alf_add_card",
+  [
+    {
+      "skinId": 311301,
+      "effect": "card_alf"
+    },
+    {
+      "skinId": 311302,
+      "effect": "card_alf"
+    },
+    {
+      "skinId": 311303,
+      "effect": "card_alf_skin_01"
+    }
+  ]
+]

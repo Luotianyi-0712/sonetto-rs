@@ -1,0 +1,53 @@
+[
+  "activity165_reward",
+  [
+    {
+      "storyId": 1,
+      "endingCount": 1,
+      "bonus": 21701111,
+      "showPos": 0
+    },
+    {
+      "storyId": 1,
+      "endingCount": 2,
+      "bonus": 21701121,
+      "showPos": 0
+    },
+    {
+      "storyId": 1,
+      "endingCount": 3,
+      "bonus": 21701131,
+      "showPos": 0
+    },
+    {
+      "storyId": 2,
+      "endingCount": 1,
+      "bonus": 21701141,
+      "showPos": 0
+    },
+    {
+      "storyId": 2,
+      "endingCount": 2,
+      "bonus": 21701151,
+      "showPos": 0
+    },
+    {
+      "storyId": 3,
+      "endingCount": 1,
+      "bonus": 21701161,
+      "showPos": 0
+    },
+    {
+      "storyId": 3,
+      "endingCount": 2,
+      "bonus": 21701171,
+      "showPos": 0
+    },
+    {
+      "storyId": 3,
+      "endingCount": 3,
+      "bonus": 21701181,
+      "showPos": 0
+    }
+  ]
+]

@@ -1,0 +1,28 @@
+CREATE TABLE user_player_card_info (
+    user_id INTEGER PRIMARY KEY,
+    show_settings TEXT NOT NULL DEFAULT '',  -- JSON array as string
+    progress_setting TEXT NOT NULL DEFAULT '',
+    base_setting TEXT NOT NULL DEFAULT '',
+    hero_cover TEXT NOT NULL DEFAULT '',
+    theme_id INTEGER NOT NULL DEFAULT 0,
+    show_achievement TEXT NOT NULL DEFAULT '',
+    critter TEXT NOT NULL DEFAULT '',
+    room_collection TEXT NOT NULL DEFAULT '',
+    weekwalk_deep_layer_id INTEGER NOT NULL DEFAULT 0,
+    explore_collection TEXT NOT NULL DEFAULT '',
+    rouge_difficulty INTEGER NOT NULL DEFAULT 0,
+    act128_sss_count INTEGER NOT NULL DEFAULT 0,
+    achievement_count INTEGER NOT NULL DEFAULT 0,
+    assist_times INTEGER NOT NULL DEFAULT 0,
+    hero_cover_times INTEGER NOT NULL DEFAULT 0,
+    max_faith_hero_count INTEGER NOT NULL DEFAULT 0,
+    total_cost_power INTEGER NOT NULL DEFAULT 0,
+    skin_count INTEGER NOT NULL DEFAULT 0,
+    tower_layer INTEGER NOT NULL DEFAULT 0,
+    tower_boss_pass_count INTEGER NOT NULL DEFAULT 0,
+    hero_max_level_count INTEGER NOT NULL DEFAULT 0,
+    weekwalk_ver2_platinum_cup INTEGER NOT NULL DEFAULT 0,
+    hero_count INTEGER NOT NULL DEFAULT 0,
+    tower_layer_metre INTEGER NOT NULL DEFAULT 0,
+    FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
+);

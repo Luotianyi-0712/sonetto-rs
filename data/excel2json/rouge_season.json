@@ -1,0 +1,29 @@
+[
+  "rouge_season",
+  [
+    {
+      "id": 101,
+      "season": 1,
+      "version": 1,
+      "name": "language_10051241",
+      "enName": "Rhapsody of the Moon",
+      "desc": "language_10072017"
+    },
+    {
+      "id": 102,
+      "season": 1,
+      "version": 2,
+      "name": "language_10064089",
+      "enName": "Fugue of Reflections",
+      "desc": "language_10072018"
+    },
+    {
+      "id": 103,
+      "season": 1,
+      "version": 3,
+      "name": "language_10071622",
+      "enName": "The Effervescent Silence",
+      "desc": "language_10072019"
+    }
+  ]
+]

@@ -1,0 +1,156 @@
+[
+  "main_act_atmosphere",
+  [
+    {
+      "id": 12241,
+      "effectDuration": 0,
+      "mainView": [
+        "#simage_actbg",
+        "left/#go_activity/vx_actbg"
+      ],
+      "mainViewActBtn": [],
+      "mainViewActBtnPrefix": "",
+      "isShowLogo": false,
+      "isShowActBg": false,
+      "mainThumbnailView": [
+        "#simage_actbg",
+        "#simage_logo"
+      ],
+      "isShowfx": false,
+      "mainThumbnailViewActBg": false
+    },
+    {
+      "id": 12431,
+      "effectDuration": 0,
+      "mainView": [],
+      "mainViewActBtn": [],
+      "mainViewActBtnPrefix": "",
+      "isShowLogo": false,
+      "isShowActBg": true,
+      "mainThumbnailView": [],
+      "isShowfx": false,
+      "mainThumbnailViewActBg": false
+    },
+    {
+      "id": 12510,
+      "effectDuration": 0,
+      "mainView": [
+        "#simage_actbg",
+        "left/#go_activity/vx_actbg",
+        "left/#go_activity/star_02",
+        "left/#go_activity/scroll_view/#go_actbg",
+        "left/#go_activity/scroll_view/#go_actbg_eff"
+      ],
+      "mainViewActBtn": [
+        "act_iconbg",
+        "act_iconbg_eff"
+      ],
+      "mainViewActBtnPrefix": "act_",
+      "isShowLogo": true,
+      "isShowActBg": true,
+      "mainThumbnailView": [
+        "#simage_actbg",
+        "#simage_logo"
+      ],
+      "isShowfx": true,
+      "mainThumbnailViewActBg": false
+    },
+    {
+      "id": 12611,
+      "effectDuration": 0,
+      "mainView": [],
+      "mainViewActBtn": [],
+      "mainViewActBtnPrefix": "",
+      "isShowLogo": false,
+      "isShowActBg": true,
+      "mainThumbnailView": [],
+      "isShowfx": false,
+      "mainThumbnailViewActBg": false
+    },
+    {
+      "id": 12717,
+      "effectDuration": 0,
+      "mainView": [],
+      "mainViewActBtn": [],
+      "mainViewActBtnPrefix": "",
+      "isShowLogo": false,
+      "isShowActBg": true,
+      "mainThumbnailView": [],
+      "isShowfx": false,
+      "mainThumbnailViewActBg": false
+    },
+    {
+      "id": 12874,
+      "effectDuration": 0,
+      "mainView": [
+        "#simage_actbg",
+        "left/#go_activity/vx_actbg",
+        "left/#go_activity/star_02",
+        "left/#go_activity/scroll_view/#go_actbg",
+        "left/#go_activity/scroll_view/#go_actbg_eff"
+      ],
+      "mainViewActBtn": [
+        "act_iconbg",
+        "act_iconbg_eff"
+      ],
+      "mainViewActBtnPrefix": "act_",
+      "isShowLogo": true,
+      "isShowActBg": true,
+      "mainThumbnailView": [
+        "#simage_actbg",
+        "#simage_logo"
+      ],
+      "isShowfx": true,
+      "mainThumbnailViewActBg": true
+    },
+    {
+      "id": 13018,
+      "effectDuration": 0,
+      "mainView": [],
+      "mainViewActBtn": [],
+      "mainViewActBtnPrefix": "",
+      "isShowLogo": false,
+      "isShowActBg": true,
+      "mainThumbnailView": [],
+      "isShowfx": false,
+      "mainThumbnailViewActBg": false
+    },
+    {
+      "id": 130526,
+      "effectDuration": 0,
+      "mainView": [
+        "#simage_actbg",
+        "left/#go_activity/vx_actbg",
+        "left/#go_activity/star_02",
+        "left/#go_activity/scroll_view/#go_actbg",
+        "left/#go_activity/scroll_view/#go_actbg_eff"
+      ],
+      "mainViewActBtn": [
+        "act_iconbg",
+        "act_iconbg_eff"
+      ],
+      "mainViewActBtnPrefix": "act_",
+      "isShowLogo": true,
+      "isShowActBg": true,
+      "mainThumbnailView": [
+        "#simage_actbg",
+        "#simage_logo",
+        "#vx_actbg"
+      ],
+      "isShowfx": true,
+      "mainThumbnailViewActBg": true
+    },
+    {
+      "id": 13121,
+      "effectDuration": 0,
+      "mainView": [],
+      "mainViewActBtn": [],
+      "mainViewActBtnPrefix": "",
+      "isShowLogo": false,
+      "isShowActBg": true,
+      "mainThumbnailView": [],
+      "isShowfx": false,
+      "mainThumbnailViewActBg": false
+    }
+  ]
+]

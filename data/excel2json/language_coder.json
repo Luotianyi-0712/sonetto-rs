@@ -1,0 +1,8013 @@
+[
+  "language_coder",
+  [
+    {
+      "id": "main_fight",
+      "lang": "language_10029298"
+    },
+    {
+      "id": "main_fb",
+      "lang": "language_10029299"
+    },
+    {
+      "id": "main_tips",
+      "lang": "language_10029300"
+    },
+    {
+      "id": "common_all",
+      "lang": "language_10003208"
+    },
+    {
+      "id": "loading_percent",
+      "lang": "language_10029301"
+    },
+    {
+      "id": "herogroup_full",
+      "lang": "language_10029302"
+    },
+    {
+      "id": "herogroup_empty",
+      "lang": "language_10029303"
+    },
+    {
+      "id": "mail_dayslate",
+      "lang": "language_10029304"
+    },
+    {
+      "id": "mail_hourlate",
+      "lang": "language_10029305"
+    },
+    {
+      "id": "mail_minutelate",
+      "lang": "language_10029306"
+    },
+    {
+      "id": "mail_hasgotten",
+      "lang": "language_10029307"
+    },
+    {
+      "id": "mail_jump_title",
+      "lang": "language_10029308"
+    },
+    {
+      "id": "logout",
+      "lang": "language_10016757"
+    },
+    {
+      "id": "fight_round",
+      "lang": "language_10029309"
+    },
+    {
+      "id": "fight_wave",
+      "lang": "language_10029310"
+    },
+    {
+      "id": "lang1dntg",
+      "lang": "language_10029311"
+    },
+    {
+      "id": "lang2xtqj",
+      "lang": "language_10029312"
+    },
+    {
+      "id": "character_rankToast",
+      "lang": "language_10029313"
+    },
+    {
+      "id": "character_levelToast",
+      "lang": "language_10029314"
+    },
+    {
+      "id": "character_levelToast1",
+      "lang": "language_10029315"
+    },
+    {
+      "id": "rankup_suretxt",
+      "lang": "language_10029316"
+    },
+    {
+      "id": "rankup_skineffect",
+      "lang": "language_10029317"
+    },
+    {
+      "id": "rankup_leveleffect",
+      "lang": "language_10029318"
+    },
+    {
+      "id": "mail_deletemail",
+      "lang": "language_10020356"
+    },
+    {
+      "id": "rankup_cantrankup",
+      "lang": "language_10029319"
+    },
+    {
+      "id": "not_download",
+      "lang": "language_10029320"
+    },
+    {
+      "id": "has_download",
+      "lang": "language_10029321"
+    },
+    {
+      "id": "need_update",
+      "lang": "language_10029322"
+    },
+    {
+      "id": "in_downloading",
+      "lang": "language_10029323"
+    },
+    {
+      "id": "download_all",
+      "lang": "language_10029324"
+    },
+    {
+      "id": "rankup_passiveskilleffect",
+      "lang": "language_10029325"
+    },
+    {
+      "id": "skilllevelup_cantlevelup",
+      "lang": "language_10029326"
+    },
+    {
+      "id": "skilltag1",
+      "lang": "language_10012689"
+    },
+    {
+      "id": "skilltag2",
+      "lang": "language_10018036"
+    },
+    {
+      "id": "skilltag3",
+      "lang": "language_10017009"
+    },
+    {
+      "id": "skilllevelup_maxlevel",
+      "lang": "language_10029327"
+    },
+    {
+      "id": "time_year",
+      "lang": "language_10029328"
+    },
+    {
+      "id": "time_month",
+      "lang": "language_10029329"
+    },
+    {
+      "id": "time_week",
+      "lang": "language_10029330"
+    },
+    {
+      "id": "time_day2",
+      "lang": "language_10029331"
+    },
+    {
+      "id": "time_day",
+      "lang": "language_10029332"
+    },
+    {
+      "id": "time_hour",
+      "lang": "language_10029333"
+    },
+    {
+      "id": "time_hour2",
+      "lang": "language_10029334"
+    },
+    {
+      "id": "time_minute",
+      "lang": "language_10029335"
+    },
+    {
+      "id": "time_minute2",
+      "lang": "language_10029336"
+    },
+    {
+      "id": "time_second",
+      "lang": "language_10029337"
+    },
+    {
+      "id": "time_lastday",
+      "lang": "language_10029338"
+    },
+    {
+      "id": "time_lasthour",
+      "lang": "language_10029339"
+    },
+    {
+      "id": "dungeon_special_drop",
+      "lang": "language_10029340"
+    },
+    {
+      "id": "dungeon_prob_flag1",
+      "lang": "language_10029341"
+    },
+    {
+      "id": "dungeon_prob_flag2",
+      "lang": "language_10029342"
+    },
+    {
+      "id": "dungeon_prob_flag3",
+      "lang": "language_10029343"
+    },
+    {
+      "id": "dungeon_prob_flag4",
+      "lang": "language_10029344"
+    },
+    {
+      "id": "dungeon_prob_flag5",
+      "lang": "language_10029345"
+    },
+    {
+      "id": "dungeon_prob_flag6",
+      "lang": "language_10029346"
+    },
+    {
+      "id": "dungeon_prob_flag7",
+      "lang": "language_10029347"
+    },
+    {
+      "id": "dungeon_unlock_tip1",
+      "lang": "language_10029348"
+    },
+    {
+      "id": "dungeon_open",
+      "lang": "language_10029349"
+    },
+    {
+      "id": "dungeon_not_open",
+      "lang": "language_10029350"
+    },
+    {
+      "id": "dungeon_day_1",
+      "lang": "language_10029351"
+    },
+    {
+      "id": "dungeon_day_2",
+      "lang": "language_10029352"
+    },
+    {
+      "id": "dungeon_day_3",
+      "lang": "language_10029353"
+    },
+    {
+      "id": "dungeon_day_4",
+      "lang": "language_10029354"
+    },
+    {
+      "id": "dungeon_day_5",
+      "lang": "language_10029355"
+    },
+    {
+      "id": "dungeon_day_6",
+      "lang": "language_10029356"
+    },
+    {
+      "id": "dungeon_day_7",
+      "lang": "language_10029331"
+    },
+    {
+      "id": "dungeon_unlock_tip2",
+      "lang": "language_10029357"
+    },
+    {
+      "id": "character_switch_in_the_show",
+      "lang": "language_10029358"
+    },
+    {
+      "id": "character_switch_change",
+      "lang": "language_10029359"
+    },
+    {
+      "id": "player_birthday",
+      "lang": "language_10029360"
+    },
+    {
+      "id": "player_birthdaywrong",
+      "lang": "language_10029361"
+    },
+    {
+      "id": "skilltag4",
+      "lang": "language_10017160"
+    },
+    {
+      "id": "skilltag5",
+      "lang": "language_10017172"
+    },
+    {
+      "id": "hero_group",
+      "lang": "language_10022458"
+    },
+    {
+      "id": "please_input_name",
+      "lang": "language_10029362"
+    },
+    {
+      "id": "career0",
+      "lang": "language_10003208"
+    },
+    {
+      "id": "career1",
+      "lang": "language_10017234"
+    },
+    {
+      "id": "career2",
+      "lang": "language_10017233"
+    },
+    {
+      "id": "career3",
+      "lang": "language_10017232"
+    },
+    {
+      "id": "career4",
+      "lang": "language_10017231"
+    },
+    {
+      "id": "career5",
+      "lang": "language_10017235"
+    },
+    {
+      "id": "career6",
+      "lang": "language_10017236"
+    },
+    {
+      "id": "career5_6",
+      "lang": "language_10029363"
+    },
+    {
+      "id": "member",
+      "lang": "language_10029364"
+    },
+    {
+      "id": "saveGroupSucc",
+      "lang": "language_10029365"
+    },
+    {
+      "id": "unlock",
+      "lang": "language_10029366"
+    },
+    {
+      "id": "level",
+      "lang": "language_10029367"
+    },
+    {
+      "id": "reachUpperLimit",
+      "lang": "language_10029368"
+    },
+    {
+      "id": "fightSelectSkillTips",
+      "lang": "language_10029369"
+    },
+    {
+      "id": "account",
+      "lang": "language_10029370"
+    },
+    {
+      "id": "sound",
+      "lang": "language_10029371"
+    },
+    {
+      "id": "graphic",
+      "lang": "language_10029372"
+    },
+    {
+      "id": "language",
+      "lang": "language_10029373"
+    },
+    {
+      "id": "other",
+      "lang": "language_10029374"
+    },
+    {
+      "id": "screenshot",
+      "lang": "language_10029375"
+    },
+    {
+      "id": "voice_package_download_all",
+      "lang": "language_10029376"
+    },
+    {
+      "id": "logic_target_single",
+      "lang": "language_10029377"
+    },
+    {
+      "id": "logic_target_area",
+      "lang": "language_10029378"
+    },
+    {
+      "id": "effect_tag_attack",
+      "lang": "language_10012689"
+    },
+    {
+      "id": "effect_tag_counterspell",
+      "lang": "language_10017147"
+    },
+    {
+      "id": "effect_tag_control",
+      "lang": "language_10017155"
+    },
+    {
+      "id": "effect_tag_buff",
+      "lang": "language_10029379"
+    },
+    {
+      "id": "effect_tag_debuff",
+      "lang": "language_10018039"
+    },
+    {
+      "id": "effect_tag_heal",
+      "lang": "language_10017009"
+    },
+    {
+      "id": "heroGroup_aidLock",
+      "lang": "language_10019901"
+    },
+    {
+      "id": "heroGroup_positionlock",
+      "lang": "language_10019932"
+    },
+    {
+      "id": "equip_lang_2",
+      "lang": "language_10029380"
+    },
+    {
+      "id": "equip_lang_3",
+      "lang": "language_10029381"
+    },
+    {
+      "id": "equip_lang_4",
+      "lang": "language_10029382"
+    },
+    {
+      "id": "equip_lang_5",
+      "lang": "language_10029383"
+    },
+    {
+      "id": "equip_lang_6",
+      "lang": "language_10029384"
+    },
+    {
+      "id": "equip_lang_7",
+      "lang": "language_10029385"
+    },
+    {
+      "id": "equip_lang_18",
+      "lang": "language_10029386"
+    },
+    {
+      "id": "equip_lang_19",
+      "lang": "language_10029387"
+    },
+    {
+      "id": "equip_lang_20",
+      "lang": "language_10029388"
+    },
+    {
+      "id": "equip_lang_21",
+      "lang": "language_10029389"
+    },
+    {
+      "id": "equip_lang_22",
+      "lang": "language_10029390"
+    },
+    {
+      "id": "equip_lang_23",
+      "lang": "language_10029391"
+    },
+    {
+      "id": "jump_guide",
+      "lang": "language_10020355"
+    },
+    {
+      "id": "heroGroup_aidLock_toast",
+      "lang": "language_10029392"
+    },
+    {
+      "id": "herogroup_not_save",
+      "lang": "language_10029393"
+    },
+    {
+      "id": "store_buylimit_day",
+      "lang": "language_10029394"
+    },
+    {
+      "id": "store_buylimit_week",
+      "lang": "language_10029395"
+    },
+    {
+      "id": "store_buylimit_month",
+      "lang": "language_10029396"
+    },
+    {
+      "id": "store_buylimit_forever",
+      "lang": "language_10029397"
+    },
+    {
+      "id": "store_buylimit",
+      "lang": "language_10029398"
+    },
+    {
+      "id": "store_discount",
+      "lang": "language_10029399"
+    },
+    {
+      "id": "store_has",
+      "lang": "language_10029400"
+    },
+    {
+      "id": "store_currency_limit",
+      "lang": "language_10029401"
+    },
+    {
+      "id": "store_discount_recommend",
+      "lang": "language_10029402"
+    },
+    {
+      "id": "store_discount_hot",
+      "lang": "language_10029403"
+    },
+    {
+      "id": "store_discount_super",
+      "lang": "language_10029404"
+    },
+    {
+      "id": "store_free",
+      "lang": "language_10029405"
+    },
+    {
+      "id": "store_multi_one",
+      "lang": "language_10029406"
+    },
+    {
+      "id": "store_charge_firstdouble",
+      "lang": "language_10029407"
+    },
+    {
+      "id": "store_charge_extra",
+      "lang": "language_10029408"
+    },
+    {
+      "id": "character_duplicate_tips",
+      "lang": "language_10029409"
+    },
+    {
+      "id": "character_first_tips",
+      "lang": "language_10029410"
+    },
+    {
+      "id": "daily",
+      "lang": "language_10029411"
+    },
+    {
+      "id": "weekly",
+      "lang": "language_10029412"
+    },
+    {
+      "id": "monthly",
+      "lang": "language_10029413"
+    },
+    {
+      "id": "times",
+      "lang": "language_10029414"
+    },
+    {
+      "id": "dungeon_dailylimit",
+      "lang": "language_10029415"
+    },
+    {
+      "id": "dungeon_unlock_tip3",
+      "lang": "language_10029416"
+    },
+    {
+      "id": "social_online",
+      "lang": "language_10029417"
+    },
+    {
+      "id": "social_offline",
+      "lang": "language_10029418"
+    },
+    {
+      "id": "social_friend",
+      "lang": "language_10005043"
+    },
+    {
+      "id": "social_chat_desc",
+      "lang": "language_10029419"
+    },
+    {
+      "id": "social_recent",
+      "lang": "language_10029420"
+    },
+    {
+      "id": "social_chat_send",
+      "lang": "language_10029421"
+    },
+    {
+      "id": "social_tabviewinfo_friends",
+      "lang": "language_10029422"
+    },
+    {
+      "id": "social_tabviewinfo_request",
+      "lang": "language_10029423"
+    },
+    {
+      "id": "social_tabviewinfo_blacklist",
+      "lang": "language_10029424"
+    },
+    {
+      "id": "dungeon_add_rule_target_1",
+      "lang": "language_10029425"
+    },
+    {
+      "id": "dungeon_add_rule_target_2",
+      "lang": "language_10029426"
+    },
+    {
+      "id": "dungeon_add_rule_target_3",
+      "lang": "language_10029427"
+    },
+    {
+      "id": "dungeon_add_rule_target_4",
+      "lang": "language_10006661"
+    },
+    {
+      "id": "jump_episode",
+      "lang": "language_10029428"
+    },
+    {
+      "id": "touch_head_hint",
+      "lang": "language_10029429"
+    },
+    {
+      "id": "fight_float_miss",
+      "lang": "language_10017505"
+    },
+    {
+      "id": "powerbuy_tip",
+      "lang": "language_10029430"
+    },
+    {
+      "id": "powerbuy_tip_2",
+      "lang": "language_10029431"
+    },
+    {
+      "id": "powerbuy_remaincount",
+      "lang": "language_10029432"
+    },
+    {
+      "id": "character_passive_unlock",
+      "lang": "language_10029433"
+    },
+    {
+      "id": "enemytip_buff_time",
+      "lang": "language_10029434"
+    },
+    {
+      "id": "enemytip_buff_stacked_count",
+      "lang": "language_10029435"
+    },
+    {
+      "id": "enemytip_buff_count",
+      "lang": "language_10029436"
+    },
+    {
+      "id": "player_levelup_maxpower",
+      "lang": "language_10029437"
+    },
+    {
+      "id": "player_levelup_power",
+      "lang": "language_10029438"
+    },
+    {
+      "id": "character_rankup_levellimit",
+      "lang": "language_10029439"
+    },
+    {
+      "id": "character_rankup_skill",
+      "lang": "language_10029440"
+    },
+    {
+      "id": "character_rankup_skillunlock",
+      "lang": "language_10029441"
+    },
+    {
+      "id": "character_rankup_skinunlock",
+      "lang": "language_10029442"
+    },
+    {
+      "id": "character_rankup_attribute",
+      "lang": "language_10029443"
+    },
+    {
+      "id": "character_skin_suffix",
+      "lang": "language_10029444"
+    },
+    {
+      "id": "clue",
+      "lang": "language_10029445"
+    },
+    {
+      "id": "source",
+      "lang": "language_10029446"
+    },
+    {
+      "id": "adventure_collect_progress",
+      "lang": "language_10029447"
+    },
+    {
+      "id": "dungeon_recommend_lv",
+      "lang": "language_10029448"
+    },
+    {
+      "id": "dungeon_platinum",
+      "lang": "language_10029449"
+    },
+    {
+      "id": "equip_suitable_characters",
+      "lang": "language_10029450"
+    },
+    {
+      "id": "equip_nonactivated",
+      "lang": "language_10029451"
+    },
+    {
+      "id": "hero_hint_reach_unlock",
+      "lang": "language_10029452"
+    },
+    {
+      "id": "hero_rank_reach_unlock",
+      "lang": "language_10029453"
+    },
+    {
+      "id": "hero_lv_reach_unlock",
+      "lang": "language_10029454"
+    },
+    {
+      "id": "condition_reach_unlock",
+      "lang": "language_10029455"
+    },
+    {
+      "id": "hero_voice_skin_unlock",
+      "lang": "language_10029456"
+    },
+    {
+      "id": "hero_voice_rank_reach_unlock",
+      "lang": "language_10029457"
+    },
+    {
+      "id": "title_eternal",
+      "lang": "language_10029458"
+    },
+    {
+      "id": "title_chapter",
+      "lang": "language_10029459"
+    },
+    {
+      "id": "resonance",
+      "lang": "language_10029460"
+    },
+    {
+      "id": "chapter_resonance_unlock",
+      "lang": "language_10029461"
+    },
+    {
+      "id": "equip",
+      "lang": "language_10005046"
+    },
+    {
+      "id": "expire",
+      "lang": "language_10029462"
+    },
+    {
+      "id": "get_after_unlock",
+      "lang": "language_10029463"
+    },
+    {
+      "id": "click_get",
+      "lang": "language_10029464"
+    },
+    {
+      "id": "current_wear",
+      "lang": "language_10029465"
+    },
+    {
+      "id": "wear",
+      "lang": "language_10029466"
+    },
+    {
+      "id": "team_rank",
+      "lang": "language_10029467"
+    },
+    {
+      "id": "maxhp",
+      "lang": "language_10029468"
+    },
+    {
+      "id": "dungeon_beat_all",
+      "lang": "language_10029469"
+    },
+    {
+      "id": "dungeon_beat_all_without_die",
+      "lang": "language_10029470"
+    },
+    {
+      "id": "dungeon_beat_one",
+      "lang": "language_10029471"
+    },
+    {
+      "id": "dungeon_lock_tips_normal",
+      "lang": "language_10003371"
+    },
+    {
+      "id": "dungeon_lock_tips_hard",
+      "lang": "language_10029472"
+    },
+    {
+      "id": "dungeon_level_starunlock",
+      "lang": "language_10029473"
+    },
+    {
+      "id": "dungeon_level_change",
+      "lang": "language_10029474"
+    },
+    {
+      "id": "dungeon_lock_tips_hard2",
+      "lang": "language_10029475"
+    },
+    {
+      "id": "task_daily_rewards",
+      "lang": "language_10029476"
+    },
+    {
+      "id": "task_weekly_rewards",
+      "lang": "language_10029477"
+    },
+    {
+      "id": "character_passive_get",
+      "lang": "language_10029478"
+    },
+    {
+      "id": "summon_transform_desc",
+      "lang": "language_10029479"
+    },
+    {
+      "id": "summon_characterdetail_rate",
+      "lang": "language_10029480"
+    },
+    {
+      "id": "summon_confirm_desc",
+      "lang": "language_10029481"
+    },
+    {
+      "id": "summon_confirm_quantifier1",
+      "lang": "language_10029482"
+    },
+    {
+      "id": "summon_confirm_quantifier2",
+      "lang": "language_10029483"
+    },
+    {
+      "id": "summon_equip_one_times",
+      "lang": "language_10029484"
+    },
+    {
+      "id": "summon_equip_free",
+      "lang": "language_10029485"
+    },
+    {
+      "id": "summon_char_many_times",
+      "lang": "language_10029486"
+    },
+    {
+      "id": "quit_fight_equip_1",
+      "lang": "language_10029487"
+    },
+    {
+      "id": "quit_fight_equip_2",
+      "lang": "language_10029488"
+    },
+    {
+      "id": "quit_fight_tip",
+      "lang": "language_10029489"
+    },
+    {
+      "id": "quit_fight_weekwalk",
+      "lang": "language_10029490"
+    },
+    {
+      "id": "activity_from_to",
+      "lang": "language_10029491"
+    },
+    {
+      "id": "rule",
+      "lang": "language_10010207"
+    },
+    {
+      "id": "fightfail_returncost",
+      "lang": "language_10029492"
+    },
+    {
+      "id": "dungeon_unlock_episode",
+      "lang": "language_10029493"
+    },
+    {
+      "id": "dungeon_unlock_episode_hard",
+      "lang": "language_10029494"
+    },
+    {
+      "id": "dungeon_unlock_episode_mode",
+      "lang": "language_10029454"
+    },
+    {
+      "id": "weekwalk_layer_unlock",
+      "lang": "language_10029495"
+    },
+    {
+      "id": "dungeon_story_mode",
+      "lang": "language_10022475"
+    },
+    {
+      "id": "dungeon_hard_mode",
+      "lang": "language_10005054"
+    },
+    {
+      "id": "dungeon_unlock_content_1",
+      "lang": "language_10029496"
+    },
+    {
+      "id": "dungeon_unlock_content_2",
+      "lang": "language_10029497"
+    },
+    {
+      "id": "dungeon_unlock_content_3",
+      "lang": "language_10029498"
+    },
+    {
+      "id": "dungeon_unlock_content_4",
+      "lang": "language_10029499"
+    },
+    {
+      "id": "dmgtype_realAttack",
+      "lang": "language_10029500"
+    },
+    {
+      "id": "dmgtype_mindAttack",
+      "lang": "language_10029501"
+    },
+    {
+      "id": "rank_level_display1",
+      "lang": "language_10029502"
+    },
+    {
+      "id": "rank_level_display2",
+      "lang": "language_10029503"
+    },
+    {
+      "id": "rank_level_display3",
+      "lang": "language_10029504"
+    },
+    {
+      "id": "rank_level_display4",
+      "lang": "language_10029505"
+    },
+    {
+      "id": "material_jump_probability_normal",
+      "lang": "language_10029506"
+    },
+    {
+      "id": "material_jump_probability_must",
+      "lang": "language_10029341"
+    },
+    {
+      "id": "material_jump_probability_large",
+      "lang": "language_10029342"
+    },
+    {
+      "id": "material_jump_probability_small",
+      "lang": "language_10029343"
+    },
+    {
+      "id": "material_jump_probability_verysmall",
+      "lang": "language_10029344"
+    },
+    {
+      "id": "power_item1_name",
+      "lang": "language_10003200"
+    },
+    {
+      "id": "power_item2_name",
+      "lang": "language_10003203"
+    },
+    {
+      "id": "currency_item1_name",
+      "lang": "language_10003211"
+    },
+    {
+      "id": "notestimate",
+      "lang": "language_10029507"
+    },
+    {
+      "id": "estimate",
+      "lang": "language_10029508"
+    },
+    {
+      "id": "dungeon_win_protect",
+      "lang": "language_10029509"
+    },
+    {
+      "id": "dungeon_win_3",
+      "lang": "language_10029510"
+    },
+    {
+      "id": "dungeon_win_5",
+      "lang": "language_10029511"
+    },
+    {
+      "id": "dungeon_win_6",
+      "lang": "language_10029512"
+    },
+    {
+      "id": "dungeon_win_8",
+      "lang": "language_10029513"
+    },
+    {
+      "id": "hasExpire",
+      "lang": "language_10019698"
+    },
+    {
+      "id": "user idle timeout",
+      "lang": "language_10029514"
+    },
+    {
+      "id": "repeat login",
+      "lang": "language_10000338"
+    },
+    {
+      "id": "server shutdown",
+      "lang": "language_10029515"
+    },
+    {
+      "id": "fight_buff_reject",
+      "lang": "language_10015515"
+    },
+    {
+      "id": "activitysign_totalsignday",
+      "lang": "language_10029516"
+    },
+    {
+      "id": "thanks_feedback",
+      "lang": "language_10029517"
+    },
+    {
+      "id": "frequently_commit",
+      "lang": "language_10029518"
+    },
+    {
+      "id": "mainrolename",
+      "lang": "language_10000321"
+    },
+    {
+      "id": "equip_maxlevel",
+      "lang": "language_10029519"
+    },
+    {
+      "id": "room_task_desc1",
+      "lang": "language_10029520"
+    },
+    {
+      "id": "room_task_desc2",
+      "lang": "language_10029521"
+    },
+    {
+      "id": "room_building_cost_resource",
+      "lang": "language_10029522"
+    },
+    {
+      "id": "room_allbuilding_cost_resource",
+      "lang": "language_10029523"
+    },
+    {
+      "id": "room_building_nextlevel",
+      "lang": "language_10029524"
+    },
+    {
+      "id": "room_building_maxlevel",
+      "lang": "language_10029525"
+    },
+    {
+      "id": "roomstandbyview_highview",
+      "lang": "language_10055558"
+    },
+    {
+      "id": "roomstandbyview_lowview",
+      "lang": "language_10029527"
+    },
+    {
+      "id": "room_task_lock_by_level",
+      "lang": "language_10029528"
+    },
+    {
+      "id": "room_task_lock_by_task",
+      "lang": "language_10020110"
+    },
+    {
+      "id": "room_max_block_count",
+      "lang": "language_10029529"
+    },
+    {
+      "id": "room_max_character_count",
+      "lang": "language_10029530"
+    },
+    {
+      "id": "room_formula_lock_episode",
+      "lang": "language_10029531"
+    },
+    {
+      "id": "room_formula_lock_roomlevel",
+      "lang": "language_10029532"
+    },
+    {
+      "id": "room_formula_lock_productionlevel",
+      "lang": "language_10029533"
+    },
+    {
+      "id": "room_initbuilding_linelock",
+      "lang": "language_10029534"
+    },
+    {
+      "id": "room_topright_build_name",
+      "lang": "language_10029535"
+    },
+    {
+      "id": "room_topright_build_desc",
+      "lang": "language_10029536"
+    },
+    {
+      "id": "room_topright_build_next",
+      "lang": "language_10029537"
+    },
+    {
+      "id": "room_topright_block_name",
+      "lang": "language_10029538"
+    },
+    {
+      "id": "room_topright_block_desc",
+      "lang": "language_10029539"
+    },
+    {
+      "id": "room_topright_character_name",
+      "lang": "language_10029540"
+    },
+    {
+      "id": "room_topright_character_desc",
+      "lang": "language_10029541"
+    },
+    {
+      "id": "room_topright_builddegree",
+      "lang": "language_10029535"
+    },
+    {
+      "id": "room_topright_builddegree_current_resource",
+      "lang": "language_10029542"
+    },
+    {
+      "id": "room_topright_builddegree_current_character",
+      "lang": "language_10029543"
+    },
+    {
+      "id": "room_topright_builddegree_next_title",
+      "lang": "language_10029544"
+    },
+    {
+      "id": "room_topright_builddegree_next_resource",
+      "lang": "language_10029545"
+    },
+    {
+      "id": "room_topright_builddegree_next_character",
+      "lang": "language_10029546"
+    },
+    {
+      "id": "room_topright_builddegree_tips",
+      "lang": "language_10029547"
+    },
+    {
+      "id": "room_topright_character",
+      "lang": "language_10029548"
+    },
+    {
+      "id": "room_topright_character_tips",
+      "lang": "language_10029549"
+    },
+    {
+      "id": "room_topright_character_next_title",
+      "lang": "language_10029544"
+    },
+    {
+      "id": "room_topright_character_next_desc",
+      "lang": "language_10029546"
+    },
+    {
+      "id": "room_topright_block",
+      "lang": "language_10029538"
+    },
+    {
+      "id": "room_topright_block_tips",
+      "lang": "language_10029550"
+    },
+    {
+      "id": "room_topright_block_next_title",
+      "lang": "language_10029551"
+    },
+    {
+      "id": "room_topright_block_next_desc",
+      "lang": "language_10029552"
+    },
+    {
+      "id": "room_formulatype_lock_desc",
+      "lang": "language_10029553"
+    },
+    {
+      "id": "room_character_remove_tips",
+      "lang": "language_10029554"
+    },
+    {
+      "id": "room_initbuilding_title",
+      "lang": "language_10029555"
+    },
+    {
+      "id": "room_levelup_init_title",
+      "lang": "language_10029556"
+    },
+    {
+      "id": "room_levelup_init_unlock",
+      "lang": "language_10029557"
+    },
+    {
+      "id": "room_levelup_init_count",
+      "lang": "language_10029558"
+    },
+    {
+      "id": "room_levelup_init_name1",
+      "lang": "language_10029559"
+    },
+    {
+      "id": "room_levelup_init_name2",
+      "lang": "language_10029559"
+    },
+    {
+      "id": "room_levelup_init_and1",
+      "lang": "language_10029560"
+    },
+    {
+      "id": "room_levelup_init_and2",
+      "lang": "language_10029561"
+    },
+    {
+      "id": "room_levelup_init_maxlevel",
+      "lang": "language_10029562"
+    },
+    {
+      "id": "room_levelup_init_block",
+      "lang": "language_10029563"
+    },
+    {
+      "id": "room_levelup_init_character",
+      "lang": "language_10029564"
+    },
+    {
+      "id": "room_levelup_line_reserve",
+      "lang": "language_10029565"
+    },
+    {
+      "id": "room_levelup_line_costtime",
+      "lang": "language_10029566"
+    },
+    {
+      "id": "room_levelup_line_product",
+      "lang": "language_10029567"
+    },
+    {
+      "id": "room_levelup_line_change1",
+      "lang": "language_10029568"
+    },
+    {
+      "id": "room_levelup_line_change2",
+      "lang": "language_10029569"
+    },
+    {
+      "id": "room_levelup_line_change3",
+      "lang": "language_10029570"
+    },
+    {
+      "id": "room_levelup_line_change4",
+      "lang": "language_10029571"
+    },
+    {
+      "id": "room_levelup_line_formula1",
+      "lang": "language_10029572"
+    },
+    {
+      "id": "room_levelup_line_formula2",
+      "lang": "language_10029573"
+    },
+    {
+      "id": "room_levelup_line_formula3",
+      "lang": "language_10029574"
+    },
+    {
+      "id": "room_levelup_line_formula4",
+      "lang": "language_10029575"
+    },
+    {
+      "id": "room_levelup_line_formula_low",
+      "lang": "language_10029576"
+    },
+    {
+      "id": "room_levelup_line_formula_middle",
+      "lang": "language_10029577"
+    },
+    {
+      "id": "room_levelup_line_formula_high",
+      "lang": "language_10029578"
+    },
+    {
+      "id": "room_levelupresult_init_unlock",
+      "lang": "language_10029557"
+    },
+    {
+      "id": "room_levelupresult_init_count",
+      "lang": "language_10029579"
+    },
+    {
+      "id": "room_levelupresult_init_count_number",
+      "lang": "language_10029580"
+    },
+    {
+      "id": "room_levelupresult_init_maxlevel",
+      "lang": "language_10029581"
+    },
+    {
+      "id": "room_levelupresult_init_block",
+      "lang": "language_10029582"
+    },
+    {
+      "id": "room_levelupresult_init_character",
+      "lang": "language_10029583"
+    },
+    {
+      "id": "room_levelupresult_line_reserve",
+      "lang": "language_10029584"
+    },
+    {
+      "id": "room_levelupresult_line_costtime",
+      "lang": "language_10029585"
+    },
+    {
+      "id": "room_levelupresult_line_product",
+      "lang": "language_10029586"
+    },
+    {
+      "id": "room_levelupresult_line_change1",
+      "lang": "language_10029568"
+    },
+    {
+      "id": "room_levelupresult_line_change2",
+      "lang": "language_10029569"
+    },
+    {
+      "id": "room_levelupresult_line_change3",
+      "lang": "language_10029570"
+    },
+    {
+      "id": "room_levelupresult_line_change4",
+      "lang": "language_10029571"
+    },
+    {
+      "id": "room_levelupresult_line_formula1",
+      "lang": "language_10029587"
+    },
+    {
+      "id": "room_levelupresult_line_formula2",
+      "lang": "language_10029588"
+    },
+    {
+      "id": "room_levelupresult_line_formula3",
+      "lang": "language_10029589"
+    },
+    {
+      "id": "room_levelupresult_line_formula4",
+      "lang": "language_10029590"
+    },
+    {
+      "id": "room_task_room_level_tips",
+      "lang": "language_10021972"
+    },
+    {
+      "id": "activitynovicesign_character",
+      "lang": "language_10005045"
+    },
+    {
+      "id": "fightsuccview_demand",
+      "lang": "language_90001064"
+    },
+    {
+      "id": "fightsuccview_quantity",
+      "lang": "language_10029592"
+    },
+    {
+      "id": "dungeonmapview_remaintime",
+      "lang": "language_10029593"
+    },
+    {
+      "id": "equip_suiteffect_unlock",
+      "lang": "language_10029594"
+    },
+    {
+      "id": "sdk_register",
+      "lang": "language_10029595"
+    },
+    {
+      "id": "sdk_resetpwd",
+      "lang": "language_10029596"
+    },
+    {
+      "id": "sdk_login",
+      "lang": "language_10029597"
+    },
+    {
+      "id": "sdk_ok",
+      "lang": "language_10029598"
+    },
+    {
+      "id": "sdk_hasSend",
+      "lang": "language_10029599"
+    },
+    {
+      "id": "sdk_agreepolicy",
+      "lang": "language_10029600"
+    },
+    {
+      "id": "full_screen",
+      "lang": "language_10029601"
+    },
+    {
+      "id": "dungeon_map_submit",
+      "lang": "language_10029602"
+    },
+    {
+      "id": "sdk_tiptitle",
+      "lang": "language_10029603"
+    },
+    {
+      "id": "sdk_timeslotlimittip",
+      "lang": "language_10029604"
+    },
+    {
+      "id": "sdk_timeoutlimittip",
+      "lang": "language_10029605"
+    },
+    {
+      "id": "sdk_tipcontent",
+      "lang": "language_10029606"
+    },
+    {
+      "id": "sdk_timeslotlimitcontent",
+      "lang": "language_10029607"
+    },
+    {
+      "id": "sdk_timeoutlimitcontent",
+      "lang": "language_10029608"
+    },
+    {
+      "id": "activitynovicetaskview_tasktips",
+      "lang": "language_10029609"
+    },
+    {
+      "id": "activitynoviceinsightview_time",
+      "lang": "language_10029610"
+    },
+    {
+      "id": "dungeonreschapteritem",
+      "lang": "language_10029611"
+    },
+    {
+      "id": "sdk_getcaptcha",
+      "lang": "language_10029612"
+    },
+    {
+      "id": "dungeon_map_sp_equip_progress",
+      "lang": "language_10029613"
+    },
+    {
+      "id": "ID_desc",
+      "lang": "language_10029614"
+    },
+    {
+      "id": "activitynorsignview_login",
+      "lang": "language_10029615"
+    },
+    {
+      "id": "dungeoncumulativerewardsview_tips",
+      "lang": "language_10029616"
+    },
+    {
+      "id": "materialtipview_itemquantity",
+      "lang": "language_10029617"
+    },
+    {
+      "id": "lock_store_text",
+      "lang": "language_10029618"
+    },
+    {
+      "id": "talent_capacity_up",
+      "lang": "language_10029619"
+    },
+    {
+      "id": "talent_attr_up",
+      "lang": "language_10029620"
+    },
+    {
+      "id": "talent_new_debris",
+      "lang": "language_10029621"
+    },
+    {
+      "id": "talent_cube_count_up",
+      "lang": "language_10029622"
+    },
+    {
+      "id": "herogroupfightview_foresee_1",
+      "lang": "language_10029623"
+    },
+    {
+      "id": "herogroupfightview_foresee_2",
+      "lang": "language_10029624"
+    },
+    {
+      "id": "herogroupfightview_foresee_3",
+      "lang": "language_10029625"
+    },
+    {
+      "id": "herogroupfightview_foresee_4",
+      "lang": "language_10029626"
+    },
+    {
+      "id": "herogroupfightview_foresee_5",
+      "lang": "language_10029627"
+    },
+    {
+      "id": "herogroupfightview_difficult",
+      "lang": "language_10029628"
+    },
+    {
+      "id": "herogroupfightview_sodifficult",
+      "lang": "language_10029629"
+    },
+    {
+      "id": "herogroup_trial_limit_tip",
+      "lang": "language_10029630"
+    },
+    {
+      "id": "herogroup_trial_tip",
+      "lang": "language_10029631"
+    },
+    {
+      "id": "herogroup_trial_tag0",
+      "lang": "language_10029632"
+    },
+    {
+      "id": "equip_refine_skill_effect_title",
+      "lang": "language_10029633"
+    },
+    {
+      "id": "dungeonweekwalkview_curprogress",
+      "lang": "language_10029634"
+    },
+    {
+      "id": "roommachineview_totaltime",
+      "lang": "language_10029635"
+    },
+    {
+      "id": "roommachineview_pause",
+      "lang": "language_10029636"
+    },
+    {
+      "id": "weekwalkview_curprogress",
+      "lang": "language_10029637"
+    },
+    {
+      "id": "roomtradeitemdetail_nosetting",
+      "lang": "language_10029638"
+    },
+    {
+      "id": "roomgathertipview_createcount",
+      "lang": "language_10029639"
+    },
+    {
+      "id": "roomstrengthview_costresource",
+      "lang": "language_10029640"
+    },
+    {
+      "id": "roominitlevelupitem",
+      "lang": "language_10029641"
+    },
+    {
+      "id": "roominitleveluplock",
+      "lang": "language_10029642"
+    },
+    {
+      "id": "roomblockbuilddegree",
+      "lang": "language_10029643"
+    },
+    {
+      "id": "room_switch_collect",
+      "lang": "language_10029447"
+    },
+    {
+      "id": "room_switch_source",
+      "lang": "language_10029644"
+    },
+    {
+      "id": "forever",
+      "lang": "language_10029645"
+    },
+    {
+      "id": "round_or_times",
+      "lang": "language_10029646"
+    },
+    {
+      "id": "dungeonmaptaskview_open",
+      "lang": "language_10029647"
+    },
+    {
+      "id": "voice_offset",
+      "lang": "language_10029648"
+    },
+    {
+      "id": "tittle_offset",
+      "lang": "language_10029649"
+    },
+    {
+      "id": "level_limit_unlock",
+      "lang": "language_10029650"
+    },
+    {
+      "id": "fight_select_change",
+      "lang": "language_10029651"
+    },
+    {
+      "id": "fight_select_change_sub",
+      "lang": "language_10029652"
+    },
+    {
+      "id": "select_skill_target",
+      "lang": "language_10029653"
+    },
+    {
+      "id": "character_rankupresult_levellimit",
+      "lang": "language_10029654"
+    },
+    {
+      "id": "character_rankupresult_skill",
+      "lang": "language_10029655"
+    },
+    {
+      "id": "equip_refine_skill_advance",
+      "lang": "language_10029656"
+    },
+    {
+      "id": "equip_refine_skill_base",
+      "lang": "language_10029657"
+    },
+    {
+      "id": "equip_refine_memory",
+      "lang": "language_10029658"
+    },
+    {
+      "id": "equip_skill_upgrade",
+      "lang": "language_10029659"
+    },
+    {
+      "id": "equip_duplicate_tips",
+      "lang": "language_10029660"
+    },
+    {
+      "id": "character_tip_normal_attribute",
+      "lang": "language_10029661"
+    },
+    {
+      "id": "character_tip_special_attribute",
+      "lang": "language_10029662"
+    },
+    {
+      "id": "character_tip_total_attribute",
+      "lang": "language_10029663"
+    },
+    {
+      "id": "dungeon_element_name_index",
+      "lang": "language_10029664"
+    },
+    {
+      "id": "equiprefine_nextLvAttribute",
+      "lang": "language_10029665"
+    },
+    {
+      "id": "equiprefine_maxLvAttribute",
+      "lang": "language_10029666"
+    },
+    {
+      "id": "activitysignin_monthsignday",
+      "lang": "language_10029667"
+    },
+    {
+      "id": "dungeonrewardview_repertory",
+      "lang": "language_10029668"
+    },
+    {
+      "id": "restrain_text",
+      "lang": "language_10029669"
+    },
+    {
+      "id": "summonmainequipprobup_deadline",
+      "lang": "language_10029670"
+    },
+    {
+      "id": "summonmain_deadline_time_day",
+      "lang": "language_10029671"
+    },
+    {
+      "id": "summonmain_deadline_time",
+      "lang": "language_10029672"
+    },
+    {
+      "id": "summonmain_deadline_time_min",
+      "lang": "language_10029673"
+    },
+    {
+      "id": "summon_category_flag_activity",
+      "lang": "language_10000124"
+    },
+    {
+      "id": "equip_filter_str",
+      "lang": "language_10029674"
+    },
+    {
+      "id": "herogroupview_replaycn",
+      "lang": "language_10029675"
+    },
+    {
+      "id": "powerbuy_tip_3",
+      "lang": "language_10029676"
+    },
+    {
+      "id": "dungeonmapview_unlocktitle",
+      "lang": "language_10029677"
+    },
+    {
+      "id": "dungeonmapview_unlockprogress",
+      "lang": "language_10029678"
+    },
+    {
+      "id": "not_purchase",
+      "lang": "language_10029679"
+    },
+    {
+      "id": "not_enough_one_day",
+      "lang": "language_10029680"
+    },
+    {
+      "id": "remain_day",
+      "lang": "language_10029681"
+    },
+    {
+      "id": "today_reward",
+      "lang": "language_10029682"
+    },
+    {
+      "id": "herogroupview_curlackattr",
+      "lang": "language_10029683"
+    },
+    {
+      "id": "common_none",
+      "lang": "language_10029684"
+    },
+    {
+      "id": "equip_store_name",
+      "lang": "language_10022118"
+    },
+    {
+      "id": "weekwalklayerpageitem_unknowdream",
+      "lang": "language_10029685"
+    },
+    {
+      "id": "room_level_up",
+      "lang": "language_10029686"
+    },
+    {
+      "id": "room_production_line_level_up",
+      "lang": "language_10029687"
+    },
+    {
+      "id": "room_production_line_lock_dec",
+      "lang": "language_10029688"
+    },
+    {
+      "id": "taskitem_growtask1",
+      "lang": "language_10029689"
+    },
+    {
+      "id": "taskitem_growtask2",
+      "lang": "language_10029690"
+    },
+    {
+      "id": "characterrankup_talentlevellimit",
+      "lang": "language_10029691"
+    },
+    {
+      "id": "dungeon_main_unlock",
+      "lang": "language_10029692"
+    },
+    {
+      "id": "dungeon_main_hard_unlock",
+      "lang": "language_10029693"
+    },
+    {
+      "id": "dungeon_weekwalk_unlock",
+      "lang": "language_10029694"
+    },
+    {
+      "id": "room_backblock_curpackage",
+      "lang": "language_10029695"
+    },
+    {
+      "id": "material_storage",
+      "lang": "language_10029696"
+    },
+    {
+      "id": "hero_inteam",
+      "lang": "language_10029697"
+    },
+    {
+      "id": "confirm_text",
+      "lang": "language_10029598"
+    },
+    {
+      "id": "replace_text",
+      "lang": "language_10029698"
+    },
+    {
+      "id": "level_limit_4RD_unlock",
+      "lang": "language_10029699"
+    },
+    {
+      "id": "dungeon_unlock_4RD",
+      "lang": "language_10029700"
+    },
+    {
+      "id": "dungeon_unlock",
+      "lang": "language_10029366"
+    },
+    {
+      "id": "dungeon_restart_fail",
+      "lang": "language_10019720"
+    },
+    {
+      "id": "datatrack_entrance_handbook",
+      "lang": "language_10005062"
+    },
+    {
+      "id": "datatrack_entrance_normal",
+      "lang": "language_10029701"
+    },
+    {
+      "id": "datatrack_shareaction_success",
+      "lang": "language_10019678"
+    },
+    {
+      "id": "datatrack_shareaction_failure",
+      "lang": "language_10019683"
+    },
+    {
+      "id": "datatrack_shareaction_cancel",
+      "lang": "language_10029702"
+    },
+    {
+      "id": "datatrack_room_place_block",
+      "lang": "language_10029703"
+    },
+    {
+      "id": "datatrack_room_back_block",
+      "lang": "language_10029704"
+    },
+    {
+      "id": "langtype_en",
+      "lang": "language_10029705"
+    },
+    {
+      "id": "langtype_jp",
+      "lang": "language_10029706"
+    },
+    {
+      "id": "langtype_zh",
+      "lang": "language_10029707"
+    },
+    {
+      "id": "langtype_kr",
+      "lang": "language_10029708"
+    },
+    {
+      "id": "langtype_thai",
+      "lang": "language_10029709"
+    },
+    {
+      "id": "en",
+      "lang": "language_10029710"
+    },
+    {
+      "id": "jp",
+      "lang": "language_10029711"
+    },
+    {
+      "id": "zh",
+      "lang": "language_10029712"
+    },
+    {
+      "id": "zh_1",
+      "lang": "language_10029712"
+    },
+    {
+      "id": "kr",
+      "lang": "language_10029713"
+    },
+    {
+      "id": "thai",
+      "lang": "language_10029714"
+    },
+    {
+      "id": "tw",
+      "lang": "language_10029715"
+    },
+    {
+      "id": "weekwalkreviveview_ruledesc",
+      "lang": "language_10029716"
+    },
+    {
+      "id": "room_theme_collected",
+      "lang": "language_10029717"
+    },
+    {
+      "id": "room_theme_notcollected",
+      "lang": "language_10029718"
+    },
+    {
+      "id": "seasonselectbuffview_enveffect",
+      "lang": "language_10029719"
+    },
+    {
+      "id": "season_time_unlock",
+      "lang": "language_10029720"
+    },
+    {
+      "id": "season_episode_score_reach",
+      "lang": "language_10029721"
+    },
+    {
+      "id": "seasonselectbuffview_unlockcondition",
+      "lang": "language_10029722"
+    },
+    {
+      "id": "season_limit_level_score",
+      "lang": "language_10029723"
+    },
+    {
+      "id": "season_permanent_level_score",
+      "lang": "language_10029724"
+    },
+    {
+      "id": "seasonview_endtime",
+      "lang": "language_10029725"
+    },
+    {
+      "id": "voice_package_update",
+      "lang": "language_10029726"
+    },
+    {
+      "id": "voice_package_update_2",
+      "lang": "language_10029727"
+    },
+    {
+      "id": "voice_package_update_3",
+      "lang": "language_10029728"
+    },
+    {
+      "id": "voice_package_update_4",
+      "lang": "language_10029729"
+    },
+    {
+      "id": "voice_package_update_5",
+      "lang": "language_10029730"
+    },
+    {
+      "id": "voice_package_cancel_download",
+      "lang": "language_10029731"
+    },
+    {
+      "id": "voice_package_switch_late",
+      "lang": "language_10029732"
+    },
+    {
+      "id": "voice_package_unzip",
+      "lang": "language_10029733"
+    },
+    {
+      "id": "versionactivity_store_tag_1",
+      "lang": "language_10029734"
+    },
+    {
+      "id": "versionactivity_store_tag_2",
+      "lang": "language_10029735"
+    },
+    {
+      "id": "versionactivity_store_tag_3",
+      "lang": "language_10029736"
+    },
+    {
+      "id": "versionactivity_store_tag_4",
+      "lang": "language_10029737"
+    },
+    {
+      "id": "versionactivity_store_1_2_tag_1",
+      "lang": "language_10029738"
+    },
+    {
+      "id": "versionactivity_store_1_2_tag_2",
+      "lang": "language_10029739"
+    },
+    {
+      "id": "versionactivity_store_1_2_tag_3",
+      "lang": "language_10029740"
+    },
+    {
+      "id": "voice_package_update_error_1",
+      "lang": "language_10029741"
+    },
+    {
+      "id": "voice_package_update_error_2",
+      "lang": "language_10029742"
+    },
+    {
+      "id": "voice_package_update_unzip",
+      "lang": "language_10029743"
+    },
+    {
+      "id": "voice_package_default",
+      "lang": "language_10029744"
+    },
+    {
+      "id": "versionactivity_remain_day",
+      "lang": "language_10029745"
+    },
+    {
+      "id": "buffeffect_unlock",
+      "lang": "language_10029746"
+    },
+    {
+      "id": "difficult_unlock",
+      "lang": "language_10029747"
+    },
+    {
+      "id": "unlock_buffeffect",
+      "lang": "language_10029748"
+    },
+    {
+      "id": "unlock_difficult",
+      "lang": "language_10029749"
+    },
+    {
+      "id": "activity_warmup_remain_time",
+      "lang": "language_10029750"
+    },
+    {
+      "id": "activity_remain_time",
+      "lang": "language_10029751"
+    },
+    {
+      "id": "activity_task_remain_time",
+      "lang": "language_10029752"
+    },
+    {
+      "id": "activity_warmup_location",
+      "lang": "language_10029753"
+    },
+    {
+      "id": "confirm",
+      "lang": "language_10029754"
+    },
+    {
+      "id": "cancel",
+      "lang": "language_10029702"
+    },
+    {
+      "id": "retry",
+      "lang": "language_10029755"
+    },
+    {
+      "id": "versionactivity_baozhi_time",
+      "lang": "language_10029756"
+    },
+    {
+      "id": "store_goods_level_limit",
+      "lang": "language_10029757"
+    },
+    {
+      "id": "meilannientrustview_date",
+      "lang": "language_10029758"
+    },
+    {
+      "id": "meilannientrustview_bossdesc",
+      "lang": "language_10029759"
+    },
+    {
+      "id": "bp_active_pay1",
+      "lang": "language_10029760"
+    },
+    {
+      "id": "bp_active_pay2",
+      "lang": "language_10029761"
+    },
+    {
+      "id": "bp_active_pay1_en",
+      "lang": "language_10029762"
+    },
+    {
+      "id": "bp_active_pay2_en",
+      "lang": "language_10029763"
+    },
+    {
+      "id": "bp_buy_reward_tip",
+      "lang": "language_10029764"
+    },
+    {
+      "id": "bp_buyed",
+      "lang": "language_10029765"
+    },
+    {
+      "id": "bp_dateLeft",
+      "lang": "language_10029766"
+    },
+    {
+      "id": "bp_dateLeft_1h",
+      "lang": "language_10029767"
+    },
+    {
+      "id": "bp_dateLeft_timeout",
+      "lang": "language_10019698"
+    },
+    {
+      "id": "bp_level",
+      "lang": "language_10029768"
+    },
+    {
+      "id": "bp_score",
+      "lang": "language_10003023"
+    },
+    {
+      "id": "bp_rule",
+      "lang": "language_10055559"
+    },
+    {
+      "id": "bp_score_limit",
+      "lang": "language_10029770"
+    },
+    {
+      "id": "push_box_revert_step_fail",
+      "lang": "language_10020154"
+    },
+    {
+      "id": "push_box_revert_step_fail1",
+      "lang": "language_10029771"
+    },
+    {
+      "id": "meilannisettlementview_countdown",
+      "lang": "language_10029772"
+    },
+    {
+      "id": "meilannisettlementview_countdown2",
+      "lang": "language_10029773"
+    },
+    {
+      "id": "chessgame_clear_round_limit",
+      "lang": "language_10029774"
+    },
+    {
+      "id": "chessgame_clear_interact_finish",
+      "lang": "language_10029775"
+    },
+    {
+      "id": "chessgame_clear_normal",
+      "lang": "language_10029776"
+    },
+    {
+      "id": "meilannidialogitem_countdown",
+      "lang": "language_10029777"
+    },
+    {
+      "id": "meilannidialogitem_countdown2",
+      "lang": "language_10029778"
+    },
+    {
+      "id": "meilanni_total_day",
+      "lang": "language_10029779"
+    },
+    {
+      "id": "meilanni_total_day2",
+      "lang": "language_10029780"
+    },
+    {
+      "id": "meilanni_pingfen",
+      "lang": "language_10018262"
+    },
+    {
+      "id": "skin_confirm_quantifier1",
+      "lang": "language_10029781"
+    },
+    {
+      "id": "skin_transform_desc",
+      "lang": "language_10029782"
+    },
+    {
+      "id": "lei_mi_te_bei_dungeon",
+      "lang": "language_10029783"
+    },
+    {
+      "id": "lei_mi_te_bei_dungeon_time1",
+      "lang": "language_10029784"
+    },
+    {
+      "id": "lei_mi_te_bei_dungeon_time2",
+      "lang": "language_10029785"
+    },
+    {
+      "id": "lei_mi_te_bei_placeholder",
+      "lang": "language_10029786"
+    },
+    {
+      "id": "versionactivity_1_2_114basicNum",
+      "lang": "language_10029787"
+    },
+    {
+      "id": "versionactivity_1_2_114attention",
+      "lang": "language_10029788"
+    },
+    {
+      "id": "versionactivity_1_2_114success_rate",
+      "lang": "language_10029789"
+    },
+    {
+      "id": "versionactivity_1_2_114round_1",
+      "lang": "language_10029790"
+    },
+    {
+      "id": "versionactivity_1_2_114round_2",
+      "lang": "language_10029791"
+    },
+    {
+      "id": "versionactivity_1_2_114daydes",
+      "lang": "language_10029792"
+    },
+    {
+      "id": "versionactivity_1_2_114keydaydes",
+      "lang": "language_10029793"
+    },
+    {
+      "id": "versionactivity_1_2_114meetfinish",
+      "lang": "language_10029794"
+    },
+    {
+      "id": "versionactivity_1_2_114meetblock",
+      "lang": "language_10029795"
+    },
+    {
+      "id": "versionactivity_1_2_114unlocktravel",
+      "lang": "language_10029796"
+    },
+    {
+      "id": "versionactivity_1_2_114unlockmeet",
+      "lang": "language_10029797"
+    },
+    {
+      "id": "account_level_unlock",
+      "lang": "language_10029798"
+    },
+    {
+      "id": "dungeonweekwalkview_resettime",
+      "lang": "language_10029799"
+    },
+    {
+      "id": "roomproductlinelevelup_roomtips",
+      "lang": "language_10029800"
+    },
+    {
+      "id": "roomproductlinelevelup_level",
+      "lang": "language_10029801"
+    },
+    {
+      "id": "setting_lang_donwload_tips",
+      "lang": "language_10029802"
+    },
+    {
+      "id": "roommaterialtipview_owner",
+      "lang": "language_10029803"
+    },
+    {
+      "id": "remain",
+      "lang": "language_10029804"
+    },
+    {
+      "id": "not_enough_one_hour",
+      "lang": "language_10029805"
+    },
+    {
+      "id": "p_settingvoicepackageview_desc",
+      "lang": "language_10029806"
+    },
+    {
+      "id": "p_settingvoicepackageview_tip",
+      "lang": "language_10029807"
+    },
+    {
+      "id": "roominitbuildingview_dust",
+      "lang": "language_10003223"
+    },
+    {
+      "id": "roominitbuildingview_coin",
+      "lang": "language_10003217"
+    },
+    {
+      "id": "roominitbuildingview_fullpro",
+      "lang": "language_10029808"
+    },
+    {
+      "id": "roominitbuildingview_stopproduct",
+      "lang": "language_10029809"
+    },
+    {
+      "id": "versionactivitystoreview_remaintime",
+      "lang": "language_10029810"
+    },
+    {
+      "id": "versionact_109_itemplace_hint",
+      "lang": "language_10029811"
+    },
+    {
+      "id": "weekwalkshallowsettlementview_layer",
+      "lang": "language_10029812"
+    },
+    {
+      "id": "weekwalkshallowsettlementview_starcount",
+      "lang": "language_10029813"
+    },
+    {
+      "id": "weekwalkdeeplayernoticeview_lastprogress",
+      "lang": "language_10029814"
+    },
+    {
+      "id": "weekwalkdeeplayernoticeview_noprogress",
+      "lang": "language_10029815"
+    },
+    {
+      "id": "explore_op_move",
+      "lang": "language_10029816"
+    },
+    {
+      "id": "explore_op_fix",
+      "lang": "language_10029817"
+    },
+    {
+      "id": "explore_op_interact",
+      "lang": "language_10029818"
+    },
+    {
+      "id": "versionactivity_1_2_117result_1",
+      "lang": "language_10029819"
+    },
+    {
+      "id": "versionactivity_1_2_117result_2",
+      "lang": "language_10029820"
+    },
+    {
+      "id": "versionactivity_1_2_117result_3",
+      "lang": "language_10029821"
+    },
+    {
+      "id": "versionactivity_1_2_117desc_1",
+      "lang": "language_10029822"
+    },
+    {
+      "id": "versionactivity_1_2_119_unlock",
+      "lang": "language_10029823"
+    },
+    {
+      "id": "versionactivity_1_2_119_unlock1",
+      "lang": "language_10019891"
+    },
+    {
+      "id": "meilannidialogitem_eliminat",
+      "lang": "language_10029824"
+    },
+    {
+      "id": "meilannidialogitem_fight",
+      "lang": "language_10029825"
+    },
+    {
+      "id": "meilannidialogitem_fightsuccess",
+      "lang": "language_10029826"
+    },
+    {
+      "id": "meilannidialogitem_noscore",
+      "lang": "language_10029827"
+    },
+    {
+      "id": "versionactivity_1_2_herogroupview_placedcount",
+      "lang": "language_10029828"
+    },
+    {
+      "id": "seasonherogroupview_seasonherogroup",
+      "lang": "language_10029829"
+    },
+    {
+      "id": "teachnoteview_start",
+      "lang": "language_10029830"
+    },
+    {
+      "id": "teachnoteview_restart",
+      "lang": "language_10029831"
+    },
+    {
+      "id": "activityshow_remaintime",
+      "lang": "language_10029832"
+    },
+    {
+      "id": "handbook_equipfiter_0",
+      "lang": "language_10003208"
+    },
+    {
+      "id": "handbook_equipfiter_1",
+      "lang": "language_10029833"
+    },
+    {
+      "id": "handbook_equipfiter_2",
+      "lang": "language_10029834"
+    },
+    {
+      "id": "signinview_toptxt",
+      "lang": "language_10029835"
+    },
+    {
+      "id": "signinview_bottomtxt",
+      "lang": "language_10029836"
+    },
+    {
+      "id": "materialview_source",
+      "lang": "language_10029837"
+    },
+    {
+      "id": "seasonreadprocessview_rewardtips",
+      "lang": "language_10029838"
+    },
+    {
+      "id": "seasonmainview_unlocksupermarket",
+      "lang": "language_10029839"
+    },
+    {
+      "id": "season_compose_hint1",
+      "lang": "language_10090096"
+    },
+    {
+      "id": "season_compose_hint2",
+      "lang": "language_10029841"
+    },
+    {
+      "id": "season_effect_desc_template",
+      "lang": "language_10029842"
+    },
+    {
+      "id": "season_attr_up",
+      "lang": "language_90001002"
+    },
+    {
+      "id": "season_attr_down",
+      "lang": "language_10029843"
+    },
+    {
+      "id": "activityshow_unlimittime",
+      "lang": "language_10029844"
+    },
+    {
+      "id": "helpcontentitem_lefttag",
+      "lang": "language_10029845"
+    },
+    {
+      "id": "helpcontentitem_righttag",
+      "lang": "language_10029846"
+    },
+    {
+      "id": "confirm_quit",
+      "lang": "language_10029490"
+    },
+    {
+      "id": "versionactivity_1_2_117daytxt",
+      "lang": "language_10029847"
+    },
+    {
+      "id": "left_challenge_count",
+      "lang": "language_10029848"
+    },
+    {
+      "id": "season_herogroup_one",
+      "lang": "language_10029849"
+    },
+    {
+      "id": "season_herogroup_two",
+      "lang": "language_10029850"
+    },
+    {
+      "id": "season_herogroup_three",
+      "lang": "language_10029851"
+    },
+    {
+      "id": "season_herogroup_four",
+      "lang": "language_10029852"
+    },
+    {
+      "id": "season_retail_specialtips",
+      "lang": "language_10029853"
+    },
+    {
+      "id": "season_retail_normaltips",
+      "lang": "language_10029854"
+    },
+    {
+      "id": "test_task_unlock_time",
+      "lang": "language_10029855"
+    },
+    {
+      "id": "storemonthcard_tips",
+      "lang": "language_10035519"
+    },
+    {
+      "id": "activityweekwalkdeepview_empty",
+      "lang": "language_10029857"
+    },
+    {
+      "id": "activityweekwalkdeepview_lcok",
+      "lang": "language_10019932"
+    },
+    {
+      "id": "activityweekwalkdeepview_resetremaintime",
+      "lang": "language_10029858"
+    },
+    {
+      "id": "activity_daily_refresh_rule",
+      "lang": "language_10029859"
+    },
+    {
+      "id": "activitynorsignview_remaintime",
+      "lang": "language_10029860"
+    },
+    {
+      "id": "activity_note_name_1",
+      "lang": "language_10029861"
+    },
+    {
+      "id": "activity_note_name_2",
+      "lang": "language_10029862"
+    },
+    {
+      "id": "activity_note_name_3",
+      "lang": "language_10029863"
+    },
+    {
+      "id": "activity_note_name_4",
+      "lang": "language_10029864"
+    },
+    {
+      "id": "activity_note_name_5",
+      "lang": "language_10029865"
+    },
+    {
+      "id": "p_meilannidialogitem_endtitle1",
+      "lang": "language_10029866"
+    },
+    {
+      "id": "p_meilannidialogitem_enddesc1",
+      "lang": "language_10029867"
+    },
+    {
+      "id": "p_meilannidialogitem_endbtn1",
+      "lang": "language_10029868"
+    },
+    {
+      "id": "p_meilannidialogitem_enddesc2",
+      "lang": "language_10029869"
+    },
+    {
+      "id": "p_meilannidialogitem_endbtn2",
+      "lang": "language_10029870"
+    },
+    {
+      "id": "p_meilannidialogitem_enddesc3",
+      "lang": "language_10029871"
+    },
+    {
+      "id": "p_meilannidialogitem_endbtn3",
+      "lang": "language_10029872"
+    },
+    {
+      "id": "p_meilannidialogitem_enddesc4",
+      "lang": "language_10029873"
+    },
+    {
+      "id": "p_meilannidialogitem_endbtn4",
+      "lang": "language_10029872"
+    },
+    {
+      "id": "p_meilannidialogitem_endtitle2",
+      "lang": "language_10029866"
+    },
+    {
+      "id": "p_meilannidialogitem_endtitle3",
+      "lang": "language_10029874"
+    },
+    {
+      "id": "p_meilannidialogitem_endtitle4",
+      "lang": "language_10029874"
+    },
+    {
+      "id": "seasonretailview_unrefreshlevel",
+      "lang": "language_10029875"
+    },
+    {
+      "id": "seasonretailview_rule1",
+      "lang": "language_10029876"
+    },
+    {
+      "id": "seasonretailview_rare_1",
+      "lang": "language_10029877"
+    },
+    {
+      "id": "seasonretailview_rare_2",
+      "lang": "language_10029878"
+    },
+    {
+      "id": "seasonretailview_rare_3",
+      "lang": "language_10029879"
+    },
+    {
+      "id": "seasonretailview_rare_4",
+      "lang": "language_10029880"
+    },
+    {
+      "id": "season_retail_special_rule_title",
+      "lang": "language_10029881"
+    },
+    {
+      "id": "packagestoregoodsitem_level",
+      "lang": "language_10029882"
+    },
+    {
+      "id": "versionactivityexchange_rule",
+      "lang": "language_10029883"
+    },
+    {
+      "id": "versionactivity_1_2_114diceview_doing",
+      "lang": "language_10029884"
+    },
+    {
+      "id": "versionactivity_1_2_114diceview_finish",
+      "lang": "language_10029885"
+    },
+    {
+      "id": "versionactivity_1_2_114mainview_lockdesc",
+      "lang": "language_10029886"
+    },
+    {
+      "id": "versionactivity_1_2_yaxian_unlock_skill_1",
+      "lang": "language_10029887"
+    },
+    {
+      "id": "versionactivity_1_2_yaxian_unlock_skill_2",
+      "lang": "language_10029888"
+    },
+    {
+      "id": "versionactivity_1_2_yaxian_up_to_level",
+      "lang": "language_10029889"
+    },
+    {
+      "id": "versionactivity_1_2_yaxian_not_found_tooth",
+      "lang": "language_10029890"
+    },
+    {
+      "id": "versionactivity_1_2_tradesuccessview_nextgoal",
+      "lang": "language_10029891"
+    },
+    {
+      "id": "versionactivity_1_2_tradesuccessview_totalget",
+      "lang": "language_10029892"
+    },
+    {
+      "id": "versionactivity_1_2_114enterview_remaintime",
+      "lang": "language_10029893"
+    },
+    {
+      "id": "versionactivity_1_2_114enterview_isend",
+      "lang": "language_10019781"
+    },
+    {
+      "id": "versionactivity_1_2_storeview_tagtype_1",
+      "lang": "language_10029894"
+    },
+    {
+      "id": "versionactivity_1_2_daily_episode_btn",
+      "lang": "language_10029895"
+    },
+    {
+      "id": "v1a2_tradequoteview_tips1",
+      "lang": "language_10029896"
+    },
+    {
+      "id": "v1a2_tradequoteview_tips2",
+      "lang": "language_10029897"
+    },
+    {
+      "id": "seasonmainview_layeropencondition",
+      "lang": "language_10029898"
+    },
+    {
+      "id": "seasonmainview_timeopencondition",
+      "lang": "language_10029899"
+    },
+    {
+      "id": "v1a2_tradequoteview_remaincount",
+      "lang": "language_10029900"
+    },
+    {
+      "id": "versionactivity_store_goods_tag_1",
+      "lang": "language_10029894"
+    },
+    {
+      "id": "storeskinpreviewview_btnswitch",
+      "lang": "language_10029901"
+    },
+    {
+      "id": "activity119view_remain",
+      "lang": "language_10029804"
+    },
+    {
+      "id": "herogroupeditview_recommend",
+      "lang": "language_10029902"
+    },
+    {
+      "id": "herogroupeditview_notrecommend",
+      "lang": "language_10029903"
+    },
+    {
+      "id": "versionactivity_1_2_tradedemand",
+      "lang": "language_10029904"
+    },
+    {
+      "id": "v1a2_114finisheventview_lastkeydayscore",
+      "lang": "language_10029905"
+    },
+    {
+      "id": "v1a2_114finisheventview_keydayscore",
+      "lang": "language_10029906"
+    },
+    {
+      "id": "v1a2_114eventselectview_question",
+      "lang": "language_10029907"
+    },
+    {
+      "id": "seasonmainrolecardname",
+      "lang": "language_10029908"
+    },
+    {
+      "id": "seasoncardnames",
+      "lang": "language_10029909"
+    },
+    {
+      "id": "else",
+      "lang": "language_10029910"
+    },
+    {
+      "id": "character_talent_template_normal_name",
+      "lang": "language_10029911"
+    },
+    {
+      "id": "multiple",
+      "lang": "language_10029912"
+    },
+    {
+      "id": "ruledetail",
+      "lang": "language_10029913"
+    },
+    {
+      "id": "adjustNum",
+      "lang": "language_10029914"
+    },
+    {
+      "id": "herogroup_trial_equip_tip",
+      "lang": "language_10029915"
+    },
+    {
+      "id": "activity_1_3_daily_refresh_rule",
+      "lang": "language_10029916"
+    },
+    {
+      "id": "astrology_tip1",
+      "lang": "language_10029917"
+    },
+    {
+      "id": "astrology_tip2",
+      "lang": "language_10029918"
+    },
+    {
+      "id": "astrology_tip3",
+      "lang": "language_10029919"
+    },
+    {
+      "id": "astrology_tip4",
+      "lang": "language_10029920"
+    },
+    {
+      "id": "astrology_tip5",
+      "lang": "language_10029921"
+    },
+    {
+      "id": "astrology_tip6",
+      "lang": "language_10029922"
+    },
+    {
+      "id": "verionactivity1_3radioview_remaintime",
+      "lang": "language_10029832"
+    },
+    {
+      "id": "versionactivity1_3_hardlocktip",
+      "lang": "language_10029923"
+    },
+    {
+      "id": "versionactivity1_3_daily",
+      "lang": "language_10029924"
+    },
+    {
+      "id": "versionactivity1_3_store_tag_1",
+      "lang": "language_10029925"
+    },
+    {
+      "id": "versionactivity1_3_store_tag_2",
+      "lang": "language_10029926"
+    },
+    {
+      "id": "versionactivity1_3_store_tag_3",
+      "lang": "language_10029927"
+    },
+    {
+      "id": "herogroup_common_name",
+      "lang": "language_10029928"
+    },
+    {
+      "id": "versionactivity1_3_buff_tip1",
+      "lang": "language_10029929"
+    },
+    {
+      "id": "versionactivity1_3_buff_tip2",
+      "lang": "language_10020205"
+    },
+    {
+      "id": "room_formula_need_desc",
+      "lang": "language_10029930"
+    },
+    {
+      "id": "room_formula_need_desc2",
+      "lang": "language_10029931"
+    },
+    {
+      "id": "room_formula_need_desc3",
+      "lang": "language_10029932"
+    },
+    {
+      "id": "room_formula_can_combine",
+      "lang": "language_10029933"
+    },
+    {
+      "id": "room_formula_combine",
+      "lang": "language_10029934"
+    },
+    {
+      "id": "room_formula_easy_combine",
+      "lang": "language_10029935"
+    },
+    {
+      "id": "room_formula_easy_combine_msg_box_tip",
+      "lang": "language_10029936"
+    },
+    {
+      "id": "roomstandbyview_highview_all",
+      "lang": "language_10029526"
+    },
+    {
+      "id": "refresh_remain_time",
+      "lang": "language_10029938"
+    },
+    {
+      "id": "explore_collect",
+      "lang": "language_10029939"
+    },
+    {
+      "id": "explore_collect_full",
+      "lang": "language_10029940"
+    },
+    {
+      "id": "achievement_category_normal",
+      "lang": "language_10029941"
+    },
+    {
+      "id": "achievement_category_play",
+      "lang": "language_10029942"
+    },
+    {
+      "id": "achievement_category_story",
+      "lang": "language_10029943"
+    },
+    {
+      "id": "achievement_category_action",
+      "lang": "language_10029944"
+    },
+    {
+      "id": "achievement_name",
+      "lang": "language_10005086"
+    },
+    {
+      "id": "settings_game",
+      "lang": "language_10029945"
+    },
+    {
+      "id": "turnback_addition",
+      "lang": "language_10029946"
+    },
+    {
+      "id": "turnback_addition_times",
+      "lang": "language_10029947"
+    },
+    {
+      "id": "season_review_mail_content",
+      "lang": "language_10029948"
+    },
+    {
+      "id": "v1a4_bossrushleveldetail_txt_scoretotalnum",
+      "lang": "language_10029949"
+    },
+    {
+      "id": "v1a4_bossrushleveldetail_txt_doubletimes",
+      "lang": "language_10029950"
+    },
+    {
+      "id": "room_layoutplan_rename_title",
+      "lang": "language_10029951"
+    },
+    {
+      "id": "room_layoutplan_create_title",
+      "lang": "language_10029952"
+    },
+    {
+      "id": "room_layoutplan_copy_title",
+      "lang": "language_10029953"
+    },
+    {
+      "id": "room_layoutplan_default_name",
+      "lang": "language_10029954"
+    },
+    {
+      "id": "room_layoutplan_look_details",
+      "lang": "language_10029955"
+    },
+    {
+      "id": "room_layoutplan_cover_tips",
+      "lang": "language_10029956"
+    },
+    {
+      "id": "room_layoutplan_copy_lack_desc",
+      "lang": "language_10029957"
+    },
+    {
+      "id": "room_layoutplan_copy_tips_title",
+      "lang": "language_10029955"
+    },
+    {
+      "id": "room_layoutplan_blockpackage_lack",
+      "lang": "language_10029958"
+    },
+    {
+      "id": "room_layoutplan_birthdayblock_lack",
+      "lang": "language_10029959"
+    },
+    {
+      "id": "room_layoutplan_building_lack",
+      "lang": "language_10029960"
+    },
+    {
+      "id": "room_layoutplan_namemask_lack",
+      "lang": "language_10029961"
+    },
+    {
+      "id": "limit_first_pass",
+      "lang": "language_10029962"
+    },
+    {
+      "id": "v1a4_tokenstore_confirm",
+      "lang": "language_10029963"
+    },
+    {
+      "id": "lessOneMinute",
+      "lang": "language_10029673"
+    },
+    {
+      "id": "turnback_remain",
+      "lang": "language_10029745"
+    },
+    {
+      "id": "turnback_remaintime",
+      "lang": "language_10029964"
+    },
+    {
+      "id": "v1a4_bossrush_resultpanel_txt_double",
+      "lang": "language_10029965"
+    },
+    {
+      "id": "v1a4_role37_puzzle_oper_full",
+      "lang": "language_10029966"
+    },
+    {
+      "id": "v1a4_role37_puzzle_animal_wolf",
+      "lang": "language_10027098"
+    },
+    {
+      "id": "v1a4_role37_puzzle_animal_sheep",
+      "lang": "language_10029967"
+    },
+    {
+      "id": "v1a4_role37_puzzle_animal_dish",
+      "lang": "language_10029968"
+    },
+    {
+      "id": "v1a4_role37_puzzle_leftbank_leave",
+      "lang": "language_10029969"
+    },
+    {
+      "id": "v1a4_role37_puzzle_rightbank_leave",
+      "lang": "language_10029970"
+    },
+    {
+      "id": "v1a4_role37_puzzle_snailmove_result",
+      "lang": "language_10029971"
+    },
+    {
+      "id": "v1a4_role37_puzzle_monkeybanana_result1",
+      "lang": "language_10029972"
+    },
+    {
+      "id": "v1a4_role37_level_prologue",
+      "lang": "language_10029973"
+    },
+    {
+      "id": "task_remaintime",
+      "lang": "language_10029974"
+    },
+    {
+      "id": "has_num",
+      "lang": "language_10029975"
+    },
+    {
+      "id": "not_has",
+      "lang": "language_10029976"
+    },
+    {
+      "id": "season_review_mail_tips",
+      "lang": "language_10029977"
+    },
+    {
+      "id": "chapter",
+      "lang": "language_10029978"
+    },
+    {
+      "id": "season_review",
+      "lang": "language_10029979"
+    },
+    {
+      "id": "v1a4_bossrushleveldetail_remain_days_hours",
+      "lang": "language_10029980"
+    },
+    {
+      "id": "v1a4_bossrushleveldetail_remain_hours",
+      "lang": "language_10029981"
+    },
+    {
+      "id": "v1a4_bossrushleveldetail_remain_mins",
+      "lang": "language_10029982"
+    },
+    {
+      "id": "v1a4_bossrushleveldetail_remain_1min",
+      "lang": "language_10029983"
+    },
+    {
+      "id": "v1a4_bossRush_ig_scoretips_txt_scorenum",
+      "lang": "language_10029984"
+    },
+    {
+      "id": "v1a4_role37_puzzle_round",
+      "lang": "language_10029985"
+    },
+    {
+      "id": "turnback_end",
+      "lang": "language_10019781"
+    },
+    {
+      "id": "summon_multiup4_rule_title",
+      "lang": "language_10029986"
+    },
+    {
+      "id": "achievemententryview_type_1",
+      "lang": "language_10029987"
+    },
+    {
+      "id": "achievemententryview_type_2",
+      "lang": "language_10029988"
+    },
+    {
+      "id": "achievemententryview_type_3",
+      "lang": "language_10029989"
+    },
+    {
+      "id": "achievemententryview_type_4",
+      "lang": "language_10029990"
+    },
+    {
+      "id": "achievementselectview_selectsingle",
+      "lang": "language_10029991"
+    },
+    {
+      "id": "achievementselectview_selectgroup",
+      "lang": "language_10029992"
+    },
+    {
+      "id": "achievement_group",
+      "lang": "language_10029993"
+    },
+    {
+      "id": "rolestoryrewardstate_1",
+      "lang": "language_10019891"
+    },
+    {
+      "id": "rolestoryrewardstate_2",
+      "lang": "language_10029994"
+    },
+    {
+      "id": "rolestoryrewardstate_3",
+      "lang": "language_10029995"
+    },
+    {
+      "id": "summon_timelimit_free",
+      "lang": "language_10029996"
+    },
+    {
+      "id": "summon_free_after_time",
+      "lang": "language_10029997"
+    },
+    {
+      "id": "v1a4_role37_puzzle_monkeybanana_result2",
+      "lang": "language_10029998"
+    },
+    {
+      "id": "v1a4_role37_puzzle_monkeybanana_result3",
+      "lang": "language_10029999"
+    },
+    {
+      "id": "v1a4_role37_puzzle_monkeybanana_result4",
+      "lang": "language_10030000"
+    },
+    {
+      "id": "v1a4_role37_puzzle_animal_leftbank",
+      "lang": "language_10030001"
+    },
+    {
+      "id": "v1a4_role37_puzzle_animal_rightbank",
+      "lang": "language_10030002"
+    },
+    {
+      "id": "v1a4_role37_puzzle_boat_leave",
+      "lang": "language_10030003"
+    },
+    {
+      "id": "v1a4_role37_puzzle_sortbyrules_result",
+      "lang": "language_10030004"
+    },
+    {
+      "id": "v1a4_role37_puzzle_sortbyrules_error",
+      "lang": "language_10030005"
+    },
+    {
+      "id": "activity_remain",
+      "lang": "language_10030006"
+    },
+    {
+      "id": "rolestoryactivitytips",
+      "lang": "language_10030007"
+    },
+    {
+      "id": "v1a4_role37_puzzle_animal_movecnt",
+      "lang": "language_10030008"
+    },
+    {
+      "id": "v1a4_bossrushleveldetail_unlock_days_hours",
+      "lang": "language_10030009"
+    },
+    {
+      "id": "v1a4_bossrushleveldetail_unlock_hours",
+      "lang": "language_10030010"
+    },
+    {
+      "id": "v1a4_bossrushleveldetail_unlock_mins",
+      "lang": "language_10030011"
+    },
+    {
+      "id": "v1a4_bossrushleveldetail_unlock_1min",
+      "lang": "language_10030012"
+    },
+    {
+      "id": "v1a4_bossrush_resultpanel_txt_total",
+      "lang": "language_10030013"
+    },
+    {
+      "id": "rolestoryactivitytips_wave",
+      "lang": "language_10030014"
+    },
+    {
+      "id": "v1a4_role37_puzzle_monkeybanana_not_enough",
+      "lang": "language_10030015"
+    },
+    {
+      "id": "v1a4_role37_puzzle_error_tip",
+      "lang": "language_10030016"
+    },
+    {
+      "id": "v1a4_role37_puzzle_monkeybanana_arrive_destination",
+      "lang": "language_10030017"
+    },
+    {
+      "id": "v1a4_role37_puzzle_animal_pick_fault",
+      "lang": "language_10030018"
+    },
+    {
+      "id": "v1a4_role37_puzzle_animal_boat_full",
+      "lang": "language_10030019"
+    },
+    {
+      "id": "v1a4_role37_puzzle_animal_eat",
+      "lang": "language_10030020"
+    },
+    {
+      "id": "v1a4_role37_puzzle_snailmove_updown",
+      "lang": "language_10030021"
+    },
+    {
+      "id": "v1a4_role37_puzzle_snailmove_single",
+      "lang": "language_10030022"
+    },
+    {
+      "id": "v1a4_role37_puzzle_snailmove_down",
+      "lang": "language_10030023"
+    },
+    {
+      "id": "v1a4_role37_puzzle_snailmove_up",
+      "lang": "language_10030024"
+    },
+    {
+      "id": "v1a4_role37_puzzle_sortbyrules_only",
+      "lang": "language_10030025"
+    },
+    {
+      "id": "v1a4_role37_puzzle_animal_movecnt_notenough",
+      "lang": "language_10030026"
+    },
+    {
+      "id": "rolestory_weektask_desc",
+      "lang": "language_10041872"
+    },
+    {
+      "id": "v1a4_bossrushleveldetail_txt_target",
+      "lang": "language_10030028"
+    },
+    {
+      "id": "dispatch_cost_time",
+      "lang": "language_10030029"
+    },
+    {
+      "id": "v1a5_aizila_level",
+      "lang": "language_10030030"
+    },
+    {
+      "id": "v1a5_aizila_nolevel",
+      "lang": "language_10030031"
+    },
+    {
+      "id": "v1a5_aizila_equip_effect",
+      "lang": "language_10030032"
+    },
+    {
+      "id": "v1a5_aizila_equip_noeffect",
+      "lang": "language_10030033"
+    },
+    {
+      "id": "v1a5_aizila_equip_effect_nextlv",
+      "lang": "language_10030034"
+    },
+    {
+      "id": "v1a5_aizila_day_str",
+      "lang": "language_10030035"
+    },
+    {
+      "id": "v1a5_aizila_day_explore",
+      "lang": "language_10030036"
+    },
+    {
+      "id": "v1a5_aizila_action_point_tag",
+      "lang": "language_10030037"
+    },
+    {
+      "id": "v1a5_aizila_action_point_cost",
+      "lang": "language_10030038"
+    },
+    {
+      "id": "v1a5_aizila_select_opitionid_no",
+      "lang": "language_10030039"
+    },
+    {
+      "id": "v1a5_aizila_role_state_effect_desc",
+      "lang": "language_10030040"
+    },
+    {
+      "id": "v1a5_aizila_keep_material_rate",
+      "lang": "language_10030041"
+    },
+    {
+      "id": "v1a5_aizila_unknown_question_mark",
+      "lang": "language_10000908"
+    },
+    {
+      "id": "v1a5_aizila_safe_exit_game",
+      "lang": "language_10030042"
+    },
+    {
+      "id": "v1a5_aizila_exit_game",
+      "lang": "language_10030043"
+    },
+    {
+      "id": "versionactivity1_5_store_tag_1",
+      "lang": "language_10030044"
+    },
+    {
+      "id": "versionactivity1_5_store_tag_2",
+      "lang": "language_10030045"
+    },
+    {
+      "id": "versionactivity1_5_store_tag_3",
+      "lang": "language_10030046"
+    },
+    {
+      "id": "season_review_mail_content1",
+      "lang": "language_10030047"
+    },
+    {
+      "id": "v1a5_peaceulu_mainview_times",
+      "lang": "language_10030048"
+    },
+    {
+      "id": "summonpooldetail_luckybag_prop",
+      "lang": "language_10030049"
+    },
+    {
+      "id": "summonpooldetail_luckybag_prop2",
+      "lang": "language_10030050"
+    },
+    {
+      "id": "v1a5_news_order_goto_title",
+      "lang": "language_10030051"
+    },
+    {
+      "id": "v1a5_builde_can_build",
+      "lang": "language_10030052"
+    },
+    {
+      "id": "v1a5_news_order_return_view",
+      "lang": "language_10030053"
+    },
+    {
+      "id": "v1a5_revival_task_finish_tip",
+      "lang": "language_10030054"
+    },
+    {
+      "id": "storyactivitysection",
+      "lang": "language_10030055"
+    },
+    {
+      "id": "achievementtoastitem_upgradegroup",
+      "lang": "language_10030056"
+    },
+    {
+      "id": "talent_character_talentcn1",
+      "lang": "language_10005055"
+    },
+    {
+      "id": "talent_character_talentcn6",
+      "lang": "language_10030057"
+    },
+    {
+      "id": "talent_character_talenten1",
+      "lang": "language_10030058"
+    },
+    {
+      "id": "talent_character_talenten6",
+      "lang": "language_10030059"
+    },
+    {
+      "id": "talent_charactertalent_txt1",
+      "lang": "language_10030060"
+    },
+    {
+      "id": "talent_charactertalent_txt6",
+      "lang": "language_10030061"
+    },
+    {
+      "id": "talent_charactertalentlevelup_leveltxt1",
+      "lang": "language_10005055"
+    },
+    {
+      "id": "talent_charactertalentlevelup_leveltxt6",
+      "lang": "language_10030057"
+    },
+    {
+      "id": "talent_charactertalentlevelup_btntalent1",
+      "lang": "language_10030062"
+    },
+    {
+      "id": "talent_charactertalentlevelup_btntalent6",
+      "lang": "language_10030063"
+    },
+    {
+      "id": "talent_charactertalentlevelupresult_tip1",
+      "lang": "language_10030064"
+    },
+    {
+      "id": "talent_charactertalentlevelupresult_tip6",
+      "lang": "language_10030065"
+    },
+    {
+      "id": "talent_charactertalentchess_template1",
+      "lang": "language_10029911"
+    },
+    {
+      "id": "talent_charactertalentchess_template6",
+      "lang": "language_10030066"
+    },
+    {
+      "id": "talent_charactertalentchess_staten1",
+      "lang": "language_10030067"
+    },
+    {
+      "id": "talent_charactertalentchess_staten6",
+      "lang": "language_10030067"
+    },
+    {
+      "id": "talent_characterrankup_talentlevellimit1",
+      "lang": "language_10029691"
+    },
+    {
+      "id": "talent_characterrankup_talentlevellimit6",
+      "lang": "language_10030068"
+    },
+    {
+      "id": "achievementtoastitem_achievementcompleted",
+      "lang": "language_10030069"
+    },
+    {
+      "id": "prelude",
+      "lang": "language_10030070"
+    },
+    {
+      "id": "achievementlevelview_upgradetips",
+      "lang": "language_10030071"
+    },
+    {
+      "id": "round_or_stacked_count",
+      "lang": "language_10030072"
+    },
+    {
+      "id": "cachot_quit_fight",
+      "lang": "language_10020453"
+    },
+    {
+      "id": "cachot_death_count",
+      "lang": "language_10030073"
+    },
+    {
+      "id": "cachot_progressview_curstage",
+      "lang": "language_10030074"
+    },
+    {
+      "id": "cachot_progressview_remaindoublescore",
+      "lang": "language_10033670"
+    },
+    {
+      "id": "cachot_abandon_award",
+      "lang": "language_10030076"
+    },
+    {
+      "id": "cachot_abort_fight",
+      "lang": "language_10030077"
+    },
+    {
+      "id": "cachot_continue_fight",
+      "lang": "language_10030078"
+    },
+    {
+      "id": "cachot_CollectionTypeName_Weapon",
+      "lang": "language_10030079"
+    },
+    {
+      "id": "cachot_CollectionTypeName_Protect",
+      "lang": "language_10030080"
+    },
+    {
+      "id": "cachot_CollectionTypeName_Decorate",
+      "lang": "language_10030081"
+    },
+    {
+      "id": "cachot_CollectionTypeName_Magic",
+      "lang": "language_10030082"
+    },
+    {
+      "id": "cachot_CollectionTypeName_Enchant",
+      "lang": "language_10030083"
+    },
+    {
+      "id": "cachot_CollectionTypeName_All",
+      "lang": "language_10003208"
+    },
+    {
+      "id": "cachotresultview_selectdifficult",
+      "lang": "language_10030084"
+    },
+    {
+      "id": "summon_custompick_selectnum",
+      "lang": "language_10030085"
+    },
+    {
+      "id": "season_review_mail_content2",
+      "lang": "language_10030086"
+    },
+    {
+      "id": "summon_limit_shop_remaintime",
+      "lang": "language_10030087"
+    },
+    {
+      "id": "summon_limit_banner_flag",
+      "lang": "language_10029894"
+    },
+    {
+      "id": "cachotdifficulty_originrole",
+      "lang": "language_10030088"
+    },
+    {
+      "id": "room_layoutplan_input_sharecode_tip",
+      "lang": "language_10030089"
+    },
+    {
+      "id": "room_layoutplan_create_sharecode_map",
+      "lang": "language_10030090"
+    },
+    {
+      "id": "room_layoutplan_create_sharecode_map_en",
+      "lang": "language_10030091"
+    },
+    {
+      "id": "room_layoutplan_use_sharecode_title",
+      "lang": "language_10030092"
+    },
+    {
+      "id": "room_layoutplan_use_sharecode_title_en",
+      "lang": "language_10030093"
+    },
+    {
+      "id": "room_layoutplan_share_notlack_desc",
+      "lang": "language_10030094"
+    },
+    {
+      "id": "room_layoutplan_share_lack_desc",
+      "lang": "language_10030095"
+    },
+    {
+      "id": "room_chatop_seek_share_title",
+      "lang": "language_10030096"
+    },
+    {
+      "id": "room_chatop_share_code_title",
+      "lang": "language_10030097"
+    },
+    {
+      "id": "room_chat_seek_share_content",
+      "lang": "language_10030098"
+    },
+    {
+      "id": "room_chat_share_code_content",
+      "lang": "language_10030099"
+    },
+    {
+      "id": "cachotdifficulty_scoreadd",
+      "lang": "language_10030100"
+    },
+    {
+      "id": "settings_push",
+      "lang": "language_10030101"
+    },
+    {
+      "id": "v1a6_bossrush_scheduleview_desc",
+      "lang": "language_10030102"
+    },
+    {
+      "id": "v1a6_bossrush_scoreview_updatetime",
+      "lang": "language_10030103"
+    },
+    {
+      "id": "v1a4_bossrush_resultview_txt_newrecord",
+      "lang": "language_10030104"
+    },
+    {
+      "id": "v1a4_bossrush_resultview_txt_newrecord_en",
+      "lang": "language_10030105"
+    },
+    {
+      "id": "v1a4_bossrush_resultview_txt_score",
+      "lang": "language_10030106"
+    },
+    {
+      "id": "v1a4_bossrush_resultview_txt_score_en",
+      "lang": "language_10030107"
+    },
+    {
+      "id": "v1a4_bossrush_storeview_buylimit",
+      "lang": "language_10030108"
+    },
+    {
+      "id": "v1a6_cachotresultview_roomNum",
+      "lang": "language_10030109"
+    },
+    {
+      "id": "summon_limit_ticket_gain",
+      "lang": "language_10030110"
+    },
+    {
+      "id": "remain_buy_count",
+      "lang": "language_10030111"
+    },
+    {
+      "id": "cachot_team_name",
+      "lang": "language_10030112"
+    },
+    {
+      "id": "cachot_seat_name",
+      "lang": "language_10030113"
+    },
+    {
+      "id": "v1a6_cachotprogressview_unlocktips_days",
+      "lang": "language_10030114"
+    },
+    {
+      "id": "v1a6_cachotprogressview_unlocktips_hours",
+      "lang": "language_10030115"
+    },
+    {
+      "id": "fightfail_returncost2",
+      "lang": "language_10030116"
+    },
+    {
+      "id": "x_round",
+      "lang": "language_10030117"
+    },
+    {
+      "id": "cachot_recruit",
+      "lang": "language_10030118"
+    },
+    {
+      "id": "cachot_team_add_hp",
+      "lang": "language_10030119"
+    },
+    {
+      "id": "cachot_team_reduce_hp",
+      "lang": "language_10030120"
+    },
+    {
+      "id": "cachot_multi_add_hp",
+      "lang": "language_10030121"
+    },
+    {
+      "id": "cachot_multi_reduce_hp",
+      "lang": "language_10030122"
+    },
+    {
+      "id": "antique",
+      "lang": "language_10030123"
+    },
+    {
+      "id": "cachot_revival",
+      "lang": "language_10030124"
+    },
+    {
+      "id": "cachot_revival_nodead",
+      "lang": "language_10030125"
+    },
+    {
+      "id": "room_layoutplan_copy_title_en",
+      "lang": "language_10030093"
+    },
+    {
+      "id": "room_layoutplan_copy_btn_confirm_txt",
+      "lang": "language_10030126"
+    },
+    {
+      "id": "cachot_hero_group",
+      "lang": "language_10030127"
+    },
+    {
+      "id": "cachot_costcount",
+      "lang": "language_10030128"
+    },
+    {
+      "id": "time_day_hour2",
+      "lang": "language_10030129"
+    },
+    {
+      "id": "cachotprogressview_remainDay",
+      "lang": "language_10030130"
+    },
+    {
+      "id": "cachotprogressview_remainHour",
+      "lang": "language_10030131"
+    },
+    {
+      "id": "cachotprogressview_rewardcount",
+      "lang": "language_10030132"
+    },
+    {
+      "id": "new_common_none",
+      "lang": "language_10030133"
+    },
+    {
+      "id": "room_topright_plan_share_count_name",
+      "lang": "language_10030134"
+    },
+    {
+      "id": "room_topright_plan_share_count_desc",
+      "lang": "language_10030135"
+    },
+    {
+      "id": "dungeon_unlock_episode_mode_sp",
+      "lang": "language_10030136"
+    },
+    {
+      "id": "store_buylimit_count",
+      "lang": "language_10030137"
+    },
+    {
+      "id": "hournum",
+      "lang": "language_10030138"
+    },
+    {
+      "id": "room_levelupresult_init_layoutplan_open",
+      "lang": "language_10030139"
+    },
+    {
+      "id": "ended",
+      "lang": "language_10030140"
+    },
+    {
+      "id": "act1_6dungeonFightResultViewMaterialTitle",
+      "lang": "language_10030141"
+    },
+    {
+      "id": "v1a4_bossrush_scoreview_txt_closetime",
+      "lang": "language_10030142"
+    },
+    {
+      "id": "VersionActivity1_6WarmUpView_musictime",
+      "lang": "language_10030143"
+    },
+    {
+      "id": "room_layoutplan_cover_sharecode_tips",
+      "lang": "language_10030144"
+    },
+    {
+      "id": "formattime_monthday2monthday",
+      "lang": "language_10030145"
+    },
+    {
+      "id": "minute_num",
+      "lang": "language_10030146"
+    },
+    {
+      "id": "hour_num",
+      "lang": "language_10030147"
+    },
+    {
+      "id": "receive_time",
+      "lang": "language_10030148"
+    },
+    {
+      "id": "v1a6_cachot_heart_gt",
+      "lang": "language_10030149"
+    },
+    {
+      "id": "v1a6_cachot_heart_lt",
+      "lang": "language_10030150"
+    },
+    {
+      "id": "v1a6_cachot_room_event_title",
+      "lang": "language_10030151"
+    },
+    {
+      "id": "p_versionactivity_1_6_enterview_rewardunlock",
+      "lang": "language_10030152"
+    },
+    {
+      "id": "v1a6_cachotcollection_bossunique",
+      "lang": "language_10030153"
+    },
+    {
+      "id": "v1a6_cachotresultview_lockAndMax",
+      "lang": "language_10030154"
+    },
+    {
+      "id": "v1a6_cachotresultview_unlockAndMax",
+      "lang": "language_10030155"
+    },
+    {
+      "id": "Season123Rare_1",
+      "lang": "language_10003350"
+    },
+    {
+      "id": "Season123Rare_2",
+      "lang": "language_10003347"
+    },
+    {
+      "id": "Season123Rare_3",
+      "lang": "language_10035520"
+    },
+    {
+      "id": "Season123Rare_4",
+      "lang": "language_10003348"
+    },
+    {
+      "id": "Season123Rare_5",
+      "lang": "language_10035521"
+    },
+    {
+      "id": "Season123DecomposeOverPart",
+      "lang": "language_10035522"
+    },
+    {
+      "id": "season123_overview_unlocktime",
+      "lang": "language_10035523"
+    },
+    {
+      "id": "season123_decompose_cardName",
+      "lang": "language_10035524"
+    },
+    {
+      "id": "season123_decompose_cardName2",
+      "lang": "language_10035525"
+    },
+    {
+      "id": "season123_entry_is_lock",
+      "lang": "language_10019891"
+    },
+    {
+      "id": "season123_overview_bestround",
+      "lang": "language_10035526"
+    },
+    {
+      "id": "dungeon_prob_flag8",
+      "lang": "language_10000124"
+    },
+    {
+      "id": "playerchangebgview_namelv",
+      "lang": "language_10035527"
+    },
+    {
+      "id": "double_drop_remain_times",
+      "lang": "language_10035528"
+    },
+    {
+      "id": "achievementmainview_unlockPath",
+      "lang": "language_10035529"
+    },
+    {
+      "id": "achievementmainview_unlockTaskCount",
+      "lang": "language_10035530"
+    },
+    {
+      "id": "achievementmainview_filterType_total",
+      "lang": "language_10003208"
+    },
+    {
+      "id": "achievementmainview_filterType_unlocked",
+      "lang": "language_10030944"
+    },
+    {
+      "id": "achievementmainview_filterType_locked",
+      "lang": "language_90001036"
+    },
+    {
+      "id": "achievementlevelview_taskprogress",
+      "lang": "language_10035531"
+    },
+    {
+      "id": "player_assist_reward_tips",
+      "lang": "language_10035532"
+    },
+    {
+      "id": "store_recommendTime",
+      "lang": "language_10035533"
+    },
+    {
+      "id": "fightactionbar_chant",
+      "lang": "language_10017518"
+    },
+    {
+      "id": "season123_attr_up",
+      "lang": "language_10035534"
+    },
+    {
+      "id": "season123_attr_down",
+      "lang": "language_10035535"
+    },
+    {
+      "id": "poweractchangeview_productNameFormat",
+      "lang": "language_10035536"
+    },
+    {
+      "id": "powerview_addpower",
+      "lang": "language_10035537"
+    },
+    {
+      "id": "season123_add_assist_friend",
+      "lang": "language_10035538"
+    },
+    {
+      "id": "notOpen",
+      "lang": "language_10019932"
+    },
+    {
+      "id": "season123_reset_stage_level",
+      "lang": "language_10035539"
+    },
+    {
+      "id": "season123_custompick_selectnum",
+      "lang": "language_10035540"
+    },
+    {
+      "id": "season123_overview_unlocktime_custom",
+      "lang": "language_10029855"
+    },
+    {
+      "id": "remaintime_day_hour",
+      "lang": "language_10038342"
+    },
+    {
+      "id": "remaintime_hour_minute",
+      "lang": "language_10038343"
+    },
+    {
+      "id": "remaintime_minute",
+      "lang": "language_10038344"
+    },
+    {
+      "id": "rolestorynormaldispatchtips",
+      "lang": "language_10038345"
+    },
+    {
+      "id": "rolestorydispatchcounttips",
+      "lang": "language_10038346"
+    },
+    {
+      "id": "rolestoryscoreisfull",
+      "lang": "language_10038347"
+    },
+    {
+      "id": "justreport_firsttips",
+      "lang": "language_10038348"
+    },
+    {
+      "id": "justreport_secondtips",
+      "lang": "language_10038349"
+    },
+    {
+      "id": "dispatch_total_cost_time",
+      "lang": "language_10038350"
+    },
+    {
+      "id": "fixed_en_finish",
+      "lang": "language_10038351"
+    },
+    {
+      "id": "toughbattle_diffcult_1",
+      "lang": "language_10041873"
+    },
+    {
+      "id": "toughbattle_diffcult_2",
+      "lang": "language_10041874"
+    },
+    {
+      "id": "toughbattle_diffcult_3",
+      "lang": "language_10041875"
+    },
+    {
+      "id": "toughbattle_mainview_txt_start",
+      "lang": "language_10041876"
+    },
+    {
+      "id": "toughbattle_mainview_txt_continue",
+      "lang": "language_10041877"
+    },
+    {
+      "id": "toughbattle_mainview_normal_title_desc",
+      "lang": "language_10041878"
+    },
+    {
+      "id": "toughbattle_mapview_txt_progress",
+      "lang": "language_10041879"
+    },
+    {
+      "id": "toughbattle_stage1_title",
+      "lang": "language_10041880"
+    },
+    {
+      "id": "toughbattle_stage2_title",
+      "lang": "language_10039645"
+    },
+    {
+      "id": "toughbattle_mainview_act_title_desc",
+      "lang": "language_10041881"
+    },
+    {
+      "id": "v1a9_matildagiftview_claim_cn",
+      "lang": "language_10030183"
+    },
+    {
+      "id": "v1a9_matildagiftview_claimed_cn",
+      "lang": "language_10030165"
+    },
+    {
+      "id": "v1a9_matildagiftview_claim_en",
+      "lang": "language_10031106"
+    },
+    {
+      "id": "v1a9_matildagiftview_claimed_en",
+      "lang": "language_10041882"
+    },
+    {
+      "id": "herogift_custom_pick_title",
+      "lang": "language_10041883"
+    },
+    {
+      "id": "exploreview_optip_interact",
+      "lang": "language_10031238"
+    },
+    {
+      "id": "exploreview_optip_carry",
+      "lang": "language_10041884"
+    },
+    {
+      "id": "all_language_filter_option",
+      "lang": "language_10041885"
+    },
+    {
+      "id": "rougemainview_new_start",
+      "lang": "language_10030361"
+    },
+    {
+      "id": "rougemainview_continue_start",
+      "lang": "language_10030362"
+    },
+    {
+      "id": "rougefactionview_txtDifficultyTiitle",
+      "lang": "language_10041886"
+    },
+    {
+      "id": "rouge_loss_title",
+      "lang": "language_10041887"
+    },
+    {
+      "id": "rouge_exchange_title",
+      "lang": "language_10041888"
+    },
+    {
+      "id": "rouge_storage_title",
+      "lang": "language_10041889"
+    },
+    {
+      "id": "rouge_store_refresh_time",
+      "lang": "language_10041890"
+    },
+    {
+      "id": "rouge_lv_up_talent",
+      "lang": "language_10041891"
+    },
+    {
+      "id": "rouge_remain_exchange_time",
+      "lang": "language_10041892"
+    },
+    {
+      "id": "summon_discount_tips",
+      "lang": "language_10041893"
+    },
+    {
+      "id": "summoncustompickchoice_txt_Title_One",
+      "lang": "language_10041894"
+    },
+    {
+      "id": "summoncustompickchoice_txt_Title_Two",
+      "lang": "language_10041895"
+    },
+    {
+      "id": "summonpickchoice_discount",
+      "lang": "language_10041896"
+    },
+    {
+      "id": "dungeonchapterminiitem_txt_NewWorld",
+      "lang": "language_10034610"
+    },
+    {
+      "id": "custompickchoice_select_heros",
+      "lang": "language_10041897"
+    },
+    {
+      "id": "bgmswitchview_play",
+      "lang": "language_10041898"
+    },
+    {
+      "id": "bgmswitchview_listentest",
+      "lang": "language_10041899"
+    },
+    {
+      "id": "bgmswitchview_randomplay",
+      "lang": "language_10041900"
+    },
+    {
+      "id": "bgmswitchview_randomplisten",
+      "lang": "language_10041901"
+    },
+    {
+      "id": "rouge_talenttree_normal",
+      "lang": "language_10041902"
+    },
+    {
+      "id": "rouge_talenttree_origin",
+      "lang": "language_10041903"
+    },
+    {
+      "id": "rolestorydispatchtitle_1",
+      "lang": "language_10041904"
+    },
+    {
+      "id": "rolestorydispatchtitle_2",
+      "lang": "language_10041905"
+    },
+    {
+      "id": "rouge_teamview_treat_title",
+      "lang": "language_10041906"
+    },
+    {
+      "id": "rouge_teamview_revive_title",
+      "lang": "language_10041907"
+    },
+    {
+      "id": "rouge_teamview_assignment_title",
+      "lang": "language_10041908"
+    },
+    {
+      "id": "rouge_teamview_selected_num",
+      "lang": "language_10030085"
+    },
+    {
+      "id": "rouge_talenttree_remaintalent",
+      "lang": "language_10041909"
+    },
+    {
+      "id": "fight_counter_float13",
+      "lang": "language_10041910"
+    },
+    {
+      "id": "dungeon_simple_mode",
+      "lang": "language_10041911"
+    },
+    {
+      "id": "activity160_mail_hasreceive",
+      "lang": "language_10033768"
+    },
+    {
+      "id": "bgmswitchview_current",
+      "lang": "language_10041912"
+    },
+    {
+      "id": "bgmswitchview_selectlisten",
+      "lang": "language_10041913"
+    },
+    {
+      "id": "rogue_rewardview_block",
+      "lang": "language_10041914"
+    },
+    {
+      "id": "rouge_collectiongiftview_random_drop_desc",
+      "lang": "language_10041915"
+    },
+    {
+      "id": "heroskill_name_tag",
+      "lang": "language_10041916"
+    },
+    {
+      "id": "rouge_rewardview_pointlimit",
+      "lang": "language_10041917"
+    },
+    {
+      "id": "rouge_may_get_collections",
+      "lang": "language_10041918"
+    },
+    {
+      "id": "refresh",
+      "lang": "language_10041919"
+    },
+    {
+      "id": "rouge_drop_select",
+      "lang": "language_10041920"
+    },
+    {
+      "id": "rougemainview_cd_fmt",
+      "lang": "language_10041921"
+    },
+    {
+      "id": "rougedifficultyitemlocked_unlock_desc_fmt",
+      "lang": "language_10041922"
+    },
+    {
+      "id": "rouge_quit_fight_confirm",
+      "lang": "language_10020453"
+    },
+    {
+      "id": "rougecollectiongiftview_txt_tips",
+      "lang": "language_10041923"
+    },
+    {
+      "id": "graffiti_rewardprogress",
+      "lang": "language_10047736"
+    },
+    {
+      "id": "graffiti_rewardhasget",
+      "lang": "language_10047737"
+    },
+    {
+      "id": "skin_gain_approach_store_zh",
+      "lang": "language_10031236"
+    },
+    {
+      "id": "skin_gain_approach_store_en",
+      "lang": "language_10047738"
+    },
+    {
+      "id": "skin_gain_approach_activity_zh",
+      "lang": "language_10038352"
+    },
+    {
+      "id": "skin_gain_approach_activity_en",
+      "lang": "language_10047739"
+    },
+    {
+      "id": "skin_gain_approach_bp_zh",
+      "lang": "language_10038353"
+    },
+    {
+      "id": "skin_gain_approach_bp_en",
+      "lang": "language_10047740"
+    },
+    {
+      "id": "first_time_free",
+      "lang": "language_10030671"
+    },
+    {
+      "id": "graffiti_unlockTime",
+      "lang": "language_10047741"
+    },
+    {
+      "id": "talent_levelup_unlockstyle",
+      "lang": "language_10047742"
+    },
+    {
+      "id": "talent_levelup_upcapacity",
+      "lang": "language_10047743"
+    },
+    {
+      "id": "talent_levelup_newdebris",
+      "lang": "language_10047744"
+    },
+    {
+      "id": "talent_levelup_debriscount",
+      "lang": "language_10047745"
+    },
+    {
+      "id": "talent_levelup_debrislevel",
+      "lang": "language_10047746"
+    },
+    {
+      "id": "talent_style_special_tag_998",
+      "lang": "language_10047747"
+    },
+    {
+      "id": "talent_style_special_tag_999",
+      "lang": "language_10047748"
+    },
+    {
+      "id": "talent_style_title_cn_1",
+      "lang": "language_10047749"
+    },
+    {
+      "id": "talent_style_title_cn_6",
+      "lang": "language_10047750"
+    },
+    {
+      "id": "talent_style_title_en_1",
+      "lang": "language_10047751"
+    },
+    {
+      "id": "talent_style_title_en_6",
+      "lang": "language_10047752"
+    },
+    {
+      "id": "talent_style_title_use_cn_1",
+      "lang": "language_10047753"
+    },
+    {
+      "id": "talent_style_title_use_cn_6",
+      "lang": "language_10047754"
+    },
+    {
+      "id": "talent_style_title_using_cn_1",
+      "lang": "language_10047755"
+    },
+    {
+      "id": "talent_style_title_using_cn_6",
+      "lang": "language_10047756"
+    },
+    {
+      "id": "times2",
+      "lang": "language_10047757"
+    },
+    {
+      "id": "playercard_rougedesc",
+      "lang": "language_10047758"
+    },
+    {
+      "id": "normalstoregoodsitem_get",
+      "lang": "language_10047759"
+    },
+    {
+      "id": "getGoodsByActivity",
+      "lang": "language_10047760"
+    },
+    {
+      "id": "getGoodsByBingGoods",
+      "lang": "language_10047761"
+    },
+    {
+      "id": "price_cost",
+      "lang": "language_10036767"
+    },
+    {
+      "id": "store_limitget",
+      "lang": "language_10047762"
+    },
+    {
+      "id": "roomstore_ticket",
+      "lang": "language_10047763"
+    },
+    {
+      "id": "fight_round_lang",
+      "lang": "language_10047764"
+    },
+    {
+      "id": "fight_wave_lang",
+      "lang": "language_10047765"
+    },
+    {
+      "id": "material_jump_probability_little",
+      "lang": "language_10051177"
+    },
+    {
+      "id": "dungeon_prob_flag9",
+      "lang": "language_10051177"
+    },
+    {
+      "id": "act126_story_name_change_size_12104_2",
+      "lang": "language_10051178"
+    },
+    {
+      "id": "act126_story_name_change_size_12104_1",
+      "lang": "language_10051179"
+    },
+    {
+      "id": "act126_story_name_change_size_12104_3",
+      "lang": "language_10051180"
+    },
+    {
+      "id": "act126_story_reword_count",
+      "lang": "language_10051181"
+    },
+    {
+      "id": "rouge_dlc_101_emblemTips",
+      "lang": "language_10051182"
+    },
+    {
+      "id": "rouge_dlc_101_emblemCount",
+      "lang": "language_10051183"
+    },
+    {
+      "id": "bossrush_enhance_role_title",
+      "lang": "language_10051184"
+    },
+    {
+      "id": "rougelimiterbuffoverview_txt_buff",
+      "lang": "language_10051185"
+    },
+    {
+      "id": "v2a1_bossrush_specialrewardview_desc",
+      "lang": "language_10051186"
+    },
+    {
+      "id": "room_manufacture_wait_product",
+      "lang": "language_10055560"
+    },
+    {
+      "id": "room_manufacture_product_progress",
+      "lang": "language_10055561"
+    },
+    {
+      "id": "room_manufacture_product_stop",
+      "lang": "language_10055562"
+    },
+    {
+      "id": "room_manufacture_product_queue",
+      "lang": "language_10055563"
+    },
+    {
+      "id": "room_manufacture_edit_product_queue",
+      "lang": "language_10055564"
+    },
+    {
+      "id": "room_manufacture_item_mat_count",
+      "lang": "language_10055565"
+    },
+    {
+      "id": "room_manufacture_item_mat_count_not_enough",
+      "lang": "language_10055566"
+    },
+    {
+      "id": "room_building_level_up_tip",
+      "lang": "language_10055567"
+    },
+    {
+      "id": "room_new_manufacture_item",
+      "lang": "language_10055568"
+    },
+    {
+      "id": "room_building_type_name_all_txt",
+      "lang": "language_10003208"
+    },
+    {
+      "id": "room_building_type_name_decoration_txt",
+      "lang": "language_10030585"
+    },
+    {
+      "id": "room_building_type_name_manufacture_txt",
+      "lang": "language_10055569"
+    },
+    {
+      "id": "room_building_type_name_interact_txt",
+      "lang": "language_10055570"
+    },
+    {
+      "id": "room_block_type_name_river_txt",
+      "lang": "language_10042039"
+    },
+    {
+      "id": "room_block_type_name_road_txt",
+      "lang": "language_10055571"
+    },
+    {
+      "id": "room_block_type_name_land_txt",
+      "lang": "language_10030784"
+    },
+    {
+      "id": "room_block_type_name_package_txt",
+      "lang": "language_10035596"
+    },
+    {
+      "id": "season166_basespot",
+      "lang": "language_10055572"
+    },
+    {
+      "id": "room_building_level_up",
+      "lang": "language_10047828"
+    },
+    {
+      "id": "room_critter_building_rest",
+      "lang": "language_10028476"
+    },
+    {
+      "id": "room_critter_building_incubate",
+      "lang": "language_10055573"
+    },
+    {
+      "id": "room_critter_building_training",
+      "lang": "language_10055574"
+    },
+    {
+      "id": "room_critter_building_breed",
+      "lang": "language_10055575"
+    },
+    {
+      "id": "room_area_name_collect",
+      "lang": "language_10055576"
+    },
+    {
+      "id": "room_area_name_process",
+      "lang": "language_10038400"
+    },
+    {
+      "id": "room_area_name_manufacture",
+      "lang": "language_10055577"
+    },
+    {
+      "id": "room_building_sitename_collect",
+      "lang": "language_10055578"
+    },
+    {
+      "id": "room_building_sitename_process",
+      "lang": "language_10055579"
+    },
+    {
+      "id": "room_building_sitename_manufacture",
+      "lang": "language_10055580"
+    },
+    {
+      "id": "room_critter_backpack_cn",
+      "lang": "language_90001076"
+    },
+    {
+      "id": "room_critter_backpack_en",
+      "lang": "language_10055581"
+    },
+    {
+      "id": "room_critter_backpack_num",
+      "lang": "language_10055582"
+    },
+    {
+      "id": "room_prop_backpack_cn",
+      "lang": "language_10055583"
+    },
+    {
+      "id": "room_prop_backpack_en",
+      "lang": "language_10055584"
+    },
+    {
+      "id": "critter_rare_filter",
+      "lang": "language_10055585"
+    },
+    {
+      "id": "critter_mood_cost_speed",
+      "lang": "language_10055586"
+    },
+    {
+      "id": "critter_mature_filter_all",
+      "lang": "language_10003208"
+    },
+    {
+      "id": "critter_mature_filter_mature",
+      "lang": "language_10055587"
+    },
+    {
+      "id": "critter_mature_filter_not_mature",
+      "lang": "language_10055588"
+    },
+    {
+      "id": "key_binding",
+      "lang": "language_10055589"
+    },
+    {
+      "id": "summoncustompickchoice_txt_Title_Multiple",
+      "lang": "language_10055590"
+    },
+    {
+      "id": "season166_targetscore",
+      "lang": "language_10055591"
+    },
+    {
+      "id": "season166_herogroup_targetType_1",
+      "lang": "language_10055592"
+    },
+    {
+      "id": "season166_herogroup_targetType_2",
+      "lang": "language_10055593"
+    },
+    {
+      "id": "season166_herogroup_fightScoreTarget",
+      "lang": "language_10055594"
+    },
+    {
+      "id": "season166_herogroup_normalTarget",
+      "lang": "language_10029469"
+    },
+    {
+      "id": "season166_unlockHardEpisodeTime",
+      "lang": "language_10055595"
+    },
+    {
+      "id": "room_trade_level_task_title",
+      "lang": "language_10055596"
+    },
+    {
+      "id": "room_trade_task_levelup_tip",
+      "lang": "language_10055597"
+    },
+    {
+      "id": "room_trade_progress",
+      "lang": "language_10055598"
+    },
+    {
+      "id": "room_trade_reward_progress",
+      "lang": "language_10055599"
+    },
+    {
+      "id": "season166_infoanalyze_rewardview_txt",
+      "lang": "language_10055600"
+    },
+    {
+      "id": "messageoptionbox_daily",
+      "lang": "language_10055601"
+    },
+    {
+      "id": "messageoptionbox_notshow",
+      "lang": "language_10055602"
+    },
+    {
+      "id": "room_critter_adult",
+      "lang": "language_10055587"
+    },
+    {
+      "id": "room_critter_child",
+      "lang": "language_10055588"
+    },
+    {
+      "id": "room_critter_incubate_select_count",
+      "lang": "language_10055603"
+    },
+    {
+      "id": "act167_place",
+      "lang": "language_10055604"
+    },
+    {
+      "id": "act167_slide",
+      "lang": "language_10055605"
+    },
+    {
+      "id": "act167_cantplace",
+      "lang": "language_10055606"
+    },
+    {
+      "id": "bp_deduction_item_deadtime",
+      "lang": "language_10068383"
+    },
+    {
+      "id": "bp_deduction_item_count",
+      "lang": "language_10055608"
+    },
+    {
+      "id": "bp_sp_rule",
+      "lang": "language_10055609"
+    },
+    {
+      "id": "bp_sp_level",
+      "lang": "language_10055610"
+    },
+    {
+      "id": "bp_sp_get_bound",
+      "lang": "language_10055611"
+    },
+    {
+      "id": "room_critter_incubate_tip_1",
+      "lang": "language_10055612"
+    },
+    {
+      "id": "room_critter_incubate_tip_2",
+      "lang": "language_10055613"
+    },
+    {
+      "id": "room_critter_incubate_tip_3",
+      "lang": "language_10055614"
+    },
+    {
+      "id": "room_critter_Attribute_Addition",
+      "lang": "language_10055615"
+    },
+    {
+      "id": "room_critter_working_in",
+      "lang": "language_10055616"
+    },
+    {
+      "id": "room_tade_dailyorder_tip",
+      "lang": "language_10055617"
+    },
+    {
+      "id": "season166_talent_selectlock",
+      "lang": "language_10055618"
+    },
+    {
+      "id": "turnabck_invitation_title",
+      "lang": "language_10055619"
+    },
+    {
+      "id": "summonpooldetail_up_probability_total",
+      "lang": "language_10055620"
+    },
+    {
+      "id": "season166_resultpanel_target1",
+      "lang": "language_10055621"
+    },
+    {
+      "id": "season166_resultpanel_target2",
+      "lang": "language_10055622"
+    },
+    {
+      "id": "season166_resultpanel_challenge1",
+      "lang": "language_10055623"
+    },
+    {
+      "id": "season166_resultpanel_challenge2",
+      "lang": "language_10032212"
+    },
+    {
+      "id": "critter_restroom_name",
+      "lang": "language_10026702"
+    },
+    {
+      "id": "room_wholesaleorder_utilprice",
+      "lang": "language_10055624"
+    },
+    {
+      "id": "room_wholesaleorder_priceratio",
+      "lang": "language_10055625"
+    },
+    {
+      "id": "eliminate_skill_power_content1",
+      "lang": "language_10055626"
+    },
+    {
+      "id": "eliminate_skill_power_content2",
+      "lang": "language_10055627"
+    },
+    {
+      "id": "eliminate_return_match3",
+      "lang": "language_10030189"
+    },
+    {
+      "id": "eliminate_watch_teamchess",
+      "lang": "language_10055628"
+    },
+    {
+      "id": "eliminate_movePoint_txt",
+      "lang": "language_10055629"
+    },
+    {
+      "id": "eliminate_teamchess_activeSkill_desc",
+      "lang": "language_10055630"
+    },
+    {
+      "id": "eliminate_teamchess_passiveSkill_desc",
+      "lang": "language_10055631"
+    },
+    {
+      "id": "eliminate_teamchess_new_slot_name",
+      "lang": "language_10055632"
+    },
+    {
+      "id": "eliminate_teamchess_new_slot_desc",
+      "lang": "language_10055633"
+    },
+    {
+      "id": "multiple_color",
+      "lang": "language_10055634"
+    },
+    {
+      "id": "room_dailyorder_refreshtime",
+      "lang": "language_10068384"
+    },
+    {
+      "id": "fight_season_change_hero_select",
+      "lang": "language_10055636"
+    },
+    {
+      "id": "fight_season_change_hero_confirm",
+      "lang": "language_10055637"
+    },
+    {
+      "id": "critter_attr_rate",
+      "lang": "language_10055638"
+    },
+    {
+      "id": "critter_age_childhood_txt",
+      "lang": "language_10055588"
+    },
+    {
+      "id": "critter_age_adult_txt",
+      "lang": "language_10055587"
+    },
+    {
+      "id": "critter_hero_train_level_txt",
+      "lang": "language_10055639"
+    },
+    {
+      "id": "critter_report_comment_txt",
+      "lang": "language_10055640"
+    },
+    {
+      "id": "critter_train_noselect_critter_text",
+      "lang": "language_10055641"
+    },
+    {
+      "id": "critter_train_noselect_hero_text",
+      "lang": "language_10055642"
+    },
+    {
+      "id": "critter_train_hero_prefernect_all_txt",
+      "lang": "language_10041885"
+    },
+    {
+      "id": "critter_train_startnew_txt",
+      "lang": "language_10055643"
+    },
+    {
+      "id": "critter_train_cancel_txt",
+      "lang": "language_10055644"
+    },
+    {
+      "id": "critter_train_change_txt",
+      "lang": "language_10055645"
+    },
+    {
+      "id": "critter_train_finish_txt",
+      "lang": "language_10055646"
+    },
+    {
+      "id": "herogroup_name",
+      "lang": "language_10020408"
+    },
+    {
+      "id": "weekday",
+      "lang": "language_10055647"
+    },
+    {
+      "id": "room_trade_name",
+      "lang": "language_10055648"
+    },
+    {
+      "id": "room_tade_dailyorder_active_refresh_tip",
+      "lang": "language_10055649"
+    },
+    {
+      "id": "season166_talent_equip",
+      "lang": "language_10030390"
+    },
+    {
+      "id": "season166_talent_equiping",
+      "lang": "language_10030273"
+    },
+    {
+      "id": "season166_talent_lock",
+      "lang": "language_10055650"
+    },
+    {
+      "id": "room_levelup_lv",
+      "lang": "language_10055651"
+    },
+    {
+      "id": "room_finish_tradetask",
+      "lang": "language_10055652"
+    },
+    {
+      "id": "room_summon_critter_rule_tip",
+      "lang": "language_10055653"
+    },
+    {
+      "id": "room_incubate_critter_rule_tip",
+      "lang": "language_10055654"
+    },
+    {
+      "id": "notice_route_collect_process",
+      "lang": "language_10055655"
+    },
+    {
+      "id": "notice_route_process_manufacture",
+      "lang": "language_10055656"
+    },
+    {
+      "id": "notice_route_collect_manufacture",
+      "lang": "language_10055657"
+    },
+    {
+      "id": "room_summon_critter_rule_tip_tilte",
+      "lang": "language_10055658"
+    },
+    {
+      "id": "room_incubate_critter_rule_tip_tilte",
+      "lang": "language_10055659"
+    },
+    {
+      "id": "room_summon_critter_rule_tip_tilte_En",
+      "lang": "language_10030398"
+    },
+    {
+      "id": "room_incubate_critter_rule_tip_tilte_En",
+      "lang": "language_10030398"
+    },
+    {
+      "id": "lv_max",
+      "lang": "language_10055660"
+    },
+    {
+      "id": "room_manufacture_building_add_slot",
+      "lang": "language_10055661"
+    },
+    {
+      "id": "room_manufacutre_building_level_up_need_trade_level",
+      "lang": "language_10055662"
+    },
+    {
+      "id": "room_sign_item_remain",
+      "lang": "language_10055663"
+    },
+    {
+      "id": "activity173panelview_tenThousand",
+      "lang": "language_10055664"
+    },
+    {
+      "id": "critterhandbookbacktitle",
+      "lang": "language_10055665"
+    },
+    {
+      "id": "lopera_buff_info_desc1",
+      "lang": "language_10055666"
+    },
+    {
+      "id": "room_preview_critter_attr_add_ratio",
+      "lang": "language_10055667"
+    },
+    {
+      "id": "room_preview_critter_attr_reduce_ratio",
+      "lang": "language_10055668"
+    },
+    {
+      "id": "summonsimulation_probability_extra_desc",
+      "lang": "language_10055669"
+    },
+    {
+      "id": "room_wholesale_weekly_revenue",
+      "lang": "language_10051181"
+    },
+    {
+      "id": "newinsight_item_detail_remain_time",
+      "lang": "language_10055670"
+    },
+    {
+      "id": "text_dir_east",
+      "lang": "language_10055671"
+    },
+    {
+      "id": "text_dir_west",
+      "lang": "language_10055672"
+    },
+    {
+      "id": "text_dir_south",
+      "lang": "language_10055673"
+    },
+    {
+      "id": "text_dir_north",
+      "lang": "language_10055674"
+    },
+    {
+      "id": "lopera_event_effect_title",
+      "lang": "language_10055675"
+    },
+    {
+      "id": "lopera_event_effect_buff_info",
+      "lang": "language_10055676"
+    },
+    {
+      "id": "lopera_event_no_effect_buff",
+      "lang": "language_10055677"
+    },
+    {
+      "id": "season166_newinfo_unlock",
+      "lang": "language_10055678"
+    },
+    {
+      "id": "towerpermanent_stageunlocktip",
+      "lang": "language_10061065"
+    },
+    {
+      "id": "towerpermanent_timeunlocktip",
+      "lang": "language_10061066"
+    },
+    {
+      "id": "towerpermanent_stage",
+      "lang": "language_10061067"
+    },
+    {
+      "id": "mopup_layer",
+      "lang": "language_10061068"
+    },
+    {
+      "id": "mopup_tipdesc",
+      "lang": "language_10061069"
+    },
+    {
+      "id": "mopup_rewardtip",
+      "lang": "language_10061070"
+    },
+    {
+      "id": "mopup_rewardtip_max",
+      "lang": "language_10061071"
+    },
+    {
+      "id": "mopup_times",
+      "lang": "language_10061072"
+    },
+    {
+      "id": "buff_tip_duration",
+      "lang": "language_10061073"
+    },
+    {
+      "id": "buff_tip_round_and_layer",
+      "lang": "language_10061074"
+    },
+    {
+      "id": "towermain_permanentprogress",
+      "lang": "language_10061075"
+    },
+    {
+      "id": "towerboss_nexttime",
+      "lang": "language_10061076"
+    },
+    {
+      "id": "towerboss_passlayer",
+      "lang": "language_10061077"
+    },
+    {
+      "id": "towertask_timelimited_name",
+      "lang": "language_10058589"
+    },
+    {
+      "id": "towertask_timelimited_nameEn",
+      "lang": "language_10061078"
+    },
+    {
+      "id": "towertask_currenthighscore",
+      "lang": "language_10061079"
+    },
+    {
+      "id": "towertask_updatetime",
+      "lang": "language_10061080"
+    },
+    {
+      "id": "towertask_passlayer",
+      "lang": "language_10061081"
+    },
+    {
+      "id": "percent",
+      "lang": "language_10055625"
+    },
+    {
+      "id": "room_interactbuilding_slotnum_txt",
+      "lang": "language_10061082"
+    },
+    {
+      "id": "room_interactbuilding_visit_txt",
+      "lang": "language_10061083"
+    },
+    {
+      "id": "room_interactbuilding_herogoing_txt",
+      "lang": "language_10061084"
+    },
+    {
+      "id": "character_talentstyle_unlockpercent",
+      "lang": "language_10061085"
+    },
+    {
+      "id": "towertimelimit_curtotalscore",
+      "lang": "language_10061086"
+    },
+    {
+      "id": "towertimelimit_refreshtime",
+      "lang": "language_10061087"
+    },
+    {
+      "id": "towertimelimit_multiindex",
+      "lang": "language_10061088"
+    },
+    {
+      "id": "character_destinyslot_unlockrank",
+      "lang": "language_10061089"
+    },
+    {
+      "id": "character_destiny_preview_effect",
+      "lang": "language_10061090"
+    },
+    {
+      "id": "character_destiny_slot_title_1",
+      "lang": "language_10058794"
+    },
+    {
+      "id": "character_destiny_slot_title_2",
+      "lang": "language_10061091"
+    },
+    {
+      "id": "towertalent_already_light",
+      "lang": "language_10061092"
+    },
+    {
+      "id": "towerboss_skill_get",
+      "lang": "language_10061093"
+    },
+    {
+      "id": "towerboss_skill_order",
+      "lang": "language_10061094"
+    },
+    {
+      "id": "fight_charge_monster_energy",
+      "lang": "language_10061095"
+    },
+    {
+      "id": "towerpermanent_defaultlayer",
+      "lang": "language_10061096"
+    },
+    {
+      "id": "settings_fullscreen",
+      "lang": "language_10030161"
+    },
+    {
+      "id": "summonpooldetail_up_probability_StrongCustomOnePick",
+      "lang": "language_10061097"
+    },
+    {
+      "id": "character_destiny_slot_level",
+      "lang": "language_10061098"
+    },
+    {
+      "id": "towerpermanentresultview_schedule",
+      "lang": "language_10061099"
+    },
+    {
+      "id": "room_no_produce_building",
+      "lang": "language_10055679"
+    },
+    {
+      "id": "room_produce_building_need_upgrade",
+      "lang": "language_10055680"
+    },
+    {
+      "id": "room_upgrade_building_unlock",
+      "lang": "language_10055681"
+    },
+    {
+      "id": "room_place_building_to_unlock",
+      "lang": "language_10055682"
+    },
+    {
+      "id": "room_trade_progress_wrong",
+      "lang": "language_10055703"
+    },
+    {
+      "id": "act174_endless_tip1",
+      "lang": "language_10061100"
+    },
+    {
+      "id": "act174_team_unlocktip",
+      "lang": "language_10061101"
+    },
+    {
+      "id": "summon_strong_custompick_desc",
+      "lang": "language_10061102"
+    },
+    {
+      "id": "towermain_entranceUnlock",
+      "lang": "language_10061103"
+    },
+    {
+      "id": "towermain_entranceTimeUnlock",
+      "lang": "language_10061104"
+    },
+    {
+      "id": "towermain_entrancelock",
+      "lang": "language_10019776"
+    },
+    {
+      "id": "towertalent_txt_Locked1",
+      "lang": "language_10061105"
+    },
+    {
+      "id": "towertalent_txt_Locked2",
+      "lang": "language_10061106"
+    },
+    {
+      "id": "towertalent_txt_Locked3",
+      "lang": "language_10061107"
+    },
+    {
+      "id": "act174_enhance_player",
+      "lang": "language_10061108"
+    },
+    {
+      "id": "act174_enhance_enemy",
+      "lang": "language_10061109"
+    },
+    {
+      "id": "act174_endless_multiple",
+      "lang": "language_10061110"
+    },
+    {
+      "id": "act174_endless_tip3",
+      "lang": "language_10061111"
+    },
+    {
+      "id": "act174_rotation_rule2",
+      "lang": "language_10061112"
+    },
+    {
+      "id": "act174_enhance_overduea",
+      "lang": "language_10061113"
+    },
+    {
+      "id": "character_copy_talentLayout_title_cn",
+      "lang": "language_10064039"
+    },
+    {
+      "id": "character_copy_talentLayout_title_en",
+      "lang": "language_10064040"
+    },
+    {
+      "id": "character_copy_talentLayout_tip",
+      "lang": "language_10064041"
+    },
+    {
+      "id": "character_copy_talentLayout_use_tip",
+      "lang": "language_10064042"
+    },
+    {
+      "id": "MusicFreeNoInstrument",
+      "lang": "language_10064043"
+    },
+    {
+      "id": "MusicRecordReady",
+      "lang": "language_10064044"
+    },
+    {
+      "id": "MusicRecording",
+      "lang": "language_10064045"
+    },
+    {
+      "id": "MusicRecordPause",
+      "lang": "language_10064046"
+    },
+    {
+      "id": "MusicPlaying",
+      "lang": "language_10064047"
+    },
+    {
+      "id": "MusicPlayPause",
+      "lang": "language_10064048"
+    },
+    {
+      "id": "MusicAccompany1",
+      "lang": "language_10064049"
+    },
+    {
+      "id": "MusicAccompany2",
+      "lang": "language_10064050"
+    },
+    {
+      "id": "MusicAccompany3",
+      "lang": "language_10064051"
+    },
+    {
+      "id": "MusicInstrumentsSelectedTips",
+      "lang": "language_10064052"
+    },
+    {
+      "id": "pinball_day",
+      "lang": "language_10064053"
+    },
+    {
+      "id": "pinball_food_not_enough",
+      "lang": "language_10064054"
+    },
+    {
+      "id": "pinball_food_enough",
+      "lang": "language_10064055"
+    },
+    {
+      "id": "pinball_play_not_enough",
+      "lang": "language_10064056"
+    },
+    {
+      "id": "pinball_play_enough",
+      "lang": "language_10064057"
+    },
+    {
+      "id": "pinball_rest",
+      "lang": "language_10064058"
+    },
+    {
+      "id": "pinball_game_target",
+      "lang": "language_10064059"
+    },
+    {
+      "id": "pinball_game_target2",
+      "lang": "language_10064060"
+    },
+    {
+      "id": "pinball_any_res",
+      "lang": "language_10064061"
+    },
+    {
+      "id": "pinball_food_need",
+      "lang": "language_10064062"
+    },
+    {
+      "id": "pinball_play_need",
+      "lang": "language_10064063"
+    },
+    {
+      "id": "pinball_score_desc_1",
+      "lang": "language_10064064"
+    },
+    {
+      "id": "pinball_score_desc_2",
+      "lang": "language_10064065"
+    },
+    {
+      "id": "pinball_score_desc_3",
+      "lang": "language_10064066"
+    },
+    {
+      "id": "pinball_holenum_desc_1",
+      "lang": "language_10064067"
+    },
+    {
+      "id": "pinball_holenum_desc_2",
+      "lang": "language_10064068"
+    },
+    {
+      "id": "pinball_unlock",
+      "lang": "language_10064069"
+    },
+    {
+      "id": "rouge_spcollection_header",
+      "lang": "language_10064070"
+    },
+    {
+      "id": "rouge_spcollection_unlock",
+      "lang": "language_10064071"
+    },
+    {
+      "id": "rouge_trammels_title",
+      "lang": "language_10064072"
+    },
+    {
+      "id": "blind_box_bouns_count",
+      "lang": "language_10053356"
+    },
+    {
+      "id": "character_copy_talentLayout_copy_code",
+      "lang": "language_10064073"
+    },
+    {
+      "id": "character_copy_talentLayout_use_code",
+      "lang": "language_10064074"
+    },
+    {
+      "id": "character_copy_talentLayout_default",
+      "lang": "language_10030940"
+    },
+    {
+      "id": "rougecollectionlevelupview_desc",
+      "lang": "language_10064075"
+    },
+    {
+      "id": "playercard_act128SSSCount",
+      "lang": "language_10074546"
+    },
+    {
+      "id": "playercard_towerbosspasscount",
+      "lang": "language_10074547"
+    },
+    {
+      "id": "towerbossepisodepasscount",
+      "lang": "language_10064078"
+    },
+    {
+      "id": "fight_rule_desc",
+      "lang": "language_10055702"
+    },
+    {
+      "id": "v2a5_challenge_mainview_finished",
+      "lang": "language_10051181"
+    },
+    {
+      "id": "v2a5_challenge_mainview_unlock",
+      "lang": "language_10061104"
+    },
+    {
+      "id": "autochess_forcepick_tip",
+      "lang": "language_10068385"
+    },
+    {
+      "id": "autochess_forcepick_warningtip",
+      "lang": "language_10068386"
+    },
+    {
+      "id": "autochess_badgeitem_unlock",
+      "lang": "language_10068387"
+    },
+    {
+      "id": "room_manufacture_one_key_add_count",
+      "lang": "language_10068388"
+    },
+    {
+      "id": "room_manufacture_traced_count",
+      "lang": "language_10068389"
+    },
+    {
+      "id": "room_manufacture_formula_need_count",
+      "lang": "language_10068390"
+    },
+    {
+      "id": "room_manufacture_wrong_need_count",
+      "lang": "language_10068391"
+    },
+    {
+      "id": "room_manufacture_lack_mat",
+      "lang": "language_10068392"
+    },
+    {
+      "id": "room_manufacture_lack_mat_level_up",
+      "lang": "language_10068393"
+    },
+    {
+      "id": "room_manufacture_lack_mat_link_path",
+      "lang": "language_10068394"
+    },
+    {
+      "id": "room_manufacture_wait_mat",
+      "lang": "language_10068395"
+    },
+    {
+      "id": "room_manufacture_no_critter",
+      "lang": "language_10068396"
+    },
+    {
+      "id": "room_manufacture_jump_add",
+      "lang": "language_10068397"
+    },
+    {
+      "id": "room_manufacture_jump_level_up_unlock",
+      "lang": "language_10068398"
+    },
+    {
+      "id": "room_manufacture_jump_link_path",
+      "lang": "language_10068399"
+    },
+    {
+      "id": "room_manufacture_jump_place_critter",
+      "lang": "language_10068400"
+    },
+    {
+      "id": "room_manufacture_detail_no_item",
+      "lang": "language_10068401"
+    },
+    {
+      "id": "room_manufacture_detail_item_title",
+      "lang": "language_10068402"
+    },
+    {
+      "id": "autochess_badgeitem_noget",
+      "lang": "language_10029834"
+    },
+    {
+      "id": "room_critter_inputtip_rename_title",
+      "lang": "language_10068403"
+    },
+    {
+      "id": "room_critter_rename_fontcount_desc",
+      "lang": "language_10068404"
+    },
+    {
+      "id": "act183dungeonview_normalmainepisode",
+      "lang": "language_10068405"
+    },
+    {
+      "id": "act183dungeonview_hardmainepisode",
+      "lang": "language_10068406"
+    },
+    {
+      "id": "act183dungeonview_dailyepisode",
+      "lang": "language_10068407"
+    },
+    {
+      "id": "langtype_res-HD",
+      "lang": "language_10068408"
+    },
+    {
+      "id": "act183taskview_dailytask",
+      "lang": "language_10068409"
+    },
+    {
+      "id": "act183taskview_normalmaintask",
+      "lang": "language_10068405"
+    },
+    {
+      "id": "act183taskview_hardmaintask",
+      "lang": "language_10068406"
+    },
+    {
+      "id": "autochess_leaderitem_unlock",
+      "lang": "language_10068410"
+    },
+    {
+      "id": "autochess_gameview_startarget",
+      "lang": "language_10068411"
+    },
+    {
+      "id": "material_packageskin_rate_desc",
+      "lang": "language_10068412"
+    },
+    {
+      "id": "act184_target_not_complete",
+      "lang": "language_10068413"
+    },
+    {
+      "id": "act184_target_complete",
+      "lang": "language_10068414"
+    },
+    {
+      "id": "act184_stroy_title",
+      "lang": "language_10068415"
+    },
+    {
+      "id": "act184_puzzle_title",
+      "lang": "language_10068416"
+    },
+    {
+      "id": "lifecirclesignview_txt_Days",
+      "lang": "language_10068417"
+    },
+    {
+      "id": "act185_gametarget",
+      "lang": "language_10068418"
+    },
+    {
+      "id": "LifeCircleSignRewardsItemItemLastOnePtValue",
+      "lang": "language_10003361"
+    },
+    {
+      "id": "act186_stagetime",
+      "lang": "language_10068419"
+    },
+    {
+      "id": "decoratestore_discount_limittime",
+      "lang": "language_10068420"
+    },
+    {
+      "id": "act186_signview_task_txt",
+      "lang": "language_10068421"
+    },
+    {
+      "id": "act183task_condition_title",
+      "lang": "language_10068422"
+    },
+    {
+      "id": "act183task_condition_title_complete",
+      "lang": "language_10068423"
+    },
+    {
+      "id": "act187_painting_count",
+      "lang": "language_10068424"
+    },
+    {
+      "id": "lifecirclepickchoice_txt_Title_custom",
+      "lang": "language_10068425"
+    },
+    {
+      "id": "lifecirclepickchoice_txt_confirm_custom",
+      "lang": "language_10055894"
+    },
+    {
+      "id": "lifecirclepickchoice_txt_Title_random",
+      "lang": "language_10068426"
+    },
+    {
+      "id": "lifecirclepickchoice_txt_confirm_random",
+      "lang": "language_10068427"
+    },
+    {
+      "id": "MaterialTipViewPackageSkinDesc",
+      "lang": "language_10068428"
+    },
+    {
+      "id": "autochess_resultview_damage",
+      "lang": "language_10068429"
+    },
+    {
+      "id": "act186_signview_day1",
+      "lang": "language_10068430"
+    },
+    {
+      "id": "act186_signview_day2",
+      "lang": "language_10068431"
+    },
+    {
+      "id": "act186_signview_day3",
+      "lang": "language_10068432"
+    },
+    {
+      "id": "act186_signview_day4",
+      "lang": "language_10068433"
+    },
+    {
+      "id": "act186_signview_day5",
+      "lang": "language_10068434"
+    },
+    {
+      "id": "act186_signview_day6",
+      "lang": "language_10068435"
+    },
+    {
+      "id": "act186_signview_day7",
+      "lang": "language_10068436"
+    },
+    {
+      "id": "act186_signview_day8",
+      "lang": "language_10068437"
+    },
+    {
+      "id": "act186_signview_day9",
+      "lang": "language_10068438"
+    },
+    {
+      "id": "summon_reprint_banner_flag",
+      "lang": "language_10068439"
+    },
+    {
+      "id": "activity186view_txt_stage1",
+      "lang": "language_10068440"
+    },
+    {
+      "id": "activity186view_txt_stage2",
+      "lang": "language_10068441"
+    },
+    {
+      "id": "activity186view_txt_stage3",
+      "lang": "language_10068442"
+    },
+    {
+      "id": "autochess_levelview_unlocktips1",
+      "lang": "language_10068443"
+    },
+    {
+      "id": "autochess_levelview_unlocktips2",
+      "lang": "language_10068444"
+    },
+    {
+      "id": "autochess_levelview_unlocktips3",
+      "lang": "language_10068445"
+    },
+    {
+      "id": "act186_hero_name",
+      "lang": "language_90001131"
+    },
+    {
+      "id": "act186_gameview_remaintimes",
+      "lang": "language_10068446"
+    },
+    {
+      "id": "autochess_malllevelupview_level",
+      "lang": "language_10068447"
+    },
+    {
+      "id": "autochess_mainview_tips1",
+      "lang": "language_10068448"
+    },
+    {
+      "id": "autochess_mallview_nocost",
+      "lang": "language_10068449"
+    },
+    {
+      "id": "autochess_pvesettleview_tips1",
+      "lang": "language_10068450"
+    },
+    {
+      "id": "autochess_pvesettleview_tips2",
+      "lang": "language_10068451"
+    },
+    {
+      "id": "autochess_pvesettleview_tips3",
+      "lang": "language_10068452"
+    },
+    {
+      "id": "autochess_gameview_damagelimit",
+      "lang": "language_10068453"
+    },
+    {
+      "id": "dicehero_behavior_atk",
+      "lang": "language_10071589"
+    },
+    {
+      "id": "dicehero_behavior_def",
+      "lang": "language_10071590"
+    },
+    {
+      "id": "dicehero_behavior_buff",
+      "lang": "language_10071591"
+    },
+    {
+      "id": "dicehero_behavior_debuff",
+      "lang": "language_10071592"
+    },
+    {
+      "id": "dicehero_behavior_def_friend",
+      "lang": "language_10071593"
+    },
+    {
+      "id": "dicehero_behavior_def_all",
+      "lang": "language_10071594"
+    },
+    {
+      "id": "dicehero_behavior_buff_all",
+      "lang": "language_10071595"
+    },
+    {
+      "id": "dicehero_behavior_atk_title",
+      "lang": "language_10071596"
+    },
+    {
+      "id": "dicehero_behavior_def_title",
+      "lang": "language_10071597"
+    },
+    {
+      "id": "dicehero_behavior_buff_title",
+      "lang": "language_10071598"
+    },
+    {
+      "id": "dicehero_behavior_debuff_title",
+      "lang": "language_10071599"
+    },
+    {
+      "id": "dicehero_buff",
+      "lang": "language_10017338"
+    },
+    {
+      "id": "dicehero_debuff",
+      "lang": "language_10017339"
+    },
+    {
+      "id": "dicehero_card_nocount",
+      "lang": "language_10071600"
+    },
+    {
+      "id": "dicehero_card_banskill",
+      "lang": "language_10055650"
+    },
+    {
+      "id": "dicehero_card_nodice",
+      "lang": "language_10071601"
+    },
+    {
+      "id": "dicehero_buff_0",
+      "lang": "language_90001142"
+    },
+    {
+      "id": "dicehero_buff_1",
+      "lang": "language_90001142"
+    },
+    {
+      "id": "dicehero_buff_2",
+      "lang": "language_90001142"
+    },
+    {
+      "id": "dicehero_buff_3",
+      "lang": "language_10071602"
+    },
+    {
+      "id": "dicehero_buff_4",
+      "lang": "language_10071603"
+    },
+    {
+      "id": "dicehero_target",
+      "lang": "language_10071604"
+    },
+    {
+      "id": "rougemainview_extrapointtips",
+      "lang": "language_10071605"
+    },
+    {
+      "id": "rougebosscollectionselectview_refresh",
+      "lang": "language_10071606"
+    },
+    {
+      "id": "xugouji_round_target",
+      "lang": "language_10071607"
+    },
+    {
+      "id": "ShortenAct_TaskItem_remain_open",
+      "lang": "language_10062113"
+    },
+    {
+      "id": "rougebosscollectionselectview_txt_title",
+      "lang": "language_10071608"
+    },
+    {
+      "id": "rougebosscollectionselectview_txt_tips",
+      "lang": "language_10071609"
+    },
+    {
+      "id": "weekwalk_2resulttxt1",
+      "lang": "language_10071610"
+    },
+    {
+      "id": "mainview_rougeactextradisplay",
+      "lang": "language_10019916"
+    },
+    {
+      "id": "towerbosstalentplan",
+      "lang": "language_10074548"
+    },
+    {
+      "id": "towerbossteachtitle",
+      "lang": "language_10074549"
+    },
+    {
+      "id": "towerbossteachstart",
+      "lang": "language_10061243"
+    },
+    {
+      "id": "towerbossteachpass",
+      "lang": "language_10074550"
+    },
+    {
+      "id": "towerassistbossviewtips",
+      "lang": "language_10074551"
+    },
+    {
+      "id": "achievementmainview_spgroup_journey",
+      "lang": "language_10074552"
+    },
+    {
+      "id": "achievementmainview_spgroup_weekwalk",
+      "lang": "language_10000146"
+    },
+    {
+      "id": "achievementmainview_spgroup_room",
+      "lang": "language_90001117"
+    },
+    {
+      "id": "achievementmainview_spgroup_explore",
+      "lang": "language_10000064"
+    },
+    {
+      "id": "achievementmainview_spgroup_bossrush",
+      "lang": "language_10000065"
+    },
+    {
+      "id": "achievementmainview_spgroup_tower",
+      "lang": "language_10058491"
+    },
+    {
+      "id": "towertask_act_name",
+      "lang": "language_10073417"
+    },
+    {
+      "id": "towertask_act_nameEn",
+      "lang": "language_10075393"
+    },
+    {
+      "id": "multi_num",
+      "lang": "language_10074553"
+    },
+    {
+      "id": "act191adventureview_gainreward",
+      "lang": "language_10030967"
+    },
+    {
+      "id": "act191adventureview_start",
+      "lang": "language_10074554"
+    },
+    {
+      "id": "weekday1",
+      "lang": "language_10055705"
+    },
+    {
+      "id": "weekday2",
+      "lang": "language_10055706"
+    },
+    {
+      "id": "weekday3",
+      "lang": "language_10055707"
+    },
+    {
+      "id": "weekday4",
+      "lang": "language_10003331"
+    },
+    {
+      "id": "weekday5",
+      "lang": "language_10055708"
+    },
+    {
+      "id": "weekday6",
+      "lang": "language_10055709"
+    },
+    {
+      "id": "weekday7",
+      "lang": "language_10055710"
+    },
+    {
+      "id": "lengZhou6_enemy_skill_title",
+      "lang": "language_10074555"
+    },
+    {
+      "id": "lengZhou6_skill_round",
+      "lang": "language_10074556"
+    },
+    {
+      "id": "lengZhou6_skill_round_end",
+      "lang": "language_10029645"
+    },
+    {
+      "id": "lengZhou6_enemy_skill_title_2",
+      "lang": "language_10074557"
+    },
+    {
+      "id": "warmup_radiotaskitem_day",
+      "lang": "language_10065816"
+    },
+    {
+      "id": "v2a5_challenge_currencyreplacetipsview_desc1",
+      "lang": "language_10074558"
+    },
+    {
+      "id": "v2a7_coopergarland_change_control_mode1",
+      "lang": "language_10074559"
+    },
+    {
+      "id": "v2a7_coopergarland_change_control_mode2",
+      "lang": "language_10074560"
+    },
+    {
+      "id": "v2a7_coopergarland_remove_comp",
+      "lang": "language_10074561"
+    },
+    {
+      "id": "v2a7_coopergarland_right_joystick",
+      "lang": "language_10074562"
+    },
+    {
+      "id": "v2a7_coopergarland_left_joystick",
+      "lang": "language_10074563"
+    },
+    {
+      "id": "towertask_currenthighscore_level",
+      "lang": "language_10074564"
+    },
+    {
+      "id": "towerboss_teachskill_unlock",
+      "lang": "language_10074565"
+    },
+    {
+      "id": "activitymap_hardmode_reward_count",
+      "lang": "language_10051181"
+    },
+    {
+      "id": "v2a7_lengZhou6_endLess_Lv",
+      "lang": "language_10074566"
+    },
+    {
+      "id": "v2a7_lengZhou6_endLess_activeSkill",
+      "lang": "language_10074567"
+    },
+    {
+      "id": "v2a7_lengZhou6_endLess_unActiveSkill",
+      "lang": "language_10074568"
+    },
+    {
+      "id": "common_format_level",
+      "lang": "language_10055610"
+    },
+    {
+      "id": "herogroup_groupName",
+      "lang": "language_10074569"
+    },
+    {
+      "id": "room_critter_exchange",
+      "lang": "language_10035525"
+    },
+    {
+      "id": "store_decorate_good_remain",
+      "lang": "language_10074570"
+    },
+    {
+      "id": "store_decorate_good_unlock",
+      "lang": "language_10074571"
+    },
+    {
+      "id": "MaterialTipViewPackageSkinDescFmt",
+      "lang": "language_10074572"
+    },
+    {
+      "id": "StoreSeasonCardView_not_enough_one_day",
+      "lang": "language_10074573"
+    },
+    {
+      "id": "dungeon_map_submit_new",
+      "lang": "language_10074574"
+    },
+    {
+      "id": "multiple_1",
+      "lang": "language_10074553"
+    },
+    {
+      "id": "item_characterdestinystone_second_confirm",
+      "lang": "language_10074575"
+    },
+    {
+      "id": "summon_pool_exchange",
+      "lang": "language_10074576"
+    },
+    {
+      "id": "v2a7_newbie_storyprocess_locate_item",
+      "lang": "language_10074577"
+    },
+    {
+      "id": "v2a7_newbie_storyprocess_locate_eventiterface",
+      "lang": "language_10074578"
+    },
+    {
+      "id": "v2a7_newbie_rewardclaim_texts",
+      "lang": "language_10074579"
+    },
+    {
+      "id": "v2a7_newbie_storyprocess_locate_item_finish",
+      "lang": "language_10074580"
+    },
+    {
+      "id": "survival_choice_costtime",
+      "lang": "language_10082553"
+    },
+    {
+      "id": "survival_choice_currencyGE",
+      "lang": "language_10082554"
+    },
+    {
+      "id": "survival_choice_currencyLT",
+      "lang": "language_10082555"
+    },
+    {
+      "id": "survival_choice_enthusiastic_get",
+      "lang": "language_10082556"
+    },
+    {
+      "id": "survival_choice_enthusiastic_cost",
+      "lang": "language_10082557"
+    },
+    {
+      "id": "survival_choice_recruitmentNPC",
+      "lang": "language_10082558"
+    },
+    {
+      "id": "survival_choice_getitem",
+      "lang": "language_10082559"
+    },
+    {
+      "id": "survival_choice_costitem",
+      "lang": "language_10082560"
+    },
+    {
+      "id": "survival_choice_changehealth",
+      "lang": "language_10082561"
+    },
+    {
+      "id": "survival_choice_item_noenough",
+      "lang": "language_10082562"
+    },
+    {
+      "id": "survival_mainview_teamhealth",
+      "lang": "language_10082563"
+    },
+    {
+      "id": "survival_filter_material",
+      "lang": "language_10065899"
+    },
+    {
+      "id": "survival_filter_equip",
+      "lang": "language_10082564"
+    },
+    {
+      "id": "survival_filter_consume",
+      "lang": "language_10003210"
+    },
+    {
+      "id": "survival_sort_mass",
+      "lang": "language_10082565"
+    },
+    {
+      "id": "survival_sort_worth",
+      "lang": "language_10082566"
+    },
+    {
+      "id": "survival_sort_type",
+      "lang": "language_10082567"
+    },
+    {
+      "id": "survival_sort_time",
+      "lang": "language_10082568"
+    },
+    {
+      "id": "survival_bag_have",
+      "lang": "language_10082569"
+    },
+    {
+      "id": "survival_bag_remain",
+      "lang": "language_10082570"
+    },
+    {
+      "id": "survival_bag_place",
+      "lang": "language_10082571"
+    },
+    {
+      "id": "survival_baginfo_effect",
+      "lang": "language_10029633"
+    },
+    {
+      "id": "survival_baginfo_info",
+      "lang": "language_90001216"
+    },
+    {
+      "id": "survival_npcselectview_inteam",
+      "lang": "language_10030385"
+    },
+    {
+      "id": "survival_npcselectview_cantuse",
+      "lang": "language_10082572"
+    },
+    {
+      "id": "survival_log_additem",
+      "lang": "language_10082573"
+    },
+    {
+      "id": "survival_log_removeitem",
+      "lang": "language_10082574"
+    },
+    {
+      "id": "survival_log_addnpc",
+      "lang": "language_10082575"
+    },
+    {
+      "id": "survival_log_removenpc",
+      "lang": "language_10082576"
+    },
+    {
+      "id": "survival_log_addcurrency",
+      "lang": "language_10082573"
+    },
+    {
+      "id": "survival_log_removecurrency",
+      "lang": "language_10082577"
+    },
+    {
+      "id": "survival_log_removecurrency_shelter",
+      "lang": "language_10093633"
+    },
+    {
+      "id": "survival_log_addheart",
+      "lang": "language_10082579"
+    },
+    {
+      "id": "survival_log_removeheart",
+      "lang": "language_10082580"
+    },
+    {
+      "id": "survival_log_taskbegin",
+      "lang": "language_10082581"
+    },
+    {
+      "id": "survival_log_taskfail",
+      "lang": "language_10082582"
+    },
+    {
+      "id": "survival_log_teamhealthadd",
+      "lang": "language_10082583"
+    },
+    {
+      "id": "survival_log_teamhealthsub",
+      "lang": "language_10082584"
+    },
+    {
+      "id": "survival_log_herohealthadd",
+      "lang": "language_10082585"
+    },
+    {
+      "id": "survival_log_heaohealthsub",
+      "lang": "language_10082586"
+    },
+    {
+      "id": "survival_log_gettalent",
+      "lang": "language_10082587"
+    },
+    {
+      "id": "survival_reward_title",
+      "lang": "language_10031353"
+    },
+    {
+      "id": "survival_reward_npc_title",
+      "lang": "language_10082588"
+    },
+    {
+      "id": "survival_reward_select_title",
+      "lang": "language_10082589"
+    },
+    {
+      "id": "survivalselectdifficultyview_txt_assess",
+      "lang": "language_10082590"
+    },
+    {
+      "id": "survival_commititemview_worth",
+      "lang": "language_10082591"
+    },
+    {
+      "id": "survival_mainview_beginshrink",
+      "lang": "language_10093634"
+    },
+    {
+      "id": "survival_mainview_endshrink",
+      "lang": "language_10093635"
+    },
+    {
+      "id": "survival_mainview_lastshrink",
+      "lang": "language_10093636"
+    },
+    {
+      "id": "survival_mainview_useitem_tips",
+      "lang": "language_10082595"
+    },
+    {
+      "id": "survival_talentview_lock",
+      "lang": "language_10082596"
+    },
+    {
+      "id": "survival_resultview_time",
+      "lang": "language_10029672"
+    },
+    {
+      "id": "survival_resultview_loss",
+      "lang": "language_10093637"
+    },
+    {
+      "id": "survival_eventview_commititem",
+      "lang": "language_10082598"
+    },
+    {
+      "id": "survival_eventview_rewarditem",
+      "lang": "language_10082599"
+    },
+    {
+      "id": "survival_eventview_npcrecr",
+      "lang": "language_10082600"
+    },
+    {
+      "id": "survival_eventview_leave",
+      "lang": "language_10000985"
+    },
+    {
+      "id": "survival_equipoverview_simple",
+      "lang": "language_10082601"
+    },
+    {
+      "id": "survival_equipoverview_exdesc",
+      "lang": "language_10082602"
+    },
+    {
+      "id": "survivaltaskview_collection_txt",
+      "lang": "language_10082603"
+    },
+    {
+      "id": "survivalbuildingmanageview_buildinglock_txt",
+      "lang": "language_10019891"
+    },
+    {
+      "id": "survivalbuildingmanageview_unbuild_txt",
+      "lang": "language_10031834"
+    },
+    {
+      "id": "survivalbuildingmanageview_buildinglock_reason1",
+      "lang": "language_10082604"
+    },
+    {
+      "id": "survivalbuildingmanageview_buildinglock_reason2",
+      "lang": "language_10082605"
+    },
+    {
+      "id": "fight_get_secret_key",
+      "lang": "language_10082606"
+    },
+    {
+      "id": "survival_herogroup_round",
+      "lang": "language_10082607"
+    },
+    {
+      "id": "TurnBackFullView_title",
+      "lang": "language_10069580"
+    },
+    {
+      "id": "survival_decreevote_tips_agree",
+      "lang": "language_10082608"
+    },
+    {
+      "id": "survival_decreevote_tips_disagree",
+      "lang": "language_10082609"
+    },
+    {
+      "id": "anniversary_typingtips_1",
+      "lang": "language_10082610"
+    },
+    {
+      "id": "anniversary_typingtips_2",
+      "lang": "language_10082611"
+    },
+    {
+      "id": "anniversary_typingtips_3",
+      "lang": "language_10082612"
+    },
+    {
+      "id": "anniversary_typingtips_4",
+      "lang": "language_10082613"
+    },
+    {
+      "id": "anniversary_typingtips_5",
+      "lang": "language_10082614"
+    },
+    {
+      "id": "anniversary_typingtips_6",
+      "lang": "language_10082615"
+    },
+    {
+      "id": "survival_mainview_foodcost_speed",
+      "lang": "language_10082616"
+    },
+    {
+      "id": "survival_mainview_monster_begin",
+      "lang": "language_10082617"
+    },
+    {
+      "id": "survival_mainview_monster_end",
+      "lang": "language_10082618"
+    },
+    {
+      "id": "survival_recruitview_demand_tips",
+      "lang": "language_10082619"
+    },
+    {
+      "id": "survival_recruitview_menber_tips",
+      "lang": "language_10082620"
+    },
+    {
+      "id": "survivalcompositeview_equip_tip1",
+      "lang": "language_10082621"
+    },
+    {
+      "id": "survivalcompositeview_equip_tip2",
+      "lang": "language_10082622"
+    },
+    {
+      "id": "survivalcompositeview_equip_tip3",
+      "lang": "language_10082623"
+    },
+    {
+      "id": "survivalcompositeview_equip_tip4",
+      "lang": "language_10082624"
+    },
+    {
+      "id": "survivalcompositeview_equip_tip5",
+      "lang": "language_10082624"
+    },
+    {
+      "id": "survivalceremonyopeningview_txt_1",
+      "lang": "language_10082625"
+    },
+    {
+      "id": "survivalceremonyopeningview_txt_2",
+      "lang": "language_10082626"
+    },
+    {
+      "id": "V2a8_DragonBoat_RewardItem_txt_unlockTips",
+      "lang": "language_10082627"
+    },
+    {
+      "id": "V2a8_DragonBoat_RewardItem_txt_unlockTips_do_sth",
+      "lang": "language_10082628"
+    },
+    {
+      "id": "survivalceremonyclosingview_survivalTime",
+      "lang": "language_10082629"
+    },
+    {
+      "id": "survivalceremonyclosingview_extraTarget",
+      "lang": "language_10082630"
+    },
+    {
+      "id": "survivalceremonyclosingview_collection",
+      "lang": "language_10082631"
+    },
+    {
+      "id": "anniversary_activitytip_1",
+      "lang": "language_10082632"
+    },
+    {
+      "id": "roomblockgift_colloctcount1",
+      "lang": "language_10077661"
+    },
+    {
+      "id": "roomblockgift_colloctcount2",
+      "lang": "language_10051181"
+    },
+    {
+      "id": "roomblockgift_select",
+      "lang": "language_10077662"
+    },
+    {
+      "id": "roombuildinggift_placingrange",
+      "lang": "language_10030673"
+    },
+    {
+      "id": "SurvivalShelterChooseNpcItem_Tips",
+      "lang": "language_10030949"
+    },
+    {
+      "id": "survival_mainview_monster_fight",
+      "lang": "language_10082633"
+    },
+    {
+      "id": "survivalreportview_npc_empty",
+      "lang": "language_10082634"
+    },
+    {
+      "id": "survivalreportview_npc",
+      "lang": "language_10082635"
+    },
+    {
+      "id": "survivalreportview_monster_empty",
+      "lang": "language_10082636"
+    },
+    {
+      "id": "survivalreportview_monster",
+      "lang": "language_10082637"
+    },
+    {
+      "id": "survivalreportview_build_empty",
+      "lang": "language_10082638"
+    },
+    {
+      "id": "survivalreportview_build",
+      "lang": "language_10082639"
+    },
+    {
+      "id": "survivalreportview_score_success",
+      "lang": "language_10082640"
+    },
+    {
+      "id": "Activity2ndCollectionPageView_EnterMaxStr",
+      "lang": "language_10082641"
+    },
+    {
+      "id": "autochesscard_growup_tip",
+      "lang": "language_10082642"
+    },
+    {
+      "id": "shelterHeroGroupFightView_item",
+      "lang": "language_10082643"
+    },
+    {
+      "id": "anniversary_bonus_rule",
+      "lang": "language_10082644"
+    },
+    {
+      "id": "anniversary_activity_tip2",
+      "lang": "language_10082645"
+    },
+    {
+      "id": "acttime_from_to",
+      "lang": "language_10082646"
+    },
+    {
+      "id": "anniversary_bonus_max",
+      "lang": "language_10082647"
+    },
+    {
+      "id": "anniversary_activity_name",
+      "lang": "language_10082648"
+    },
+    {
+      "id": "fightuiswitch_classify_1",
+      "lang": "language_10082649"
+    },
+    {
+      "id": "fightuiswitch_classify_2",
+      "lang": "language_10082650"
+    },
+    {
+      "id": "fightuiswitch_obtaintime",
+      "lang": "language_10082651"
+    },
+    {
+      "id": "survivalceremonyclosingview_item",
+      "lang": "language_10082652"
+    },
+    {
+      "id": "molideer_interludeview_txt_title",
+      "lang": "language_10082653"
+    },
+    {
+      "id": "molideer_execution_change_tips",
+      "lang": "language_10082654"
+    },
+    {
+      "id": "molideer_team_add_tips",
+      "lang": "language_10082655"
+    },
+    {
+      "id": "molideer_item_add_tips",
+      "lang": "language_10082656"
+    },
+    {
+      "id": "autochess_leaderbuffview_energy",
+      "lang": "language_10082657"
+    },
+    {
+      "id": "autochess_leaderbuffview_fire",
+      "lang": "language_10082658"
+    },
+    {
+      "id": "ShelterMapEventView_looktask",
+      "lang": "language_10004521"
+    },
+    {
+      "id": "autochess_mainview_timetip",
+      "lang": "language_10082659"
+    },
+    {
+      "id": "taluo_show_character_name",
+      "lang": "language_10082660"
+    },
+    {
+      "id": "survival_SurvivalMonsterEventView_tips",
+      "lang": "language_10082661"
+    },
+    {
+      "id": "handbookskinview_playername",
+      "lang": "language_10082662"
+    },
+    {
+      "id": "survivalreportview_score_buildItem",
+      "lang": "language_10082663"
+    },
+    {
+      "id": "survivalreportview_score_foodItem",
+      "lang": "language_10082664"
+    },
+    {
+      "id": "survivalreportview_score_equipItem",
+      "lang": "language_10082665"
+    },
+    {
+      "id": "survivalreportview_score_goldItem",
+      "lang": "language_10082666"
+    },
+    {
+      "id": "survivalreportview_score_otherItem",
+      "lang": "language_10082667"
+    },
+    {
+      "id": "survivalreportview_score_npc",
+      "lang": "language_10082668"
+    },
+    {
+      "id": "survivalreportview_monster_today",
+      "lang": "language_10082669"
+    },
+    {
+      "id": "ShelterManagerInfoView_npc_foodcost",
+      "lang": "language_10082670"
+    },
+    {
+      "id": "survivalmonstereventview_monster_toady",
+      "lang": "language_10082671"
+    },
+    {
+      "id": "survivalreportview_score_failed",
+      "lang": "language_10082672"
+    },
+    {
+      "id": "survivalreportview_npc_new",
+      "lang": "language_10082673"
+    },
+    {
+      "id": "survival_shelter_quit_fight_confirm",
+      "lang": "language_10082674"
+    },
+    {
+      "id": "season104_compose_filter_txt",
+      "lang": "language_10089039"
+    },
+    {
+      "id": "comma_sep",
+      "lang": "language_10055712"
+    },
+    {
+      "id": "multiple_2",
+      "lang": "language_10035525"
+    },
+    {
+      "id": "karongdrawview_remaintimes",
+      "lang": "language_10089040"
+    },
+    {
+      "id": "maliannagame_tip_player",
+      "lang": "language_10089041"
+    },
+    {
+      "id": "maliannagame_tip_enemy",
+      "lang": "language_10089042"
+    },
+    {
+      "id": "commandstation_itemname_and",
+      "lang": "language_10089043"
+    },
+    {
+      "id": "commandstation_paper_canget",
+      "lang": "language_10093638"
+    },
+    {
+      "id": "commandstation_map_character",
+      "lang": "language_10089045"
+    },
+    {
+      "id": "commandstation_map_event",
+      "lang": "language_10089046"
+    },
+    {
+      "id": "commandstation_dispatch_event_forecast_time",
+      "lang": "language_10089047"
+    },
+    {
+      "id": "roomformula_combine_and_up",
+      "lang": "language_10089048"
+    },
+    {
+      "id": "assassin_quest_fight_pick_hero",
+      "lang": "language_10022458"
+    },
+    {
+      "id": "assassin_quest_fight_begin",
+      "lang": "language_10031486"
+    },
+    {
+      "id": "assassin_stealth_game_pick_hero",
+      "lang": "language_10022458"
+    },
+    {
+      "id": "assassin_stealth_game_begin",
+      "lang": "language_10004757"
+    },
+    {
+      "id": "assassin_stealth_game_has_pick_hero",
+      "lang": "language_10077575"
+    },
+    {
+      "id": "assassin_stealth_game_fight_has_pick_hero",
+      "lang": "language_10077576"
+    },
+    {
+      "id": "assassin_stealth_game_player_turn",
+      "lang": "language_10071635"
+    },
+    {
+      "id": "assassin_stealth_game_enemy_turn",
+      "lang": "language_10030225"
+    },
+    {
+      "id": "assassin_stealth_game_recommend",
+      "lang": "language_10029402"
+    },
+    {
+      "id": "assassin_stealth_game_mission_progress",
+      "lang": "language_10077577"
+    },
+    {
+      "id": "assassin_stealth_enemy_refresh_point",
+      "lang": "language_10077578"
+    },
+    {
+      "id": "assassin_stealth_use_skill_prop_select_target",
+      "lang": "language_10077579"
+    },
+    {
+      "id": "assassin_stealth_use_skill_prop_no_target",
+      "lang": "language_10077580"
+    },
+    {
+      "id": "assassin_stealth_expose_tip",
+      "lang": "language_10077581"
+    },
+    {
+      "id": "assassin_stealth_game_unlock_hero",
+      "lang": "language_10077582"
+    },
+    {
+      "id": "assassin_stealth_game_recommend_hero",
+      "lang": "language_10077583"
+    },
+    {
+      "id": "assassineyegameview_title",
+      "lang": "language_10077584"
+    },
+    {
+      "id": "assassineyegameview_title1",
+      "lang": "language_10077585"
+    },
+    {
+      "id": "assassinbuildinglevelupsuccessview_tips",
+      "lang": "language_10077586"
+    },
+    {
+      "id": "odyssey_get_rateup",
+      "lang": "language_10077587"
+    },
+    {
+      "id": "odyssey_conquest_wave",
+      "lang": "language_10077588"
+    },
+    {
+      "id": "odyssey_myth_record",
+      "lang": "language_10077589"
+    },
+    {
+      "id": "odyssey_myth_record1",
+      "lang": "language_10077590"
+    },
+    {
+      "id": "odyssey_myth_record_empty",
+      "lang": "language_10077591"
+    },
+    {
+      "id": "odyssey_tag_mercenary_normal",
+      "lang": "language_10077592"
+    },
+    {
+      "id": "odyssey_tag_mercenary_rare",
+      "lang": "language_10077593"
+    },
+    {
+      "id": "odyssey_tag_mercenary_epic",
+      "lang": "language_10077594"
+    },
+    {
+      "id": "odyssey_tag_religion",
+      "lang": "language_10077595"
+    },
+    {
+      "id": "odyssey_tag_conquest",
+      "lang": "language_10077596"
+    },
+    {
+      "id": "odyssey_tag_myth",
+      "lang": "language_10077597"
+    },
+    {
+      "id": "odyssey_tag_fight",
+      "lang": "language_10029298"
+    },
+    {
+      "id": "odyssey_tag_fight_elite",
+      "lang": "language_10029298"
+    },
+    {
+      "id": "odyssey_equip_normal",
+      "lang": "language_10077598"
+    },
+    {
+      "id": "odyssey_equip_rare",
+      "lang": "language_10077599"
+    },
+    {
+      "id": "odyssey_equip_epic",
+      "lang": "language_10077600"
+    },
+    {
+      "id": "odyssey_equip_legend",
+      "lang": "language_10077601"
+    },
+    {
+      "id": "odyssey_dungeon_mercenary_nexttime",
+      "lang": "language_10077602"
+    },
+    {
+      "id": "odyssey_dungeon_mercenary_totaltime",
+      "lang": "language_10077603"
+    },
+    {
+      "id": "odyssey_dungeon_mapselectinfo_mythRecord3",
+      "lang": "language_10077604"
+    },
+    {
+      "id": "odyssey_dungeon_mapselectinfo_mythRecord2",
+      "lang": "language_10077605"
+    },
+    {
+      "id": "odyssey_dungeon_mapselectinfo_mythRecord1",
+      "lang": "language_10077606"
+    },
+    {
+      "id": "odyssey_dungeon_mapselectinfo_conquest",
+      "lang": "language_10077607"
+    },
+    {
+      "id": "odyssey_reward_getexp",
+      "lang": "language_10077608"
+    },
+    {
+      "id": "odyssey_reward_gettalent",
+      "lang": "language_10077609"
+    },
+    {
+      "id": "odyssey_talenttree_locktip_needlight",
+      "lang": "language_10077610"
+    },
+    {
+      "id": "odyssey_talenttree_locktip_prenode",
+      "lang": "language_10077611"
+    },
+    {
+      "id": "odyssey_talenttree_type1",
+      "lang": "language_10053122"
+    },
+    {
+      "id": "odyssey_talenttree_type2",
+      "lang": "language_10077612"
+    },
+    {
+      "id": "odyssey_talenttree_type3",
+      "lang": "language_10077613"
+    },
+    {
+      "id": "assassinlibrary_type_Hero_1",
+      "lang": "language_10077614"
+    },
+    {
+      "id": "assassinlibrary_type_Hero_2",
+      "lang": "language_10075645"
+    },
+    {
+      "id": "assassinlibrary_type_Geology",
+      "lang": "language_10077615"
+    },
+    {
+      "id": "assassinlibrary_type_Culture",
+      "lang": "language_10077616"
+    },
+    {
+      "id": "assassinlibrary_type_Video",
+      "lang": "language_10077617"
+    },
+    {
+      "id": "odyssey_religion_notexpose_clue",
+      "lang": "language_10077618"
+    },
+    {
+      "id": "character_rankup_unlock_system",
+      "lang": "language_10077619"
+    },
+    {
+      "id": "character_rankup_talentskilltree_add_point",
+      "lang": "language_10077620"
+    },
+    {
+      "id": "character_rankup_system_1",
+      "lang": "language_10077621"
+    },
+    {
+      "id": "character_rankup_system_2",
+      "lang": "language_10077622"
+    },
+    {
+      "id": "character_rankup_system_3",
+      "lang": "language_10077623"
+    },
+    {
+      "id": "characterskilltalent_warning_1",
+      "lang": "language_10077624"
+    },
+    {
+      "id": "characterskilltalent_warning_2",
+      "lang": "language_10077625"
+    },
+    {
+      "id": "characterskilltalent_warning_3",
+      "lang": "language_10077626"
+    },
+    {
+      "id": "characterskilltalent_sub_1",
+      "lang": "language_10053122"
+    },
+    {
+      "id": "characterskilltalent_sub_2",
+      "lang": "language_10077612"
+    },
+    {
+      "id": "characterskilltalent_sub_3",
+      "lang": "language_10077613"
+    },
+    {
+      "id": "odyssey_task_tab_1",
+      "lang": "language_10077627"
+    },
+    {
+      "id": "odyssey_task_tab_2",
+      "lang": "language_10027557"
+    },
+    {
+      "id": "odyssey_task_tab_3",
+      "lang": "language_90001177"
+    },
+    {
+      "id": "odyssey_task_tab_4",
+      "lang": "language_10077597"
+    },
+    {
+      "id": "bossrush_skillcomp_title",
+      "lang": "language_10077628"
+    },
+    {
+      "id": "aijiao_expoint_desc",
+      "lang": "language_10077629"
+    },
+    {
+      "id": "act205_canPlayGameTimes",
+      "lang": "language_10077630"
+    },
+    {
+      "id": "act205_ocean_nextStep",
+      "lang": "language_10042006"
+    },
+    {
+      "id": "act205_ocean_startGame",
+      "lang": "language_10077631"
+    },
+    {
+      "id": "act205_ocean_selectDiceCount",
+      "lang": "language_10077632"
+    },
+    {
+      "id": "act205_remainGameTimes",
+      "lang": "language_10077633"
+    },
+    {
+      "id": "main_switch_classify_title_1",
+      "lang": "language_10055717"
+    },
+    {
+      "id": "main_switch_classify_title_2",
+      "lang": "language_10077634"
+    },
+    {
+      "id": "act205_ocean_firstStepName",
+      "lang": "language_10077635"
+    },
+    {
+      "id": "act205_ocean_secondStepName",
+      "lang": "language_10077636"
+    },
+    {
+      "id": "act205_ocean_firstStepNameEn",
+      "lang": "language_10077637"
+    },
+    {
+      "id": "act205_ocean_secondStepNameEn",
+      "lang": "language_10077638"
+    },
+    {
+      "id": "act205_ocean_needPoints",
+      "lang": "language_10077639"
+    },
+    {
+      "id": "act205_card_selected",
+      "lang": "language_10079705"
+    },
+    {
+      "id": "characterweaponview_unlock_rank",
+      "lang": "language_10030541"
+    },
+    {
+      "id": "freemonthcard_canget_day",
+      "lang": "language_10077642"
+    },
+    {
+      "id": "freemonthcard_hasget_day",
+      "lang": "language_10077643"
+    },
+    {
+      "id": "summonmaincharacter_progress_rewards",
+      "lang": "language_10077644"
+    },
+    {
+      "id": "summonmaincharacter_progress_rewards_full",
+      "lang": "language_10077645"
+    },
+    {
+      "id": "summonmaincharacter_progress_rewards_hero",
+      "lang": "language_10077646"
+    },
+    {
+      "id": "characterskilltalent_sure_light",
+      "lang": "language_10077647"
+    },
+    {
+      "id": "characterskilltalent_cancel_light",
+      "lang": "language_10029702"
+    },
+    {
+      "id": "assassinChase_change_direction_time_tip",
+      "lang": "language_10077648"
+    },
+    {
+      "id": "assassinChase_get_reward_time_tip",
+      "lang": "language_10077649"
+    },
+    {
+      "id": "character_skill_passive_0",
+      "lang": "language_10077650"
+    },
+    {
+      "id": "store_linkgift_totalcount_txt",
+      "lang": "language_10077651"
+    },
+    {
+      "id": "odyssey_mapselect_lock_time",
+      "lang": "language_10077652"
+    },
+    {
+      "id": "add_percent_value",
+      "lang": "language_10077653"
+    },
+    {
+      "id": "battle_id_9290103_task_text",
+      "lang": "language_10077654"
+    },
+    {
+      "id": "v2a9_versionsummon_txt_tips1",
+      "lang": "language_10077655"
+    },
+    {
+      "id": "v2a9_versionsummon_txt_tips2",
+      "lang": "language_10077656"
+    },
+    {
+      "id": "assassinbuildinglevelupview_unlocktips",
+      "lang": "language_10077657"
+    },
+    {
+      "id": "activity204taskview_dailyget",
+      "lang": "language_10077658"
+    },
+    {
+      "id": "bossrush_unlockepisode",
+      "lang": "language_10020017"
+    },
+    {
+      "id": "summon_cobrand_banner_flag",
+      "lang": "language_10065764"
+    },
+    {
+      "id": "activity204entranceview_bubble",
+      "lang": "language_10074827"
+    },
+    {
+      "id": "activity204entranceview_lock",
+      "lang": "language_10077659"
+    },
+    {
+      "id": "activity204entranceview_open",
+      "lang": "language_10077660"
+    },
+    {
+      "id": "store_linkfigt_getitnow_txt",
+      "lang": "language_10079529"
+    },
+    {
+      "id": "odyssey_lvdown",
+      "lang": "language_10077822"
+    },
+    {
+      "id": "odyssey_lvcancel",
+      "lang": "language_10029702"
+    },
+    {
+      "id": "character_develop_goals_title_1",
+      "lang": "language_10093639"
+    },
+    {
+      "id": "character_develop_goals_title_2",
+      "lang": "language_10093640"
+    },
+    {
+      "id": "character_develop_goals_title_3",
+      "lang": "language_10093641"
+    },
+    {
+      "id": "survival_spequip_tag",
+      "lang": "language_10093642"
+    },
+    {
+      "id": "survival_mapblockname",
+      "lang": "language_10093643"
+    },
+    {
+      "id": "v3a1_necrologiststory_target_txt",
+      "lang": "language_10093644"
+    },
+    {
+      "id": "SurvivalRewardInheritView_1",
+      "lang": "language_10093645"
+    },
+    {
+      "id": "SurvivalRewardInheritView_2",
+      "lang": "language_10093646"
+    },
+    {
+      "id": "SurvivalBossInvasionView_1",
+      "lang": "language_10093647"
+    },
+    {
+      "id": "SurvivalBossInvasionView_2",
+      "lang": "language_10093648"
+    },
+    {
+      "id": "PowerMakerPatFaceView_desc_1",
+      "lang": "language_10093649"
+    },
+    {
+      "id": "PowerMakerPatFaceView_desc_2",
+      "lang": "language_10093650"
+    },
+    {
+      "id": "SurvivalSummaryActView_1",
+      "lang": "language_10093651"
+    },
+    {
+      "id": "191collectionchangeview_title1",
+      "lang": "language_10093652"
+    },
+    {
+      "id": "191collectionchangeview_title2",
+      "lang": "language_10093653"
+    },
+    {
+      "id": "191collectionchangeview_addtip1",
+      "lang": "language_10093654"
+    },
+    {
+      "id": "191collectionchangeview_addtip2",
+      "lang": "language_10093655"
+    },
+    {
+      "id": "191collectiontipview_addchange",
+      "lang": "language_10090427"
+    },
+    {
+      "id": "191collectiontipview_addupgrade",
+      "lang": "language_10090428"
+    },
+    {
+      "id": "main_switch_classify_title_3",
+      "lang": "language_10093656"
+    },
+    {
+      "id": "SurvivalShopView_1",
+      "lang": "language_10093657"
+    },
+    {
+      "id": "SurvivalShopView_2",
+      "lang": "language_10029602"
+    },
+    {
+      "id": "SurvivalShopView_3",
+      "lang": "language_10093658"
+    },
+    {
+      "id": "TowerDeep_normalNotFight",
+      "lang": "language_10093659"
+    },
+    {
+      "id": "TowerDeep_normalFight",
+      "lang": "language_10093659"
+    },
+    {
+      "id": "TowerDeep_endlessNotFight",
+      "lang": "language_10093660"
+    },
+    {
+      "id": "TowerDeep_endlessFight",
+      "lang": "language_10093660"
+    },
+    {
+      "id": "TowerDeep_normalNotFightEn",
+      "lang": "language_10093661"
+    },
+    {
+      "id": "TowerDeep_normalFightEn",
+      "lang": "language_10093661"
+    },
+    {
+      "id": "TowerDeep_endlessNotFightEn",
+      "lang": "language_10093662"
+    },
+    {
+      "id": "TowerDeep_endlessFightEn",
+      "lang": "language_10093662"
+    },
+    {
+      "id": "TowerDeep_curDeepHigh",
+      "lang": "language_10093663"
+    },
+    {
+      "id": "TowerDeep_teamSave_save",
+      "lang": "language_10093664"
+    },
+    {
+      "id": "TowerDeep_teamSave_load",
+      "lang": "language_10093665"
+    },
+    {
+      "id": "TowerDeep_teamSave_round",
+      "lang": "language_10093666"
+    },
+    {
+      "id": "RoomFishing_times",
+      "lang": "language_10093667"
+    },
+    {
+      "id": "RoomFishing_StoreItem",
+      "lang": "language_10093668"
+    },
+    {
+      "id": "RoomFishing_reward_tips",
+      "lang": "language_10093669"
+    },
+    {
+      "id": "RoomFishing_other_reward_tips",
+      "lang": "language_10093670"
+    },
+    {
+      "id": "RoomFishing_refresh_time",
+      "lang": "language_10093671"
+    },
+    {
+      "id": "RoomFishing_fishing_time",
+      "lang": "language_10093672"
+    },
+    {
+      "id": "Room_block_reform_select_all",
+      "lang": "language_10030317"
+    },
+    {
+      "id": "Room_block_reform_select_single",
+      "lang": "language_10093673"
+    },
+    {
+      "id": "Room_block_reform_select_multiple",
+      "lang": "language_10093674"
+    },
+    {
+      "id": "c_optionpackage_downloadsize_txt_opveract",
+      "lang": "language_10093675"
+    },
+    {
+      "id": "c_optionpackage_downloadsize_txt_opexplore",
+      "lang": "language_10093676"
+    },
+    {
+      "id": "c_optionpackage_download_btn_yes",
+      "lang": "language_10093677"
+    },
+    {
+      "id": "c_optionpackage_download_btn_no",
+      "lang": "language_10029731"
+    },
+    {
+      "id": "storeskinview_skintips",
+      "lang": "language_10093678"
+    },
+    {
+      "id": "storeskingoodsview2_storeskin_txt_tips",
+      "lang": "language_10093679"
+    },
+    {
+      "id": "skinhandbook_lock_suit",
+      "lang": "language_10090101"
+    },
+    {
+      "id": "towermain_deeplayer",
+      "lang": "language_10093680"
+    },
+    {
+      "id": "buy_limit_time",
+      "lang": "language_10082678"
+    },
+    {
+      "id": "receive_limit_time",
+      "lang": "language_10082679"
+    },
+    {
+      "id": "v3a1_bpoperactshowview_txt_MAX",
+      "lang": "language_10093681"
+    },
+    {
+      "id": "v3a1_bpoperactshowview_txt_finish",
+      "lang": "language_10093682"
+    },
+    {
+      "id": "Survival_HandBookTitle_StateAbnormal",
+      "lang": "language_10017339"
+    },
+    {
+      "id": "SurvivalBubble_1",
+      "lang": "language_10093683"
+    },
+    {
+      "id": "achievement_category_nameplate",
+      "lang": "language_10093684"
+    },
+    {
+      "id": "SurvivalSummaryActReputationItem_1",
+      "lang": "language_10093685"
+    },
+    {
+      "id": "SurvivalSummaryActReputationItem_2",
+      "lang": "language_10093686"
+    },
+    {
+      "id": "SurvivalSelectTalentTreeView_1",
+      "lang": "language_10093687"
+    },
+    {
+      "id": "SurvivalRewardSelectView_1",
+      "lang": "language_10093688"
+    },
+    {
+      "id": "SurvivalRewardSelectView_2",
+      "lang": "language_10093689"
+    },
+    {
+      "id": "SurvivalDecreeSelectView_1",
+      "lang": "language_10093690"
+    },
+    {
+      "id": "pata_500M_pogress_title",
+      "lang": "language_10092481"
+    },
+    {
+      "id": "pata_500M_pogress_desc",
+      "lang": "language_10093691"
+    },
+    {
+      "id": "SettingsGraphicsView_videoMode_0",
+      "lang": "language_10047747"
+    },
+    {
+      "id": "SettingsGraphicsView_videoMode_1",
+      "lang": "language_10097064"
+    },
+    {
+      "id": "SettingsGraphicsView_videoMode_2",
+      "lang": "language_10097065"
+    },
+    {
+      "id": "SettingsGraphicsView_videoMode_tips",
+      "lang": "language_10097066"
+    },
+    {
+      "id": "summonluckybag_remain_count",
+      "lang": "language_10097142"
+    },
+    {
+      "id": "Season3_0FightRuleView_txtEffectDesc",
+      "lang": "language_10090095"
+    },
+    {
+      "id": "CommandStationEnterView_showMap_txtmapname",
+      "lang": "language_10089085"
+    },
+    {
+      "id": "FightFailView_refreshConditionsContainer_txt_extratips",
+      "lang": "language_10090122"
+    },
+    {
+      "id": "AutoChessMainView_refreshDoubleRankTip_allCnt",
+      "lang": "language_10082675"
+    },
+    {
+      "id": "ShelterTaskMainTaskView_refreshTalent_txtBase",
+      "lang": "language_10082676"
+    },
+    {
+      "id": "SurvivalDecreeSelectItem_descItem_txtDesc",
+      "lang": "language_10082677"
+    },
+    {
+      "id": "CharacterBackpackEquipView_showEquipBackpackNum",
+      "lang": "language_10079589"
+    },
+    {
+      "id": "V2a9BossRushModel_getUnlockEpisodeDisplay",
+      "lang": "language_10079777"
+    },
+    {
+      "id": "Act191FetterTipView_goFetterDesc",
+      "lang": "language_10074581"
+    },
+    {
+      "id": "Act191FetterTipView_goFetterDesc_Empty1",
+      "lang": "language_10074582"
+    },
+    {
+      "id": "Act191FetterTipView_goFetterDesc_Empty2",
+      "lang": "language_10074583"
+    },
+    {
+      "id": "fightbloodpooltipview_txtdesc",
+      "lang": "language_10075392"
+    },
+    {
+      "id": "Act191SkillDescComp_replaceSkillTag_fmt",
+      "lang": "language_10065815"
+    },
+    {
+      "id": "Activity191Helper_buildDesc1",
+      "lang": "language_10075475"
+    },
+    {
+      "id": "Activity191Helper_buildDesc",
+      "lang": "language_10075476"
+    },
+    {
+      "id": "activity188_mopup_layer",
+      "lang": "language_90001142"
+    },
+    {
+      "id": "DungeonWeekWalkView_txtcurprogress_battleName",
+      "lang": "language_10072605"
+    },
+    {
+      "id": "DungeonWeekWalkView_txtscenetype_typeName_name",
+      "lang": "language_10072606"
+    },
+    {
+      "id": "AutoChessLeaderCard_txtSkillDesc",
+      "lang": "language_10068454"
+    },
+    {
+      "id": "DecorateStoreView_txttitle_setFirstStrSize",
+      "lang": "language_10068455"
+    },
+    {
+      "id": "Activity186View_txtStage",
+      "lang": "language_90001128"
+    },
+    {
+      "id": "MaterialTipView_jumpText_unlock",
+      "lang": "language_10035622"
+    },
+    {
+      "id": "NewPlayerCardView_activity_only",
+      "lang": "language_10030294"
+    },
+    {
+      "id": "NewPlayerCardView_activity",
+      "lang": "language_10065813"
+    },
+    {
+      "id": "NewPlayerCardView_times_only",
+      "lang": "language_10033769"
+    },
+    {
+      "id": "NewPlayerCardView_times",
+      "lang": "language_10047757"
+    },
+    {
+      "id": "PinballController_removeBuilding",
+      "lang": "language_10020123"
+    },
+    {
+      "id": "PinballBuildView_createEffectItem",
+      "lang": "language_10020123"
+    },
+    {
+      "id": "SkillDescComp_replaceSkillTag_overseas",
+      "lang": "language_10065815"
+    },
+    {
+      "id": "PinballController_sep",
+      "lang": "language_10029560"
+    },
+    {
+      "id": "Season166_2_4InformationAnalyView_consume",
+      "lang": "language_10065817"
+    },
+    {
+      "id": "DateOfBirthSelectionView_year",
+      "lang": "language_90001134"
+    },
+    {
+      "id": "DateOfBirthSelectionView_month",
+      "lang": "language_90001135"
+    },
+    {
+      "id": "DateOfBirthSelectionView_day",
+      "lang": "language_90001136"
+    },
+    {
+      "id": "SkillDescComp_buildSkillNameLinkTag_overseas",
+      "lang": "language_10053330"
+    },
+    {
+      "id": "EliminateChessTipView_1",
+      "lang": "language_10055683"
+    },
+    {
+      "id": "EliminateChessTipView_2",
+      "lang": "language_10055684"
+    },
+    {
+      "id": "LoperaLevelView_1001_2",
+      "lang": "language_10055685"
+    },
+    {
+      "id": "LoperaLevelView_1001_3",
+      "lang": "language_10055686"
+    },
+    {
+      "id": "LoperaLevelView_1001_4",
+      "lang": "language_10055686"
+    },
+    {
+      "id": "LoperaLevelView_1001_5",
+      "lang": "language_10055687"
+    },
+    {
+      "id": "LoperaLevelView_1001_8",
+      "lang": "language_10055688"
+    },
+    {
+      "id": "LoperaLevelView_1001_9",
+      "lang": "language_10055689"
+    },
+    {
+      "id": "LoperaLevelView_1001_10",
+      "lang": "language_10055685"
+    },
+    {
+      "id": "LoperaLevelView_1001_11",
+      "lang": "language_10055690"
+    },
+    {
+      "id": "LoperaLevelView_1001_12",
+      "lang": "language_10055687"
+    },
+    {
+      "id": "LoperaLevelView_1001_13",
+      "lang": "language_10055687"
+    },
+    {
+      "id": "LoperaLevelView_1001_14",
+      "lang": "language_10055691"
+    },
+    {
+      "id": "LoperaLevelView_1001_15",
+      "lang": "language_10053445"
+    },
+    {
+      "id": "LoperaLevelView_1001_18",
+      "lang": "language_10055685"
+    },
+    {
+      "id": "LoperaLevelView_1001_19",
+      "lang": "language_10055685"
+    },
+    {
+      "id": "LoperaLevelView_1001_20",
+      "lang": "language_10055685"
+    },
+    {
+      "id": "LoperaLevelView_1002_1",
+      "lang": "language_10055688"
+    },
+    {
+      "id": "LoperaLevelView_1002_3",
+      "lang": "language_10055689"
+    },
+    {
+      "id": "LoperaLevelView_1002_4",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1002_5",
+      "lang": "language_10055690"
+    },
+    {
+      "id": "LoperaLevelView_1002_6",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1002_7",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1002_8",
+      "lang": "language_10055693"
+    },
+    {
+      "id": "LoperaLevelView_1002_9",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1002_10",
+      "lang": "language_10055694"
+    },
+    {
+      "id": "LoperaLevelView_1002_11",
+      "lang": "language_10055693"
+    },
+    {
+      "id": "LoperaLevelView_1002_12",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1002_13",
+      "lang": "language_10055689"
+    },
+    {
+      "id": "LoperaLevelView_1002_14",
+      "lang": "language_10055693"
+    },
+    {
+      "id": "LoperaLevelView_1002_15",
+      "lang": "language_10055695"
+    },
+    {
+      "id": "LoperaLevelView_1002_16",
+      "lang": "language_10055689"
+    },
+    {
+      "id": "LoperaLevelView_1002_17",
+      "lang": "language_10055693"
+    },
+    {
+      "id": "LoperaLevelView_1002_18",
+      "lang": "language_10055695"
+    },
+    {
+      "id": "LoperaLevelView_1002_19",
+      "lang": "language_10055689"
+    },
+    {
+      "id": "LoperaLevelView_1002_20",
+      "lang": "language_10055689"
+    },
+    {
+      "id": "LoperaLevelView_1002_22",
+      "lang": "language_10055695"
+    },
+    {
+      "id": "LoperaLevelView_1002_23",
+      "lang": "language_10055689"
+    },
+    {
+      "id": "LoperaLevelView_1002_26",
+      "lang": "language_10055696"
+    },
+    {
+      "id": "LoperaLevelView_1003_1",
+      "lang": "language_10055697"
+    },
+    {
+      "id": "LoperaLevelView_1003_2",
+      "lang": "language_10055698"
+    },
+    {
+      "id": "LoperaLevelView_1003_3",
+      "lang": "language_10055689"
+    },
+    {
+      "id": "LoperaLevelView_1003_8",
+      "lang": "language_10055689"
+    },
+    {
+      "id": "LoperaLevelView_1003_9",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1003_13",
+      "lang": "language_10055699"
+    },
+    {
+      "id": "LoperaLevelView_1003_14",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1003_15",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1003_18",
+      "lang": "language_10055699"
+    },
+    {
+      "id": "LoperaLevelView_1003_19",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1003_20",
+      "lang": "language_10055690"
+    },
+    {
+      "id": "LoperaLevelView_1003_21",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1003_22",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1003_23",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1003_24",
+      "lang": "language_10055699"
+    },
+    {
+      "id": "LoperaLevelView_1003_25",
+      "lang": "language_10055690"
+    },
+    {
+      "id": "LoperaLevelView_1003_26",
+      "lang": "language_10055700"
+    },
+    {
+      "id": "LoperaLevelView_1003_27",
+      "lang": "language_10055700"
+    },
+    {
+      "id": "LoperaLevelView_1003_28",
+      "lang": "language_10055700"
+    },
+    {
+      "id": "LoperaLevelView_1003_29",
+      "lang": "language_10055700"
+    },
+    {
+      "id": "LoperaLevelView_1003_30",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1003_31",
+      "lang": "language_10055690"
+    },
+    {
+      "id": "LoperaLevelView_1003_32",
+      "lang": "language_10055690"
+    },
+    {
+      "id": "LoperaLevelView_1003_33",
+      "lang": "language_10055699"
+    },
+    {
+      "id": "LoperaLevelView_1003_34",
+      "lang": "language_10055701"
+    },
+    {
+      "id": "LoperaLevelView_1003_35",
+      "lang": "language_10055701"
+    },
+    {
+      "id": "LoperaLevelView_1003_36",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1003_37",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1003_38",
+      "lang": "language_10055692"
+    },
+    {
+      "id": "LoperaLevelView_1003_39",
+      "lang": "language_10055699"
+    },
+    {
+      "id": "LoperaLevelView_1003_40",
+      "lang": "language_10055699"
+    },
+    {
+      "id": "LoperaLevelView_1003_41",
+      "lang": "language_10055699"
+    },
+    {
+      "id": "tag_desc_color_overseas",
+      "lang": "language_10055702"
+    },
+    {
+      "id": "CharacterSkillTipView_chess_residue_round_fmt",
+      "lang": "language_10055704"
+    },
+    {
+      "id": "OptionPackageController_checkNeedDownload",
+      "lang": "language_10055711"
+    },
+    {
+      "id": "sep_overseas",
+      "lang": "language_10055712"
+    },
+    {
+      "id": "CharacterSkillTipView_txtDescr_overseas",
+      "lang": "language_10055713"
+    },
+    {
+      "id": "FightSuccView_txtdemand_overseas",
+      "lang": "language_10058319"
+    },
+    {
+      "id": "V2a1_BossRush_OfferRoleEffectItem_skillname_link_overseas",
+      "lang": "language_10053330"
+    },
+    {
+      "id": "packagestoregoods_pregoods_tips",
+      "lang": "language_10053358"
+    },
+    {
+      "id": "fairyland_speker_content_overseas",
+      "lang": "language_10048414"
+    },
+    {
+      "id": "rouge_kehua_lock_tip",
+      "lang": "language_10045380"
+    },
+    {
+      "id": "rouge_map_piece_choice_item_exit",
+      "lang": "language_10045504"
+    },
+    {
+      "id": "hero_display_level0_variant",
+      "lang": "language_10000908"
+    },
+    {
+      "id": "activity123_overseas_11700_1",
+      "lang": "language_10036650"
+    },
+    {
+      "id": "activity123_overseas_11700_2",
+      "lang": "language_10035549"
+    },
+    {
+      "id": "character_max_overseas",
+      "lang": "language_10036783"
+    },
+    {
+      "id": "fightfoucusview_passiveskill_desc_overseas",
+      "lang": "language_10033756"
+    },
+    {
+      "id": "versionactivity1_6skillview_skilleff_overseas",
+      "lang": "language_10033776"
+    },
+    {
+      "id": "name_colon_space_overseas",
+      "lang": "language_10033780"
+    },
+    {
+      "id": "tag_name_colon_space_overseas",
+      "lang": "language_10033781"
+    },
+    {
+      "id": "aizilagameview_height",
+      "lang": "language_10030156"
+    },
+    {
+      "id": "store_recommendTime_overseas",
+      "lang": "language_10030157"
+    },
+    {
+      "id": "summonpooldetail_luckybag_prop_all",
+      "lang": "language_10030158"
+    },
+    {
+      "id": "versionactivity1_3bufftipview_locktips",
+      "lang": "language_10030159"
+    },
+    {
+      "id": "skin_name_line",
+      "lang": "language_10030160"
+    },
+    {
+      "id": "versionactivity_1_2_yaxian_not_found_tooth_title",
+      "lang": "language_10030162"
+    },
+    {
+      "id": "activity101signview_remaintime",
+      "lang": "language_10029964"
+    },
+    {
+      "id": "activity101signview_over",
+      "lang": "language_10019781"
+    },
+    {
+      "id": "activityguestbindview_go",
+      "lang": "language_10030163"
+    },
+    {
+      "id": "activityguestbindview_reward",
+      "lang": "language_10030164"
+    },
+    {
+      "id": "activityguestbindview_rewarded",
+      "lang": "language_10030165"
+    },
+    {
+      "id": "minors_18+",
+      "lang": "language_10030166"
+    },
+    {
+      "id": "minors_18+_limit",
+      "lang": "language_10030167"
+    },
+    {
+      "id": "minors_birth_format",
+      "lang": "language_10030168"
+    },
+    {
+      "id": "minors_under_16",
+      "lang": "language_10030169"
+    },
+    {
+      "id": "minors_under_16_limit",
+      "lang": "language_10030170"
+    },
+    {
+      "id": "minors_under_18",
+      "lang": "language_10030171"
+    },
+    {
+      "id": "minors_under_18_limit",
+      "lang": "language_10030172"
+    }
+  ]
+]

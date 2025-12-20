@@ -1,0 +1,70 @@
+[
+  "store_charge_conditional",
+  [
+    {
+      "goodsId": 83056301,
+      "listenerType": "HasHero",
+      "listenerParam": "3123",
+      "maxProgress": 1,
+      "bonus": "1#140051#2",
+      "bigImg2": "v2a9_chainpacksell_1",
+      "bigImg3": "v2a9_chainpacksell_1_0",
+      "id": 305111,
+      "order2": 85,
+      "conDesc": "language_10077978",
+      "idsStr": ""
+    },
+    {
+      "goodsId": 83056302,
+      "listenerType": "HasHero",
+      "listenerParam": "3123",
+      "maxProgress": 1,
+      "bonus": "1#140051#3",
+      "bigImg2": "v2a9_chainpacksell_1",
+      "bigImg3": "v2a9_chainpacksell_1_0",
+      "id": 305111,
+      "order2": 190,
+      "conDesc": "language_10077978",
+      "idsStr": ""
+    },
+    {
+      "goodsId": 83056303,
+      "listenerType": "HasHero",
+      "listenerParam": "3124",
+      "maxProgress": 1,
+      "bonus": "1#140052#2",
+      "bigImg2": "v2a9_chainpacksell_2",
+      "bigImg3": "v2a9_chainpacksell_2_0",
+      "id": 305121,
+      "order2": 85,
+      "conDesc": "language_10077979",
+      "idsStr": ""
+    },
+    {
+      "goodsId": 83056304,
+      "listenerType": "HasHero",
+      "listenerParam": "3124",
+      "maxProgress": 1,
+      "bonus": "1#140052#3",
+      "bigImg2": "v2a9_chainpacksell_2",
+      "bigImg3": "v2a9_chainpacksell_2_0",
+      "id": 305121,
+      "order2": 190,
+      "conDesc": "language_10077979",
+      "idsStr": ""
+    },
+    {
+      "goodsId": 83056305,
+      "listenerType": "HasHero",
+      "listenerParam": "3123#3124",
+      "maxProgress": 1,
+      "bonus": "1#140050#5",
+      "bigImg2": "v2a9_chainpacksell_3",
+      "bigImg3": "v2a9_chainpacksell_3_0",
+      "id": 0,
+      "order2": 210,
+      "conDesc": "language_10079808",
+      "idsStr": "305121#305111"
+    }
+  ]
+]

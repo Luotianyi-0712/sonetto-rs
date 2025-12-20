@@ -1,0 +1,350 @@
+[
+  "room_character_shadow",
+  [
+    {
+      "skinId": 303203,
+      "animName": "idle_room",
+      "shadow": 1
+    },
+    {
+      "skinId": 305301,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 305302,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 305601,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 305602,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 307001,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 307002,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 307201,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 307202,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 305303,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 308001,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 308002,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 308601,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 308602,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 309401,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 309402,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 309501,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 309502,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 309701,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 309702,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 310001,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 310002,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 310201,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 310202,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 307203,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 305304,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 310401,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 310402,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 310501,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 310502,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 310901,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 310902,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 310801,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 310802,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 309503,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 308003,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 311001,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 311002,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 311101,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 311102,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 311301,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 311302,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 311401,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 311402,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 311601,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 311602,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 311701,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 311702,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 312001,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 312002,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 312101,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 312102,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 312601,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 312602,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 312801,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 312802,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 310503,
+      "animName": "idle_room",
+      "shadow": 1
+    },
+    {
+      "skinId": 312301,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 312302,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 312401,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 312402,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 313201,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 313202,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 312501,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 312502,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 307704,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 311303,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 300731,
+      "animName": "interact",
+      "shadow": 1
+    },
+    {
+      "skinId": 309504,
+      "animName": "interact",
+      "shadow": 1
+    }
+  ]
+]

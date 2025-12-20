@@ -1,0 +1,315 @@
+[
+  "survival_shelter_intrude_scheme",
+  [
+    {
+      "id": 73151001,
+      "desc": "language_10080981",
+      "icon": "survival_new_bossbuff5_1"
+    },
+    {
+      "id": 73151002,
+      "desc": "language_10080982",
+      "icon": "survival_new_bossbuff5_1"
+    },
+    {
+      "id": 73151003,
+      "desc": "language_10081451",
+      "icon": "survival_new_bossbuff5_1"
+    },
+    {
+      "id": 73151004,
+      "desc": "language_10081452",
+      "icon": "survival_new_bossbuff5_1"
+    },
+    {
+      "id": 73151005,
+      "desc": "language_10090980",
+      "icon": "survival_new_bossbuff5_1"
+    },
+    {
+      "id": 73151006,
+      "desc": "language_10090981",
+      "icon": "survival_new_bossbuff5_1"
+    },
+    {
+      "id": 73151007,
+      "desc": "language_10090982",
+      "icon": "survival_new_bossbuff5_1"
+    },
+    {
+      "id": 73151008,
+      "desc": "language_10096485",
+      "icon": "survival_new_bossbuff5_1"
+    },
+    {
+      "id": 73120101,
+      "desc": "language_10060748",
+      "icon": "survival_new_bossbuff2_1"
+    },
+    {
+      "id": 73120102,
+      "desc": "language_10060749",
+      "icon": "survival_new_bossbuff2_1"
+    },
+    {
+      "id": 73120103,
+      "desc": "language_10060750",
+      "icon": "survival_new_bossbuff2_1"
+    },
+    {
+      "id": 73120104,
+      "desc": "language_10096486",
+      "icon": "survival_new_bossbuff2_1"
+    },
+    {
+      "id": 73120105,
+      "desc": "language_10096487",
+      "icon": "survival_new_bossbuff2_1"
+    },
+    {
+      "id": 73120106,
+      "desc": "language_10096488",
+      "icon": "survival_new_bossbuff2_1"
+    },
+    {
+      "id": 73120107,
+      "desc": "language_10096489",
+      "icon": "survival_new_bossbuff2_1"
+    },
+    {
+      "id": 73120108,
+      "desc": "language_10096489",
+      "icon": "survival_new_bossbuff2_1"
+    },
+    {
+      "id": 73120109,
+      "desc": "language_10096489",
+      "icon": "survival_new_bossbuff2_1"
+    },
+    {
+      "id": 73120110,
+      "desc": "language_10096490",
+      "icon": "survival_new_bossbuff2_1"
+    },
+    {
+      "id": 73120111,
+      "desc": "language_10096491",
+      "icon": "survival_new_bossbuff2_1"
+    },
+    {
+      "id": 73120112,
+      "desc": "language_10096492",
+      "icon": "survival_new_bossbuff2_1"
+    },
+    {
+      "id": 73130101,
+      "desc": "language_10096493",
+      "icon": "survival_new_bossbuff3_1"
+    },
+    {
+      "id": 73130102,
+      "desc": "language_10096494",
+      "icon": "survival_new_bossbuff3_1"
+    },
+    {
+      "id": 73130103,
+      "desc": "language_10096495",
+      "icon": "survival_new_bossbuff3_1"
+    },
+    {
+      "id": 73130104,
+      "desc": "language_10096496",
+      "icon": "survival_new_bossbuff3_1"
+    },
+    {
+      "id": 73130105,
+      "desc": "language_10096497",
+      "icon": "survival_new_bossbuff3_1"
+    },
+    {
+      "id": 73130106,
+      "desc": "language_10096498",
+      "icon": "survival_new_bossbuff3_1"
+    },
+    {
+      "id": 73130107,
+      "desc": "language_10096499",
+      "icon": "survival_new_bossbuff3_1"
+    },
+    {
+      "id": 73130108,
+      "desc": "language_10096500",
+      "icon": "survival_new_bossbuff3_1"
+    },
+    {
+      "id": 73130109,
+      "desc": "language_10096501",
+      "icon": "survival_new_bossbuff3_1"
+    },
+    {
+      "id": 73160101,
+      "desc": "language_10096502",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160102,
+      "desc": "language_10096503",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160103,
+      "desc": "language_10096504",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160104,
+      "desc": "language_10096505",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160105,
+      "desc": "language_10096506",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160106,
+      "desc": "language_10096507",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160107,
+      "desc": "language_10096508",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160108,
+      "desc": "language_10096509",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160109,
+      "desc": "language_10096510",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160110,
+      "desc": "language_10059173",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160111,
+      "desc": "language_10049048",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160112,
+      "desc": "language_10059174",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160113,
+      "desc": "language_10059175",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160114,
+      "desc": "language_10049049",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160115,
+      "desc": "language_10059176",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160116,
+      "desc": "language_10059205",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160117,
+      "desc": "language_10049073",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73160118,
+      "desc": "language_10059206",
+      "icon": "survival_new_bossbuff6_1"
+    },
+    {
+      "id": 73140101,
+      "desc": "language_10059181",
+      "icon": "survival_new_bossbuff4_1"
+    },
+    {
+      "id": 73140102,
+      "desc": "language_10059182",
+      "icon": "survival_new_bossbuff4_1"
+    },
+    {
+      "id": 73140103,
+      "desc": "language_10049054",
+      "icon": "survival_new_bossbuff4_1"
+    },
+    {
+      "id": 73140104,
+      "desc": "language_10059183",
+      "icon": "survival_new_bossbuff4_1"
+    },
+    {
+      "id": 73140105,
+      "desc": "language_10059184",
+      "icon": "survival_new_bossbuff4_1"
+    },
+    {
+      "id": 73140106,
+      "desc": "language_10049056",
+      "icon": "survival_new_bossbuff4_1"
+    },
+    {
+      "id": 73140107,
+      "desc": "language_10059185",
+      "icon": "survival_new_bossbuff4_1"
+    },
+    {
+      "id": 73140108,
+      "desc": "language_10059186",
+      "icon": "survival_new_bossbuff4_1"
+    },
+    {
+      "id": 73140109,
+      "desc": "language_10049058",
+      "icon": "survival_new_bossbuff4_1"
+    },
+    {
+      "id": 73140110,
+      "desc": "language_10049008",
+      "icon": "survival_new_bossbuff4_1"
+    },
+    {
+      "id": 73140111,
+      "desc": "language_10049009",
+      "icon": "survival_new_bossbuff4_1"
+    },
+    {
+      "id": 73140112,
+      "desc": "language_10049010",
+      "icon": "survival_new_bossbuff4_1"
+    },
+    {
+      "id": 73140113,
+      "desc": "language_10059159",
+      "icon": "survival_new_bossbuff4_1"
+    },
+    {
+      "id": 73140114,
+      "desc": "language_10059160",
+      "icon": "survival_new_bossbuff4_1"
+    },
+    {
+      "id": 73140115,
+      "desc": "language_10059161",
+      "icon": "survival_new_bossbuff4_1"
+    }
+  ]
+]

@@ -1,0 +1,13 @@
+[
+  "explore_item_type",
+  [
+    {
+      "type": 1,
+      "isActiveType": false
+    },
+    {
+      "type": 2,
+      "isActiveType": true
+    }
+  ]
+]

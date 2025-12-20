@@ -1,0 +1,93 @@
+[
+  "bgm_type",
+  [
+    {
+      "id": 1,
+      "typename": "language_10039388"
+    },
+    {
+      "id": 2,
+      "typename": "language_10000018"
+    },
+    {
+      "id": 3,
+      "typename": "language_10000027"
+    },
+    {
+      "id": 4,
+      "typename": "language_10000041"
+    },
+    {
+      "id": 5,
+      "typename": "language_10000054"
+    },
+    {
+      "id": 6,
+      "typename": "language_10000077"
+    },
+    {
+      "id": 7,
+      "typename": "language_10003386"
+    },
+    {
+      "id": 8,
+      "typename": "language_10033897"
+    },
+    {
+      "id": 9,
+      "typename": "language_10039389"
+    },
+    {
+      "id": 10,
+      "typename": "language_10039382"
+    },
+    {
+      "id": 11,
+      "typename": "language_10045514"
+    },
+    {
+      "id": 12,
+      "typename": "language_10048438"
+    },
+    {
+      "id": 13,
+      "typename": "language_10053432"
+    },
+    {
+      "id": 14,
+      "typename": "language_10058494"
+    },
+    {
+      "id": 15,
+      "typename": "language_10062124"
+    },
+    {
+      "id": 16,
+      "typename": "language_10065870"
+    },
+    {
+      "id": 17,
+      "typename": "language_10069594"
+    },
+    {
+      "id": 18,
+      "typename": "language_10073040"
+    },
+    {
+      "id": 19,
+      "typename": "language_10080253"
+    },
+    {
+      "id": 20,
+      "typename": "language_10087215"
+    },
+    {
+      "id": 205,
+      "typename": "language_10075522"
+    },
+    {
+      "id": 21,
+      "typename": "language_10090442"
+    }
+  ]
+]

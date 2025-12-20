@@ -1,0 +1,138 @@
+[
+  "scene_eggs",
+  [
+    {
+      "id": 301,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/v2a5_m_s01_mj01",
+      "actionClass": "SceneEggRandomShow",
+      "actionParams": "",
+      "parallel": 1
+    },
+    {
+      "id": 302,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/v2a5_m_s01_mj02",
+      "actionClass": "SceneEggLightModeAnimShow",
+      "actionParams": "v2a5_m_s01_mojing2_eye1#v2a5_m_s01_mojing2_eye2#v2a5_m_s01_mojing2_eye3#v2a5_m_s01_mojing2_eye4",
+      "parallel": 0
+    },
+    {
+      "id": 303,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/v2a5_m_s01_mj03",
+      "actionClass": "SceneEggLightModeAnimShow",
+      "actionParams": "v2a5_m_s01_mojing3_eye1#v2a5_m_s01_mojing3_eye2#v2a5_m_s01_mojing3_eye3#v2a5_m_s01_mojing3_eye4",
+      "parallel": 0
+    },
+    {
+      "id": 304,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/v2a5_m_s01_guizi_j3|s01_obj_a/Anim/Obj/m_s01_caidan/v2a5_m_s01_white",
+      "actionClass": "SceneEggTv",
+      "actionParams": "",
+      "parallel": 0
+    },
+    {
+      "id": 305,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/v2a5_m_s01_wxdxj",
+      "actionClass": "SceneEggRadio",
+      "actionParams": "3027",
+      "parallel": 1
+    },
+    {
+      "id": 306,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/v2a5_m_s01_build_a_noise",
+      "actionClass": "SceneEggLightModeShow",
+      "actionParams": "4",
+      "parallel": 1
+    },
+    {
+      "id": 401,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/sp01_m_s01_obj_d_caidan_makuzishuqin",
+      "actionClass": "SceneEggRadio",
+      "actionParams": "306504",
+      "parallel": 1
+    },
+    {
+      "id": 402,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/sp01_m_s01_obj_d_caidan_jinpingguo",
+      "actionClass": "SceneEggRadio",
+      "actionParams": "311603",
+      "parallel": 1
+    },
+    {
+      "id": 403,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/sp01_m_s01_obj_d_caidan_weilabeizi",
+      "actionClass": "SceneEggRadio",
+      "actionParams": "308704",
+      "parallel": 1
+    },
+    {
+      "id": 404,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/sp01_m_s01_obj_d_caidan_apple",
+      "actionClass": "SceneEggRadio",
+      "actionParams": "3028",
+      "parallel": 1
+    },
+    {
+      "id": 405,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/sp01_m_s01_obj_d_caidan_kashandela",
+      "actionClass": "SceneEggRadio",
+      "actionParams": "3124",
+      "parallel": 1
+    },
+    {
+      "id": 406,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/sp01_m_s01_obj_d_caidan_alikexiousi",
+      "actionClass": "SceneEggRadio",
+      "actionParams": "312202",
+      "parallel": 1
+    },
+    {
+      "id": 407,
+      "path": "s01_obj_a/Anim/AppearNode",
+      "actionClass": "SceneEggMainSceneTransition",
+      "actionParams": "600",
+      "parallel": 1
+    },
+    {
+      "id": 408,
+      "path": "s01_obj_a/Anim/AppearNode",
+      "actionClass": "SceneEggPreviewSceneTransition",
+      "actionParams": "",
+      "parallel": 1
+    },
+    {
+      "id": 409,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/sp01_m_s01_obj_fire01",
+      "actionClass": "SceneEggLightModeShow",
+      "actionParams": "4",
+      "parallel": 1
+    },
+    {
+      "id": 410,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/sp01_m_s01_obj_h_water_day",
+      "actionClass": "SceneEggLightModeShow",
+      "actionParams": "1",
+      "parallel": 1
+    },
+    {
+      "id": 411,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/sp01_m_s01_obj_h_water_overcast",
+      "actionClass": "SceneEggLightModeShow",
+      "actionParams": "2",
+      "parallel": 1
+    },
+    {
+      "id": 412,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/sp01_m_s01_obj_h_water_dusk",
+      "actionClass": "SceneEggLightModeShow",
+      "actionParams": "3",
+      "parallel": 1
+    },
+    {
+      "id": 413,
+      "path": "s01_obj_a/Anim/Obj/m_s01_caidan/sp01_m_s01_obj_h_water_night",
+      "actionClass": "SceneEggLightModeShow",
+      "actionParams": "4",
+      "parallel": 1
+    }
+  ]
+]

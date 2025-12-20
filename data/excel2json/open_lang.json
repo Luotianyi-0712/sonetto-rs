@@ -1,0 +1,11 @@
+[
+  "open_lang",
+  [
+    {
+      "id": 1,
+      "langTxts": "zh#en#jp#tw#kr",
+      "langVoice": "zh#en#jp#tw#kr",
+      "langStoryVoice": "zh#en#jp#tw#kr"
+    }
+  ]
+]

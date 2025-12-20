@@ -1,0 +1,29 @@
+[
+  "rouge_ending",
+  [
+    {
+      "id": 101,
+      "version": "",
+      "desc": "language_10043770",
+      "endingStoryId": 600909
+    },
+    {
+      "id": 102,
+      "version": "",
+      "desc": "language_10043771",
+      "endingStoryId": 600911
+    },
+    {
+      "id": 103,
+      "version": "",
+      "desc": "language_10064659",
+      "endingStoryId": 600915
+    },
+    {
+      "id": 104,
+      "version": "",
+      "desc": "language_10072024",
+      "endingStoryId": 600919
+    }
+  ]
+]

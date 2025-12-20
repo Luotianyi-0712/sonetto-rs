@@ -1,0 +1,69 @@
+[
+  "nfc_recognize",
+  [
+    {
+      "id": 102501,
+      "type": 76,
+      "param": 1032401,
+      "notMainTipsId": 260001,
+      "unlockId": 260002,
+      "unclaimedId": 260003
+    },
+    {
+      "id": 102502,
+      "type": 76,
+      "param": 1032402,
+      "notMainTipsId": 260001,
+      "unlockId": 260002,
+      "unclaimedId": 260003
+    },
+    {
+      "id": 102503,
+      "type": 76,
+      "param": 1032403,
+      "notMainTipsId": 260001,
+      "unlockId": 260002,
+      "unclaimedId": 260003
+    },
+    {
+      "id": 102504,
+      "type": 76,
+      "param": 1032404,
+      "notMainTipsId": 260001,
+      "unlockId": 260002,
+      "unclaimedId": 260003
+    },
+    {
+      "id": 102505,
+      "type": 76,
+      "param": 1032405,
+      "notMainTipsId": 260001,
+      "unlockId": 260002,
+      "unclaimedId": 260003
+    },
+    {
+      "id": 102506,
+      "type": 76,
+      "param": 1032406,
+      "notMainTipsId": 260001,
+      "unlockId": 260002,
+      "unclaimedId": 260003
+    },
+    {
+      "id": 102801,
+      "type": 81,
+      "param": 210005,
+      "notMainTipsId": 284001,
+      "unlockId": 284002,
+      "unclaimedId": 0
+    },
+    {
+      "id": 103101,
+      "type": 76,
+      "param": 10230502,
+      "notMainTipsId": 260001,
+      "unlockId": 260002,
+      "unclaimedId": 260003
+    }
+  ]
+]

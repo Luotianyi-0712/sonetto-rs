@@ -1,0 +1,35 @@
+[
+  "activity189_shortenact",
+  [
+    {
+      "id": 1,
+      "version": "2-6",
+      "settingId": 12607,
+      "style": 1
+    },
+    {
+      "id": 5,
+      "version": "2-7",
+      "settingId": 12781,
+      "style": 1
+    },
+    {
+      "id": 4,
+      "version": "2-6",
+      "settingId": 12681,
+      "style": 1
+    },
+    {
+      "id": 3,
+      "version": "2-5",
+      "settingId": 12581,
+      "style": 1
+    },
+    {
+      "id": 2,
+      "version": "2-4",
+      "settingId": 12481,
+      "style": 2
+    }
+  ]
+]

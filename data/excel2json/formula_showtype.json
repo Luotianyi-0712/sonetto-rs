@@ -1,0 +1,33 @@
+[
+  "formula_showtype",
+  [
+    {
+      "id": 301,
+      "buildingType": 3,
+      "name": "language_10030199",
+      "nameEn": "INSIGHT MATERIALS",
+      "icon": "201"
+    },
+    {
+      "id": 302,
+      "buildingType": 3,
+      "name": "language_10021958",
+      "nameEn": "WILDERNESS MATERIALS",
+      "icon": "203"
+    },
+    {
+      "id": 303,
+      "buildingType": 3,
+      "name": "language_10005055",
+      "nameEn": "RESONATE MATERIALS",
+      "icon": "202"
+    },
+    {
+      "id": 304,
+      "buildingType": 3,
+      "name": "language_10005046",
+      "nameEn": "PSYCHUBE MATERIALS",
+      "icon": "204"
+    }
+  ]
+]

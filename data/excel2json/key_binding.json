@@ -1,0 +1,572 @@
+[
+  "key_binding",
+  [
+    {
+      "hud": 1,
+      "id": 1,
+      "description": "language_10022144",
+      "key": "F1",
+      "editable": 1
+    },
+    {
+      "hud": 1,
+      "id": 2,
+      "description": "language_10068329",
+      "key": "F2",
+      "editable": 1
+    },
+    {
+      "hud": 1,
+      "id": 3,
+      "description": "language_10068330",
+      "key": "BackQuote",
+      "editable": 1
+    },
+    {
+      "hud": 1,
+      "id": 4,
+      "description": "language_10022607",
+      "key": "E",
+      "editable": 1
+    },
+    {
+      "hud": 1,
+      "id": 5,
+      "description": "language_10030292",
+      "key": "Q",
+      "editable": 1
+    },
+    {
+      "hud": 1,
+      "id": 6,
+      "description": "language_10022459",
+      "key": "B",
+      "editable": 1
+    },
+    {
+      "hud": 1,
+      "id": 7,
+      "description": "language_10022451",
+      "key": "R",
+      "editable": 1
+    },
+    {
+      "hud": 1,
+      "id": 8,
+      "description": "language_10068331",
+      "key": "Tab",
+      "editable": 1
+    },
+    {
+      "hud": 1,
+      "id": 9,
+      "description": "language_10068332",
+      "key": "LeftControl",
+      "editable": 1
+    },
+    {
+      "hud": 1,
+      "id": 10,
+      "description": "language_10068333",
+      "key": "I",
+      "editable": 1
+    },
+    {
+      "hud": 1,
+      "id": 11,
+      "description": "language_10068334",
+      "key": "H",
+      "editable": 1
+    },
+    {
+      "hud": 1,
+      "id": 12,
+      "description": "language_10000137",
+      "key": "Return",
+      "editable": 1
+    },
+    {
+      "hud": 1,
+      "id": 13,
+      "description": "language_90001117",
+      "key": "W",
+      "editable": 1
+    },
+    {
+      "hud": 1,
+      "id": 14,
+      "description": "language_10005045",
+      "key": "C",
+      "editable": 1
+    },
+    {
+      "hud": 1,
+      "id": 15,
+      "description": "language_10022454",
+      "key": "S",
+      "editable": 1
+    },
+    {
+      "hud": 2,
+      "id": 1,
+      "description": "language_10068335",
+      "key": "W",
+      "editable": 1
+    },
+    {
+      "hud": 2,
+      "id": 2,
+      "description": "language_10068336",
+      "key": "A",
+      "editable": 1
+    },
+    {
+      "hud": 2,
+      "id": 3,
+      "description": "language_10068337",
+      "key": "S",
+      "editable": 1
+    },
+    {
+      "hud": 2,
+      "id": 4,
+      "description": "language_10068338",
+      "key": "D",
+      "editable": 1
+    },
+    {
+      "hud": 2,
+      "id": 5,
+      "description": "language_10068339",
+      "key": "M",
+      "editable": 1
+    },
+    {
+      "hud": 2,
+      "id": 6,
+      "description": "language_10068340",
+      "key": "B",
+      "editable": 1
+    },
+    {
+      "hud": 2,
+      "id": 7,
+      "description": "language_10068341",
+      "key": "Alpha1",
+      "editable": 0
+    },
+    {
+      "hud": 2,
+      "id": 8,
+      "description": "language_10068342",
+      "key": "Alpha2",
+      "editable": 0
+    },
+    {
+      "hud": 2,
+      "id": 9,
+      "description": "language_10068343",
+      "key": "Alpha3",
+      "editable": 0
+    },
+    {
+      "hud": 2,
+      "id": 10,
+      "description": "language_10068344",
+      "key": "Alpha4",
+      "editable": 0
+    },
+    {
+      "hud": 2,
+      "id": 11,
+      "description": "language_10068345",
+      "key": "Alpha5",
+      "editable": 0
+    },
+    {
+      "hud": 2,
+      "id": 12,
+      "description": "language_10068346",
+      "key": "Alpha6",
+      "editable": 0
+    },
+    {
+      "hud": 2,
+      "id": 13,
+      "description": "language_10068347",
+      "key": "Alpha7",
+      "editable": 0
+    },
+    {
+      "hud": 2,
+      "id": 14,
+      "description": "language_10068348",
+      "key": "Alpha8",
+      "editable": 0
+    },
+    {
+      "hud": 2,
+      "id": 15,
+      "description": "language_10068349",
+      "key": "Alpha9",
+      "editable": 0
+    },
+    {
+      "hud": 2,
+      "id": 16,
+      "description": "language_10068350",
+      "key": "G",
+      "editable": 1
+    },
+    {
+      "hud": 2,
+      "id": 17,
+      "description": "language_10031713",
+      "key": "Tab",
+      "editable": 1
+    },
+    {
+      "hud": 3,
+      "id": 1,
+      "description": "language_10031879",
+      "key": "Tab",
+      "editable": 1
+    },
+    {
+      "hud": 3,
+      "id": 2,
+      "description": "language_10068350",
+      "key": "G",
+      "editable": 1
+    },
+    {
+      "hud": 3,
+      "id": 3,
+      "description": "language_10068351",
+      "key": "F1",
+      "editable": 1
+    },
+    {
+      "hud": 3,
+      "id": 4,
+      "description": "language_10068352",
+      "key": "F2",
+      "editable": 1
+    },
+    {
+      "hud": 3,
+      "id": 5,
+      "description": "language_10068353",
+      "key": "Q",
+      "editable": 1
+    },
+    {
+      "hud": 3,
+      "id": 6,
+      "description": "language_10068354",
+      "key": "E",
+      "editable": 1
+    },
+    {
+      "hud": 3,
+      "id": 7,
+      "description": "language_10068355",
+      "key": "A",
+      "editable": 1
+    },
+    {
+      "hud": 3,
+      "id": 8,
+      "description": "language_10068356",
+      "key": "D",
+      "editable": 1
+    },
+    {
+      "hud": 3,
+      "id": 9,
+      "description": "language_10068357",
+      "key": "Alpha1",
+      "editable": 0
+    },
+    {
+      "hud": 3,
+      "id": 10,
+      "description": "language_10068358",
+      "key": "Alpha2",
+      "editable": 0
+    },
+    {
+      "hud": 3,
+      "id": 11,
+      "description": "language_10068359",
+      "key": "Alpha3",
+      "editable": 0
+    },
+    {
+      "hud": 3,
+      "id": 12,
+      "description": "language_10068360",
+      "key": "Alpha4",
+      "editable": 0
+    },
+    {
+      "hud": 3,
+      "id": 13,
+      "description": "language_10068361",
+      "key": "Alpha5",
+      "editable": 0
+    },
+    {
+      "hud": 3,
+      "id": 14,
+      "description": "language_10068362",
+      "key": "Alpha6",
+      "editable": 0
+    },
+    {
+      "hud": 3,
+      "id": 15,
+      "description": "language_10068363",
+      "key": "Alpha7",
+      "editable": 0
+    },
+    {
+      "hud": 3,
+      "id": 16,
+      "description": "language_10068364",
+      "key": "Alpha8",
+      "editable": 0
+    },
+    {
+      "hud": 3,
+      "id": 17,
+      "description": "language_10068365",
+      "key": "Alpha9",
+      "editable": 0
+    },
+    {
+      "hud": 3,
+      "id": 18,
+      "description": "language_10068366",
+      "key": "Space",
+      "editable": 1
+    },
+    {
+      "hud": 3,
+      "id": 19,
+      "description": "language_10068367",
+      "key": "R",
+      "editable": 1
+    },
+    {
+      "hud": 3,
+      "id": 20,
+      "description": "language_10068368",
+      "key": "LeftControl",
+      "editable": 1
+    },
+    {
+      "hud": 3,
+      "id": 21,
+      "description": "language_10068369",
+      "key": "W",
+      "editable": 1
+    },
+    {
+      "hud": 3,
+      "id": 22,
+      "description": "language_10068370",
+      "key": "S",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 1,
+      "description": "language_10068350",
+      "key": "G",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 2,
+      "description": "language_10068371",
+      "key": "F1",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 3,
+      "description": "language_10068372",
+      "key": "F2",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 4,
+      "description": "language_10068373",
+      "key": "F3",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 5,
+      "description": "language_10068374",
+      "key": "",
+      "editable": 0
+    },
+    {
+      "hud": 4,
+      "id": 6,
+      "description": "language_10068332",
+      "key": "LeftControl",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 7,
+      "description": "language_10030931",
+      "key": "Space",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 8,
+      "description": "language_10068375",
+      "key": "",
+      "editable": 0
+    },
+    {
+      "hud": 4,
+      "id": 9,
+      "description": "language_10031022",
+      "key": "R",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 10,
+      "description": "language_10031676",
+      "key": "Tab",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 11,
+      "description": "language_10030978",
+      "key": "C",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 12,
+      "description": "language_10030580",
+      "key": "Return",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 13,
+      "description": "language_10068376",
+      "key": "W",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 14,
+      "description": "language_10068377",
+      "key": "A",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 15,
+      "description": "language_10068378",
+      "key": "S",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 16,
+      "description": "language_10068379",
+      "key": "D",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 17,
+      "description": "language_10068380",
+      "key": "Q",
+      "editable": 1
+    },
+    {
+      "hud": 4,
+      "id": 18,
+      "description": "language_10068381",
+      "key": "E",
+      "editable": 1
+    },
+    {
+      "hud": 1,
+      "id": 16,
+      "description": "language_10005062",
+      "key": "",
+      "editable": 0
+    },
+    {
+      "hud": 1,
+      "id": 17,
+      "description": "language_10005086",
+      "key": "",
+      "editable": 0
+    },
+    {
+      "hud": 1,
+      "id": 18,
+      "description": "language_10005043",
+      "key": "",
+      "editable": 0
+    },
+    {
+      "hud": 1,
+      "id": 19,
+      "description": "language_10062528",
+      "key": "",
+      "editable": 0
+    },
+    {
+      "hud": 1,
+      "id": 20,
+      "description": "language_10022470",
+      "key": "",
+      "editable": 0
+    },
+    {
+      "hud": 1,
+      "id": 21,
+      "description": "language_10005042",
+      "key": "",
+      "editable": 0
+    },
+    {
+      "hud": 1,
+      "id": 22,
+      "description": "language_10005041",
+      "key": "",
+      "editable": 0
+    },
+    {
+      "hud": 1,
+      "id": 23,
+      "description": "language_10030945",
+      "key": "",
+      "editable": 0
+    },
+    {
+      "hud": 1,
+      "id": 24,
+      "description": "language_10031369",
+      "key": "",
+      "editable": 0
+    }
+  ]
+]

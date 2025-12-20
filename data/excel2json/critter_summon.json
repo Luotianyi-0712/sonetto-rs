@@ -1,0 +1,15 @@
+[
+  "critter_summon",
+  [
+    {
+      "poolId": 1,
+      "cost": "2#290001#1",
+      "serverSummon": false
+    },
+    {
+      "poolId": 3,
+      "cost": "",
+      "serverSummon": true
+    }
+  ]
+]

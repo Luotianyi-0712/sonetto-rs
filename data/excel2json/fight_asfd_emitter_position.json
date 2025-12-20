@@ -1,0 +1,47 @@
+[
+  "fight_asfd_emitter_position",
+  [
+    {
+      "sceneId": 1,
+      "emitterId": 1,
+      "mySidePos": [
+        7.92,
+        4.2,
+        -2.98
+      ],
+      "enemySidePos": [
+        -8.85,
+        4.2,
+        -2.98
+      ]
+    },
+    {
+      "sceneId": 1,
+      "emitterId": 2,
+      "mySidePos": [
+        7.92,
+        5,
+        -2.98
+      ],
+      "enemySidePos": [
+        -8.85,
+        5,
+        -2.98
+      ]
+    },
+    {
+      "sceneId": 1,
+      "emitterId": 3,
+      "mySidePos": [
+        6.8,
+        4.63,
+        -2.98
+      ],
+      "enemySidePos": [
+        -7.85,
+        4.94,
+        -2.98
+      ]
+    }
+  ]
+]
