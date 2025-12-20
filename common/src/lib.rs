@@ -33,46 +33,52 @@ pub fn cur_time_ms_u128() -> u128 {
 }
 
 pub static DATA_DIRECTORY: Lazy<PathBuf> = Lazy::new(|| {
-    // 1. Check environment variable first
-    if let Ok(data_dir) = std::env::var("DATA_DIR") {
-        let path = PathBuf::from(data_dir);
-        if path.exists() {
-            return path;
+    // 1. Explicit override
+    if let Ok(dir) = std::env::var("DATA_DIR") {
+        let p = PathBuf::from(dir);
+        if p.exists() {
+            return p;
         }
     }
 
-    // 2. Check current working directory
-    let current_dir_data = std::env::current_dir()
-        .ok()
-        .map(|p| p.join("..\\..\\data\\static"))
-        .filter(|p| p.exists());
-    if let Some(path) = current_dir_data {
-        return path;
-    }
+    // Relative path from repo / binary
+    let rel_data = data_relative_path();
 
-    // 3. Check executable's directory
-    let exe_dir_data = std::env::current_exe()
-        .ok()
-        .and_then(|exe| exe.parent().map(|p| p.join("..\\..\\data\\static")))
-        .filter(|p| p.exists());
-    if let Some(path) = exe_dir_data {
-        return path;
-    }
-
-    // 4. Fallback to cargo manifest dir for development
-    if let Ok(manifest_dir) = std::env::var("CARGO_MANIFEST_DIR") {
-        let dev_path = PathBuf::from(manifest_dir).join("..\\..\\data\\static");
-        if dev_path.exists() {
-            return dev_path;
+    // 2. From current working directory
+    if let Ok(cwd) = std::env::current_dir() {
+        let p = cwd.join(&rel_data);
+        if p.exists() {
+            return p;
         }
     }
 
-    // 5. Last resort - return current_dir/data even if it doesn't exist
-    // (will give clear error messages when files are accessed)
+    // 3. From executable directory
+    if let Ok(exe) = std::env::current_exe() {
+        if let Some(dir) = exe.parent() {
+            let p = dir.join(&rel_data);
+            if p.exists() {
+                return p;
+            }
+        }
+    }
+
+    // 4. Dev fallback (cargo run)
+    if let Ok(manifest) = std::env::var("CARGO_MANIFEST_DIR") {
+        let p = PathBuf::from(manifest).join(&rel_data);
+        if p.exists() {
+            return p;
+        }
+    }
+
+    // 5. Last resort (non-existent but deterministic)
     std::env::current_dir()
         .unwrap_or_else(|_| PathBuf::from("."))
-        .join("..\\..\\data\\static")
+        .join(&rel_data)
 });
+
+fn data_relative_path() -> PathBuf {
+    ["..", "..", "data", "static"].iter().collect()
+}
 
 pub fn time_ms_u64() -> u64 {
     SystemTime::now()

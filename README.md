@@ -23,6 +23,7 @@ Everythings unlocked out the box
 - Username changes work
 - Users can change the profile heros
 - Users can change Psychubes on heros
+- BGM works (juke box anyone?)
 
 ## Not working (confirmed)
 - Tower battles
@@ -36,3 +37,9 @@ Everythings unlocked out the box
 - Profile picture (soon)
 - Real battle logic (right now we skip battle to the end)
 - Auto battle (soon)
+- Drop rates need to be tested
+
+## Plans for the future
+
+For now I'll just fix the handles that are not working. Then implement a proper system for users to manage their accounts and progress.
+Right now everything is hardcoded to be maxed out which isn't ideal for some people. Eventually we'll add proper currency logic and real battle logic.
