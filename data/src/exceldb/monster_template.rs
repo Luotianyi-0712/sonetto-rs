@@ -9,11 +9,9 @@ pub struct MonsterTemplate {
     pub add_dmg: i32,
     #[serde(rename = "addDmgGrow")]
     pub add_dmg_grow: i32,
-    #[serde(rename = "attack")]
     pub attack: i32,
     #[serde(rename = "attackGrow")]
     pub attack_grow: i32,
-    #[serde(rename = "cri")]
     pub cri: i32,
     #[serde(rename = "criDef")]
     pub cri_def: i32,
@@ -25,7 +23,6 @@ pub struct MonsterTemplate {
     pub cri_dmg_grow: i32,
     #[serde(rename = "criGrow")]
     pub cri_grow: i32,
-    #[serde(rename = "defense")]
     pub defense: i32,
     #[serde(rename = "defenseGrow")]
     pub defense_grow: i32,
@@ -33,25 +30,20 @@ pub struct MonsterTemplate {
     pub drop_dmg: i32,
     #[serde(rename = "dropDmgGrow")]
     pub drop_dmg_grow: i32,
-    #[serde(rename = "life")]
     pub life: i32,
     #[serde(rename = "lifeGrow")]
     pub life_grow: i32,
-    #[serde(rename = "mdefense")]
     pub mdefense: i32,
     #[serde(rename = "mdefenseGrow")]
     pub mdefense_grow: i32,
     #[serde(rename = "multiHp")]
     pub multi_hp: String,
-    #[serde(rename = "recri")]
     pub recri: i32,
     #[serde(rename = "recriGrow")]
     pub recri_grow: i32,
-    #[serde(rename = "technic")]
     pub technic: i32,
     #[serde(rename = "technicGrow")]
     pub technic_grow: i32,
-    #[serde(rename = "template")]
     pub template: i32,
 }
 pub struct MonsterTemplateTable {

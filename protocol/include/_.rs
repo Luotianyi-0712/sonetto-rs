@@ -34201,13 +34201,13 @@ pub struct WordTestRequest {
 #[repr(i32)]
 pub enum CmdId {
     /// / === framework.network.socket.system_cmd ===
-    /// / Original name: Login = 1;
+    /// / Original: Login
     LoginRequestCmd = 1,
-    /// / Original name: GetLostCmdRespRequest = 3;
+    /// / Original: GetLostCmdRespRequest
     ReconnectRequestCmd = 3,
-    /// / Original name: ForceLogoutResponse = 4;
+    /// / Original: ForceLogoutResponse
     ForceLogoutPushCmd = 4,
-    /// / Original name: GetLostCmdRespResponseStartTag = 5;
+    /// / Original: GetLostCmdRespResponseStartTag
     GetReconnectStartTagRequestCmd = 5,
     /// / === Achievement ===
     /// / Original: UpdateAchievementPush

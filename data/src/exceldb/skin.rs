@@ -37,25 +37,18 @@ pub struct Skin {
     pub character_view_img_offset: String,
     #[serde(rename = "characterViewOffset")]
     pub character_view_offset: String,
-    #[serde(rename = "color")]
     pub color: String,
-    #[serde(rename = "colorbg")]
     pub colorbg: i32,
-    #[serde(rename = "compensate")]
     pub compensate: String,
     #[serde(rename = "defaultStencilValue")]
     pub default_stencil_value: String,
-    #[serde(rename = "des")]
     pub des: String,
-    #[serde(rename = "drawing")]
     pub drawing: String,
-    #[serde(rename = "effect")]
     pub effect: String,
     #[serde(rename = "effectHangPoint")]
     pub effect_hang_point: String,
     #[serde(rename = "fightSuccViewOffset")]
     pub fight_succ_view_offset: String,
-    #[serde(rename = "fight_special")]
     pub fight_special: i32,
     #[serde(rename = "flipX")]
     pub flip_x: i32,
@@ -79,7 +72,6 @@ pub struct Skin {
     pub halo_offset: String,
     #[serde(rename = "headIcon")]
     pub head_icon: String,
-    #[serde(rename = "id")]
     pub id: i32,
     #[serde(rename = "isFly")]
     pub is_fly: i32,
@@ -87,13 +79,10 @@ pub struct Skin {
     pub is_skin_video: bool,
     #[serde(rename = "itemIcon")]
     pub item_icon: String,
-    #[serde(rename = "jump")]
     pub jump: i32,
     #[serde(rename = "largeIcon")]
     pub large_icon: String,
-    #[serde(rename = "live2d")]
     pub live2d: String,
-    #[serde(rename = "live2dbg")]
     pub live2dbg: String,
     #[serde(rename = "lucidescapeViewImgOffset")]
     pub lucidescape_view_img_offset: String,
@@ -107,7 +96,6 @@ pub struct Skin {
     pub main_view_offset: String,
     #[serde(rename = "matId")]
     pub mat_id: i32,
-    #[serde(rename = "name")]
     pub name: String,
     #[serde(rename = "nameEng")]
     pub name_eng: String,
@@ -117,7 +105,6 @@ pub struct Skin {
     pub playercard_view_img_offset: String,
     #[serde(rename = "playercardViewLive2dOffset")]
     pub playercard_view_live2d_offset: String,
-    #[serde(rename = "rare")]
     pub rare: i32,
     #[serde(rename = "repeatBuyTime")]
     pub repeat_buy_time: String,
@@ -129,7 +116,6 @@ pub struct Skin {
     pub show_switch_btn: i32,
     #[serde(rename = "showTemplate")]
     pub show_template: i32,
-    #[serde(rename = "skills")]
     pub skills: String,
     #[serde(rename = "skin2dParams")]
     pub skin2d_params: String,
@@ -157,7 +143,6 @@ pub struct Skin {
     pub skin_story: String,
     #[serde(rename = "skinViewImgOffset")]
     pub skin_view_img_offset: String,
-    #[serde(rename = "spine")]
     pub spine: String,
     #[serde(rename = "storeTag")]
     pub store_tag: String,

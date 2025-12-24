@@ -17,9 +17,7 @@ pub struct Episode {
     pub battle_id: i32,
     #[serde(rename = "beforeStory")]
     pub before_story: i32,
-    #[serde(rename = "bgmevent")]
     pub bgmevent: i32,
-    #[serde(rename = "bonus")]
     pub bonus: i32,
     #[serde(rename = "canUseRecord")]
     pub can_use_record: i32,
@@ -27,7 +25,6 @@ pub struct Episode {
     pub chain_episode: i32,
     #[serde(rename = "chapterId")]
     pub chapter_id: i32,
-    #[serde(rename = "cost")]
     pub cost: String,
     #[serde(rename = "dayChangeBonus")]
     pub day_change_bonus: String,
@@ -35,7 +32,6 @@ pub struct Episode {
     pub day_num: i32,
     #[serde(rename = "decryptId")]
     pub decrypt_id: i32,
-    #[serde(rename = "desc")]
     pub desc: String,
     #[serde(rename = "displayMark")]
     pub display_mark: i32,
@@ -51,19 +47,15 @@ pub struct Episode {
     pub free_bonus: i32,
     #[serde(rename = "freeDisplayList")]
     pub free_display_list: String,
-    #[serde(rename = "icon")]
     pub icon: String,
-    #[serde(rename = "id")]
     pub id: i32,
     #[serde(rename = "lockTime")]
     pub lock_time: String,
     #[serde(rename = "mapId")]
     pub map_id: i32,
-    #[serde(rename = "name")]
     pub name: String,
     #[serde(rename = "name_En")]
     pub name_en: String,
-    #[serde(rename = "navigationpic")]
     pub navigationpic: i32,
     #[serde(rename = "permanentAdvancedBonus")]
     pub permanent_advanced_bonus: i32,
@@ -77,7 +69,6 @@ pub struct Episode {
     pub permanent_reward_display_list: String,
     #[serde(rename = "permanentRewardList")]
     pub permanent_reward_list: String,
-    #[serde(rename = "pic")]
     pub pic: String,
     #[serde(rename = "preEpisode")]
     pub pre_episode: i32,
@@ -95,7 +86,6 @@ pub struct Episode {
     pub retro_reward_display_list: String,
     #[serde(rename = "retroRewardList")]
     pub retro_reward_list: String,
-    #[serde(rename = "reward")]
     pub reward: i32,
     #[serde(rename = "rewardDisplayList")]
     pub reward_display_list: String,
@@ -103,15 +93,12 @@ pub struct Episode {
     pub reward_list: String,
     #[serde(rename = "saveDayNum")]
     pub save_day_num: i32,
-    #[serde(rename = "story")]
     pub story: String,
-    #[serde(rename = "time")]
     pub time: String,
     #[serde(rename = "type")]
     pub r#type: i32,
     #[serde(rename = "unlockEpisode")]
     pub unlock_episode: i32,
-    #[serde(rename = "year")]
     pub year: i32,
 }
 use std::collections::HashMap;

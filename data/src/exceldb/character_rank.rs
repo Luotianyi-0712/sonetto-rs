@@ -5,15 +5,11 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct CharacterRank {
-    #[serde(rename = "consume")]
     pub consume: String,
-    #[serde(rename = "effect")]
     pub effect: String,
     #[serde(rename = "heroId")]
     pub hero_id: i32,
-    #[serde(rename = "rank")]
     pub rank: i32,
-    #[serde(rename = "requirement")]
     pub requirement: String,
 }
 pub struct CharacterRankTable {

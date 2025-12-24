@@ -5,23 +5,16 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Guide {
-    #[serde(rename = "desc")]
     pub desc: String,
-    #[serde(rename = "id")]
     pub id: i32,
     #[serde(rename = "interruptFinish")]
     pub interrupt_finish: i32,
-    #[serde(rename = "invalid")]
     pub invalid: String,
     #[serde(rename = "isOnline")]
     pub is_online: i32,
-    #[serde(rename = "parallel")]
     pub parallel: i32,
-    #[serde(rename = "priority")]
     pub priority: i32,
-    #[serde(rename = "restart")]
     pub restart: i32,
-    #[serde(rename = "trigger")]
     pub trigger: String,
 }
 use std::collections::HashMap;

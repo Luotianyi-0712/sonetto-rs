@@ -5,9 +5,7 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Monster {
-    #[serde(rename = "career")]
     pub career: i32,
-    #[serde(rename = "effect")]
     pub effect: String,
     #[serde(rename = "effectHangPoint")]
     pub effect_hang_point: String,
@@ -23,17 +21,13 @@ pub struct Monster {
     pub high_priority_name_eng: String,
     #[serde(rename = "hpSign")]
     pub hp_sign: String,
-    #[serde(rename = "id")]
     pub id: i32,
     #[serde(rename = "initial_uniqueSkill_point")]
     pub initial_unique_skill_point: i32,
-    #[serde(rename = "label")]
     pub label: i32,
-    #[serde(rename = "level")]
     pub level: i32,
     #[serde(rename = "levelEasy")]
     pub level_easy: i32,
-    #[serde(rename = "level_true")]
     pub level_true: i32,
     #[serde(rename = "passiveSkillCount")]
     pub passive_skill_count: i32,
@@ -43,7 +37,6 @@ pub struct Monster {
     pub skill_template: i32,
     #[serde(rename = "skinId")]
     pub skin_id: i32,
-    #[serde(rename = "template")]
     pub template: i32,
     #[serde(rename = "templateEasy")]
     pub template_easy: i32,

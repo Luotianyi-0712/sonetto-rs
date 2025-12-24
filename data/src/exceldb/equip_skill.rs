@@ -5,23 +5,17 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct EquipSkill {
-    #[serde(rename = "absorb")]
     pub absorb: i32,
     #[serde(rename = "addDmg")]
     pub add_dmg: i32,
-    #[serde(rename = "attack")]
     pub attack: i32,
     #[serde(rename = "baseDesc")]
     pub base_desc: String,
     #[serde(rename = "baseDesc2")]
     pub base_desc2: String,
-    #[serde(rename = "career")]
     pub career: String,
-    #[serde(rename = "clutch")]
     pub clutch: i32,
-    #[serde(rename = "condition")]
     pub condition: String,
-    #[serde(rename = "cri")]
     pub cri: i32,
     #[serde(rename = "criDef")]
     pub cri_def: i32,
@@ -31,21 +25,14 @@ pub struct EquipSkill {
     pub defense_ignore: i32,
     #[serde(rename = "dropDmg")]
     pub drop_dmg: i32,
-    #[serde(rename = "heal")]
     pub heal: i32,
-    #[serde(rename = "hp")]
     pub hp: i32,
-    #[serde(rename = "id")]
     pub id: i32,
     #[serde(rename = "normalSkillRate")]
     pub normal_skill_rate: i32,
-    #[serde(rename = "recri")]
     pub recri: i32,
-    #[serde(rename = "revive")]
     pub revive: i32,
-    #[serde(rename = "skill")]
     pub skill: i32,
-    #[serde(rename = "skill2")]
     pub skill2: i32,
     #[serde(rename = "skillHide")]
     pub skill_hide: String,

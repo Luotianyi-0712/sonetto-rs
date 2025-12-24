@@ -5,13 +5,10 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct CharacterTalent {
-    #[serde(rename = "consume")]
     pub consume: String,
-    #[serde(rename = "exclusive")]
     pub exclusive: String,
     #[serde(rename = "heroId")]
     pub hero_id: i32,
-    #[serde(rename = "requirement")]
     pub requirement: i32,
     #[serde(rename = "talentId")]
     pub talent_id: i32,

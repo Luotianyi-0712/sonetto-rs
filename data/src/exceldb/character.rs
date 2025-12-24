@@ -5,21 +5,16 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Character {
-    #[serde(rename = "actor")]
     pub actor: String,
-    #[serde(rename = "ai")]
     pub ai: i32,
     #[serde(rename = "battleTag")]
     pub battle_tag: String,
     #[serde(rename = "birthdayBonus")]
     pub birthday_bonus: String,
-    #[serde(rename = "career")]
     pub career: i32,
     #[serde(rename = "characterTag")]
     pub character_tag: String,
-    #[serde(rename = "desc")]
     pub desc: String,
-    #[serde(rename = "desc2")]
     pub desc2: String,
     #[serde(rename = "dmgType")]
     pub dmg_type: i32,
@@ -33,19 +28,15 @@ pub struct Character {
     pub ex_skill: i32,
     #[serde(rename = "firstItem")]
     pub first_item: String,
-    #[serde(rename = "gender")]
     pub gender: i32,
     #[serde(rename = "heroType")]
     pub hero_type: i32,
-    #[serde(rename = "id")]
     pub id: i32,
-    #[serde(rename = "initials")]
     pub initials: String,
     #[serde(rename = "isOnline")]
     pub is_online: String,
     #[serde(rename = "mvskinId")]
     pub mvskin_id: i32,
-    #[serde(rename = "name")]
     pub name: String,
     #[serde(rename = "nameEng")]
     pub name_eng: String,
@@ -53,25 +44,17 @@ pub struct Character {
     pub photo_frame_bg: i32,
     #[serde(rename = "powerMax")]
     pub power_max: String,
-    #[serde(rename = "rank")]
     pub rank: i32,
-    #[serde(rename = "rare")]
     pub rare: i32,
-    #[serde(rename = "resistance")]
     pub resistance: i32,
     #[serde(rename = "roleBirthday")]
     pub role_birthday: String,
-    #[serde(rename = "school")]
     pub school: i32,
-    #[serde(rename = "signature")]
     pub signature: String,
-    #[serde(rename = "skill")]
     pub skill: String,
     #[serde(rename = "skinId")]
     pub skin_id: i32,
-    #[serde(rename = "stat")]
     pub stat: i32,
-    #[serde(rename = "trust")]
     pub trust: i32,
     #[serde(rename = "uniqueSkill_point")]
     pub unique_skill_point: String,

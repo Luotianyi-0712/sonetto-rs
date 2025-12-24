@@ -5,17 +5,13 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct SkillExLevel {
-    #[serde(rename = "consume")]
     pub consume: String,
-    #[serde(rename = "consume2")]
     pub consume2: String,
-    #[serde(rename = "desc")]
     pub desc: String,
     #[serde(rename = "heroId")]
     pub hero_id: i32,
     #[serde(rename = "passiveSkill")]
     pub passive_skill: String,
-    #[serde(rename = "requirement")]
     pub requirement: String,
     #[serde(rename = "skillEx")]
     pub skill_ex: i32,

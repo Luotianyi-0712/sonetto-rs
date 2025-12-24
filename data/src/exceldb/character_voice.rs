@@ -5,93 +5,53 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct CharacterVoice {
-    #[serde(rename = "addaudio")]
     pub addaudio: String,
-    #[serde(rename = "audio")]
     pub audio: i32,
-    #[serde(rename = "content")]
     pub content: String,
-    #[serde(rename = "decontent")]
     pub decontent: String,
-    #[serde(rename = "deface")]
     pub deface: String,
-    #[serde(rename = "demotion")]
     pub demotion: String,
-    #[serde(rename = "demouth")]
     pub demouth: String,
     #[serde(rename = "displayTime")]
     pub display_time: i32,
-    #[serde(rename = "encontent")]
     pub encontent: String,
-    #[serde(rename = "enface")]
     pub enface: String,
-    #[serde(rename = "enmotion")]
     pub enmotion: String,
-    #[serde(rename = "enmouth")]
     pub enmouth: String,
-    #[serde(rename = "face")]
     pub face: String,
-    #[serde(rename = "frcontent")]
     pub frcontent: String,
-    #[serde(rename = "frface")]
     pub frface: String,
-    #[serde(rename = "frmotion")]
     pub frmotion: String,
-    #[serde(rename = "frmouth")]
     pub frmouth: String,
     #[serde(rename = "heroId")]
     pub hero_id: i32,
-    #[serde(rename = "jpcontent")]
     pub jpcontent: String,
-    #[serde(rename = "jpface")]
     pub jpface: String,
-    #[serde(rename = "jpmotion")]
     pub jpmotion: String,
-    #[serde(rename = "jpmouth")]
     pub jpmouth: String,
-    #[serde(rename = "kocontent")]
     pub kocontent: String,
-    #[serde(rename = "krface")]
     pub krface: String,
-    #[serde(rename = "krmotion")]
     pub krmotion: String,
-    #[serde(rename = "krmouth")]
     pub krmouth: String,
-    #[serde(rename = "motion")]
     pub motion: String,
-    #[serde(rename = "mouth")]
     pub mouth: String,
-    #[serde(rename = "name")]
     pub name: String,
-    #[serde(rename = "param")]
     pub param: String,
-    #[serde(rename = "param2")]
     pub param2: String,
-    #[serde(rename = "show")]
     pub show: i32,
-    #[serde(rename = "skins")]
     pub skins: String,
     #[serde(rename = "sortId")]
     pub sort_id: i32,
     #[serde(rename = "stateCondition")]
     pub state_condition: i32,
-    #[serde(rename = "thaicontent")]
     pub thaicontent: String,
-    #[serde(rename = "thaiface")]
     pub thaiface: String,
-    #[serde(rename = "thaimotion")]
     pub thaimotion: String,
-    #[serde(rename = "thaimouth")]
     pub thaimouth: String,
-    #[serde(rename = "time")]
     pub time: String,
-    #[serde(rename = "twcontent")]
     pub twcontent: String,
-    #[serde(rename = "twface")]
     pub twface: String,
-    #[serde(rename = "twmotion")]
     pub twmotion: String,
-    #[serde(rename = "twmouth")]
     pub twmouth: String,
     #[serde(rename = "type")]
     pub r#type: i32,

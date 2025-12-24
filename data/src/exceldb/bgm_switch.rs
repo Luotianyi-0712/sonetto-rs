@@ -5,7 +5,6 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct BgmSwitch {
-    #[serde(rename = "audio")]
     pub audio: i32,
     #[serde(rename = "audioBg")]
     pub audio_bg: String,
@@ -21,11 +20,9 @@ pub struct BgmSwitch {
     pub audio_name_en: String,
     #[serde(rename = "audioType")]
     pub audio_type: i32,
-    #[serde(rename = "audioicon")]
     pub audioicon: String,
     #[serde(rename = "defaultUnlock")]
     pub default_unlock: i32,
-    #[serde(rename = "id")]
     pub id: i32,
     #[serde(rename = "isNonLoop")]
     pub is_non_loop: i32,
@@ -33,7 +30,6 @@ pub struct BgmSwitch {
     pub is_report: i32,
     #[serde(rename = "itemId")]
     pub item_id: i32,
-    #[serde(rename = "sort")]
     pub sort: i32,
     #[serde(rename = "unlockCondition")]
     pub unlock_condition: String,

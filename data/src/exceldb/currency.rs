@@ -7,21 +7,16 @@ use serde::{Deserialize, Serialize};
 pub struct Currency {
     #[serde(rename = "dayRecoverNum")]
     pub day_recover_num: i32,
-    #[serde(rename = "desc")]
     pub desc: String,
     #[serde(rename = "headIconSign")]
     pub head_icon_sign: String,
     #[serde(rename = "highQuality")]
     pub high_quality: i32,
-    #[serde(rename = "icon")]
     pub icon: String,
-    #[serde(rename = "id")]
     pub id: i32,
     #[serde(rename = "maxLimit")]
     pub max_limit: i32,
-    #[serde(rename = "name")]
     pub name: String,
-    #[serde(rename = "rare")]
     pub rare: i32,
     #[serde(rename = "recoverLimit")]
     pub recover_limit: i32,
@@ -31,7 +26,6 @@ pub struct Currency {
     pub recover_time: i32,
     #[serde(rename = "smallIcon")]
     pub small_icon: String,
-    #[serde(rename = "sources")]
     pub sources: String,
     #[serde(rename = "subType")]
     pub sub_type: i32,

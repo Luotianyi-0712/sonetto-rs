@@ -5,9 +5,7 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct PowerItem {
-    #[serde(rename = "desc")]
     pub desc: String,
-    #[serde(rename = "effect")]
     pub effect: i32,
     #[serde(rename = "expireTime")]
     pub expire_time: String,
@@ -15,15 +13,10 @@ pub struct PowerItem {
     pub expire_type: i32,
     #[serde(rename = "highQuality")]
     pub high_quality: i32,
-    #[serde(rename = "icon")]
     pub icon: String,
-    #[serde(rename = "id")]
     pub id: i32,
-    #[serde(rename = "name")]
     pub name: String,
-    #[serde(rename = "rare")]
     pub rare: i32,
-    #[serde(rename = "sources")]
     pub sources: String,
     #[serde(rename = "useDesc")]
     pub use_desc: String,

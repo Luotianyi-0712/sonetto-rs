@@ -7,31 +7,23 @@ use serde::{Deserialize, Serialize};
 pub struct Equip {
     #[serde(rename = "canShowHandbook")]
     pub can_show_handbook: String,
-    #[serde(rename = "desc")]
     pub desc: String,
-    #[serde(rename = "icon")]
     pub icon: String,
-    #[serde(rename = "id")]
     pub id: i32,
     #[serde(rename = "isExpEquip")]
     pub is_exp_equip: i32,
     #[serde(rename = "isSpRefine")]
     pub is_sp_refine: i32,
-    #[serde(rename = "name")]
     pub name: String,
-    #[serde(rename = "name_en")]
     pub name_en: String,
-    #[serde(rename = "rare")]
     pub rare: i32,
     #[serde(rename = "skillName")]
     pub skill_name: String,
     #[serde(rename = "skillType")]
     pub skill_type: i32,
-    #[serde(rename = "sources")]
     pub sources: String,
     #[serde(rename = "strengthType")]
     pub strength_type: i32,
-    #[serde(rename = "tag")]
     pub tag: String,
     #[serde(rename = "upperLimit")]
     pub upper_limit: i32,

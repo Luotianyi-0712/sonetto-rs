@@ -9,13 +9,9 @@ pub struct Item {
     pub activity_id: i32,
     #[serde(rename = "boxOpen")]
     pub box_open: String,
-    #[serde(rename = "cd")]
     pub cd: i32,
-    #[serde(rename = "clienttag")]
     pub clienttag: i32,
-    #[serde(rename = "desc")]
     pub desc: String,
-    #[serde(rename = "effect")]
     pub effect: String,
     #[serde(rename = "expireTime")]
     pub expire_time: String,
@@ -23,9 +19,7 @@ pub struct Item {
     pub head_icon_sign: String,
     #[serde(rename = "highQuality")]
     pub high_quality: i32,
-    #[serde(rename = "icon")]
     pub icon: String,
-    #[serde(rename = "id")]
     pub id: i32,
     #[serde(rename = "isDynamic")]
     pub is_dynamic: i32,
@@ -35,13 +29,9 @@ pub struct Item {
     pub is_stackable: i32,
     #[serde(rename = "isTimeShow")]
     pub is_time_show: i32,
-    #[serde(rename = "name")]
     pub name: String,
-    #[serde(rename = "price")]
     pub price: String,
-    #[serde(rename = "rare")]
     pub rare: i32,
-    #[serde(rename = "sources")]
     pub sources: String,
     #[serde(rename = "subType")]
     pub sub_type: i32,

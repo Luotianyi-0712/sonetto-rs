@@ -12,7 +12,7 @@ sonetto-rs is a ps for reverse 1999 made in rust. why? no one tried and succeede
 - Install [rust](https://rust-lang.org/tools/install/)
 - Clone [Sonetto-Data](https://gitlab.com/yoncodes/sonetto-data) 
 - Open the project folder for sonetto-rs
-- Add excel2json to the data folder
+- Add excel2json to the data folder in sonetto-rs
 - open terminal or command prompt in sonetto-rs root directory
 ```bash
 cargo build --release

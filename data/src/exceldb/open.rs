@@ -7,19 +7,16 @@ use serde::{Deserialize, Serialize};
 pub struct Open {
     #[serde(rename = "bindActivityId")]
     pub bind_activity_id: i32,
-    #[serde(rename = "dec")]
     pub dec: i32,
     #[serde(rename = "elementId")]
     pub element_id: i32,
     #[serde(rename = "episodeId")]
     pub episode_id: i32,
-    #[serde(rename = "id")]
     pub id: i32,
     #[serde(rename = "isAlwaysShowBtn")]
     pub is_always_show_btn: i32,
     #[serde(rename = "isOnline")]
     pub is_online: i32,
-    #[serde(rename = "name")]
     pub name: String,
     #[serde(rename = "playerLv")]
     pub player_lv: i32,

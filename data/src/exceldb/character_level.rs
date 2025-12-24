@@ -5,31 +5,19 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct CharacterLevel {
-    #[serde(rename = "add_dmg")]
     pub add_dmg: i32,
-    #[serde(rename = "atk")]
     pub atk: i32,
-    #[serde(rename = "cri")]
     pub cri: i32,
-    #[serde(rename = "cri_def")]
     pub cri_def: i32,
-    #[serde(rename = "cri_dmg")]
     pub cri_dmg: i32,
-    #[serde(rename = "def")]
     pub def: i32,
-    #[serde(rename = "drop_dmg")]
     pub drop_dmg: i32,
     #[serde(rename = "heroId")]
     pub hero_id: i32,
-    #[serde(rename = "hp")]
     pub hp: i32,
-    #[serde(rename = "level")]
     pub level: i32,
-    #[serde(rename = "mdef")]
     pub mdef: i32,
-    #[serde(rename = "recri")]
     pub recri: i32,
-    #[serde(rename = "technic")]
     pub technic: i32,
 }
 pub struct CharacterLevelTable {

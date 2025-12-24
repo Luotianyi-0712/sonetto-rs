@@ -21,9 +21,7 @@ pub struct Chapter {
     pub challenge_count_limit: String,
     #[serde(rename = "chapterIndex")]
     pub chapter_index: String,
-    #[serde(rename = "chapterpic")]
     pub chapterpic: String,
-    #[serde(rename = "desc")]
     pub desc: String,
     #[serde(rename = "dramaModeToMainChapterld")]
     pub drama_mode_to_main_chapterld: i32,
@@ -35,11 +33,9 @@ pub struct Chapter {
     pub enter_after_free_limit: i32,
     #[serde(rename = "episodeId")]
     pub episode_id: i32,
-    #[serde(rename = "id")]
     pub id: i32,
     #[serde(rename = "isHeroRecommend")]
     pub is_hero_recommend: i32,
-    #[serde(rename = "name")]
     pub name: String,
     #[serde(rename = "name_En")]
     pub name_en: String,
@@ -59,7 +55,6 @@ pub struct Chapter {
     pub save_hero_group: bool,
     #[serde(rename = "type")]
     pub r#type: i32,
-    #[serde(rename = "year")]
     pub year: String,
 }
 use std::collections::HashMap;

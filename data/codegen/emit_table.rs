@@ -36,14 +36,10 @@ pub fn emit_table_store(
 
     let mut out = Vec::new();
 
-    /* ---------------- imports ---------------- */
-
     if has_id_index || has_group_index {
         out.push("use std::collections::HashMap;".into());
         out.push("".into());
     }
-
-    /* ---------------- struct ---------------- */
 
     out.push(format!("pub struct {}Table {{", struct_name));
     out.push(format!("    records: Vec<{}>,", struct_name));
@@ -61,8 +57,6 @@ pub fn emit_table_store(
 
     out.push("}".into());
     out.push("".into());
-
-    /* ---------------- impl ---------------- */
 
     out.push(format!("impl {}Table {{", struct_name));
     out.push("    pub fn load(path: &str) -> anyhow::Result<Self> {".into());

@@ -5,13 +5,9 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct EquipStrengthen {
-    #[serde(rename = "atk")]
     pub atk: i32,
-    #[serde(rename = "def")]
     pub def: i32,
-    #[serde(rename = "hp")]
     pub hp: i32,
-    #[serde(rename = "mdef")]
     pub mdef: i32,
     #[serde(rename = "strengthType")]
     pub strength_type: i32,

@@ -9,25 +9,17 @@ pub struct MonsterSkillTemplate {
     pub active_skill: String,
     #[serde(rename = "baseStress")]
     pub base_stress: i32,
-    #[serde(rename = "camp")]
     pub camp: i32,
-    #[serde(rename = "career")]
     pub career: i32,
-    #[serde(rename = "des")]
     pub des: String,
     #[serde(rename = "dmgType")]
     pub dmg_type: i32,
-    #[serde(rename = "gender")]
     pub gender: i32,
-    #[serde(rename = "id")]
     pub id: i32,
-    #[serde(rename = "identity")]
     pub identity: String,
-    #[serde(rename = "instance")]
     pub instance: i32,
     #[serde(rename = "maxStress")]
     pub max_stress: i32,
-    #[serde(rename = "name")]
     pub name: String,
     #[serde(rename = "nameEng")]
     pub name_eng: String,
@@ -35,13 +27,9 @@ pub struct MonsterSkillTemplate {
     pub passive_skill: String,
     #[serde(rename = "powerMax")]
     pub power_max: String,
-    #[serde(rename = "property")]
     pub property: String,
-    #[serde(rename = "race")]
     pub race: i32,
-    #[serde(rename = "resistance")]
     pub resistance: i32,
-    #[serde(rename = "template")]
     pub template: String,
     #[serde(rename = "uniqueSkill")]
     pub unique_skill: String,

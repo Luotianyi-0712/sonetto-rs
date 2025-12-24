@@ -11,17 +11,12 @@ pub struct Skill {
     pub battle_tag: String,
     #[serde(rename = "bloomParams")]
     pub bloom_params: String,
-    #[serde(rename = "desc_art")]
     pub desc_art: String,
-    #[serde(rename = "eff_desc")]
     pub eff_desc: String,
     #[serde(rename = "heroId")]
     pub hero_id: i32,
-    #[serde(rename = "icon")]
     pub icon: i32,
-    #[serde(rename = "id")]
     pub id: i32,
-    #[serde(rename = "name")]
     pub name: String,
     #[serde(rename = "notDoAction")]
     pub not_do_action: i32,
@@ -33,7 +28,6 @@ pub struct Skill {
     pub skill_effect: i32,
     #[serde(rename = "skillRank")]
     pub skill_rank: i32,
-    #[serde(rename = "timeline")]
     pub timeline: String,
 }
 use std::collections::HashMap;

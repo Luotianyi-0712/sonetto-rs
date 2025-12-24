@@ -5,31 +5,20 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Antique {
-    #[serde(rename = "desc")]
     pub desc: String,
-    #[serde(rename = "effect")]
     pub effect: String,
-    #[serde(rename = "gifticon")]
     pub gifticon: String,
-    #[serde(rename = "icon")]
     pub icon: String,
     #[serde(rename = "iconArea")]
     pub icon_area: i32,
-    #[serde(rename = "id")]
     pub id: i32,
-    #[serde(rename = "name")]
     pub name: String,
-    #[serde(rename = "nameen")]
     pub nameen: String,
-    #[serde(rename = "sign")]
     pub sign: String,
-    #[serde(rename = "sources")]
     pub sources: String,
     #[serde(rename = "storyId")]
     pub story_id: i32,
-    #[serde(rename = "title")]
     pub title: String,
-    #[serde(rename = "titleen")]
     pub titleen: String,
 }
 use std::collections::HashMap;

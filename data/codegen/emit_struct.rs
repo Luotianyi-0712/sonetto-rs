@@ -19,10 +19,15 @@ pub fn emit_struct(table: &str, records: &[Value]) -> String {
     ];
 
     for f in fields {
-        out.push(format!("    #[serde(rename = \"{}\")]", f));
+        let rust_name = camel_to_snake(f);
+
+        if rust_name != *f {
+            out.push(format!("    #[serde(rename = \"{}\")]", f));
+        }
+
         out.push(format!(
             "    pub {}: {},",
-            camel_to_snake(f),
+            rust_name,
             resolve_field_type(f, &field_types, records)
         ));
     }

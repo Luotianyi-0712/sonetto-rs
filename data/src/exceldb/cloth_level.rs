@@ -11,27 +11,16 @@ pub struct ClothLevel {
     pub all_limit2: i32,
     #[serde(rename = "allLimit3")]
     pub all_limit3: i32,
-    #[serde(rename = "cd1")]
     pub cd1: i32,
-    #[serde(rename = "cd2")]
     pub cd2: i32,
-    #[serde(rename = "cd3")]
     pub cd3: i32,
-    #[serde(rename = "compose")]
     pub compose: i32,
-    #[serde(rename = "death")]
     pub death: i32,
-    #[serde(rename = "defeat")]
     pub defeat: i32,
-    #[serde(rename = "desc")]
     pub desc: String,
-    #[serde(rename = "exp")]
     pub exp: i32,
-    #[serde(rename = "id")]
     pub id: i32,
-    #[serde(rename = "initial")]
     pub initial: i32,
-    #[serde(rename = "level")]
     pub level: i32,
     #[serde(rename = "maxPower")]
     pub max_power: i32,
@@ -39,13 +28,9 @@ pub struct ClothLevel {
     pub r#move: i32,
     #[serde(rename = "passiveSkills")]
     pub passive_skills: String,
-    #[serde(rename = "recover")]
     pub recover: String,
-    #[serde(rename = "skill1")]
     pub skill1: i32,
-    #[serde(rename = "skill2")]
     pub skill2: i32,
-    #[serde(rename = "skill3")]
     pub skill3: i32,
     #[serde(rename = "use")]
     pub r#use: i32,

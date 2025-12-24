@@ -5,11 +5,9 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct SummonPool {
-    #[serde(rename = "advertising")]
     pub advertising: String,
     #[serde(rename = "awardTime")]
     pub award_time: String,
-    #[serde(rename = "banner")]
     pub banner: String,
     #[serde(rename = "bannerFlag")]
     pub banner_flag: i32,
@@ -19,13 +17,10 @@ pub struct SummonPool {
     pub change_weight: String,
     #[serde(rename = "characterDetail")]
     pub character_detail: String,
-    #[serde(rename = "cost1")]
     pub cost1: String,
-    #[serde(rename = "cost10")]
     pub cost10: String,
     #[serde(rename = "customClz")]
     pub custom_clz: String,
-    #[serde(rename = "desc")]
     pub desc: String,
     #[serde(rename = "discountCost10")]
     pub discount_cost10: String,
@@ -37,7 +32,6 @@ pub struct SummonPool {
     pub guarantee_srparam: String,
     #[serde(rename = "historyShowType")]
     pub history_show_type: i32,
-    #[serde(rename = "id")]
     pub id: i32,
     #[serde(rename = "initWeight")]
     pub init_weight: String,
@@ -53,7 +47,6 @@ pub struct SummonPool {
     pub name_underlay_color: String,
     #[serde(rename = "ornamentName")]
     pub ornament_name: String,
-    #[serde(rename = "param")]
     pub param: String,
     #[serde(rename = "poolDetail")]
     pub pool_detail: i32,
@@ -63,7 +56,6 @@ pub struct SummonPool {
     pub prior_cost1: String,
     #[serde(rename = "priorCost10")]
     pub prior_cost10: String,
-    #[serde(rename = "priority")]
     pub priority: i32,
     #[serde(rename = "progressRewardPrefab")]
     pub progress_reward_prefab: String,

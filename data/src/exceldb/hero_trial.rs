@@ -21,19 +21,13 @@ pub struct HeroTrial {
     pub ex_skill_lv: i32,
     #[serde(rename = "facetsId")]
     pub facets_id: i32,
-    #[serde(rename = "facetslevel")]
     pub facetslevel: i32,
     #[serde(rename = "heroId")]
     pub hero_id: i32,
-    #[serde(rename = "id")]
     pub id: i32,
-    #[serde(rename = "level")]
     pub level: i32,
-    #[serde(rename = "skin")]
     pub skin: i32,
-    #[serde(rename = "special")]
     pub special: String,
-    #[serde(rename = "talent")]
     pub talent: i32,
     #[serde(rename = "trialTemplate")]
     pub trial_template: i32,

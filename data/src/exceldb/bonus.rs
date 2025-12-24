@@ -15,11 +15,9 @@ pub struct Bonus {
     pub fix_bonus: String,
     #[serde(rename = "heroExp")]
     pub hero_exp: String,
-    #[serde(rename = "id")]
     pub id: i32,
     #[serde(rename = "playerExp")]
     pub player_exp: String,
-    #[serde(rename = "score")]
     pub score: String,
 }
 use std::collections::HashMap;

@@ -5,11 +5,9 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Summon {
-    #[serde(rename = "id")]
     pub id: i32,
     #[serde(rename = "luckyBagId")]
     pub lucky_bag_id: String,
-    #[serde(rename = "rare")]
     pub rare: i32,
     #[serde(rename = "summonId")]
     pub summon_id: String,

@@ -13,13 +13,10 @@ pub struct Battle {
     pub advanced_condition: String,
     #[serde(rename = "aiLink")]
     pub ai_link: i32,
-    #[serde(rename = "aid")]
     pub aid: String,
-    #[serde(rename = "balance")]
     pub balance: String,
     #[serde(rename = "battleEffectiveness")]
     pub battle_effectiveness: i32,
-    #[serde(rename = "bgmevent")]
     pub bgmevent: i32,
     #[serde(rename = "bossHpType")]
     pub boss_hp_type: String,
@@ -39,7 +36,6 @@ pub struct Battle {
     pub hero_effectiveness: f32,
     #[serde(rename = "hiddenRule")]
     pub hidden_rule: String,
-    #[serde(rename = "id")]
     pub id: i32,
     #[serde(rename = "maxRound")]
     pub max_round: i32,
