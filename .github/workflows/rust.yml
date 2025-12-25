@@ -41,7 +41,14 @@ jobs:
       - name: Prepare data files
         run: |
           cp -r sonetto-data/excel2json data/
-          cp common/Config.toml common/config.toml
+        shell: bash
+
+      - name: Fix config file case (non-Windows)
+        if: runner.os != 'Windows'
+        run: |
+          if [ ! -f common/config.toml ]; then
+            cp common/Config.toml common/config.toml
+          fi
         shell: bash
 
       - name: Install Rust toolchain
