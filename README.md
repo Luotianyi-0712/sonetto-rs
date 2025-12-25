@@ -1,6 +1,6 @@
-# This is just a compiled repository, please go to the original repository.
-[original repository](https://github.com/Yoshk4e/sonetto-rs)
+# This is just a compiled repository, please go to the [original repository](https://github.com/Yoshk4e/sonetto-rs).
 
+Rust can't run on my computer, so I created this repository.
 ## Thks
 -Yoshk4e
 
