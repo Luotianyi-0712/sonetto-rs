@@ -57,23 +57,10 @@ jobs:
           toolchain: nightly-2025-12-06
           targets: ${{ matrix.target }}
 
-      - name: Install cross-compilation tools (Linux ARM64)
+      - name: Install cross-compilation tool
         if: matrix.target == 'aarch64-unknown-linux-gnu'
         run: |
-          sudo apt-get update
-          sudo apt-get install -y gcc-aarch64-linux-gnu g++-aarch64-linux-gnu
-          echo "CARGO_TARGET_AARCH64_UNKNOWN_LINUX_GNU_LINKER=aarch64-linux-gnu-gcc" >> $GITHUB_ENV
-          
-      - name: Install OpenSSL for cross-compilation
-        if: matrix.target == 'aarch64-unknown-linux-gnu'
-        run: |
-          sudo dpkg --add-architecture arm64
-          sudo apt-get update
-          sudo apt-get install -y libssl-dev:arm64
-          echo "PKG_CONFIG_ALLOW_CROSS=1" >> $GITHUB_ENV
-          echo "OPENSSL_DIR=/usr" >> $GITHUB_ENV
-          echo "OPENSSL_LIB_DIR=/usr/lib/aarch64-linux-gnu" >> $GITHUB_ENV
-          echo "OPENSSL_INCLUDE_DIR=/usr/include" >> $GITHUB_ENV
+          cargo install cross --git https://github.com/cross-rs/cross
 
       - name: Cache cargo registry
         uses: actions/cache@v4
@@ -100,10 +87,22 @@ jobs:
             ${{ runner.os }}-${{ matrix.target }}-target-
 
       - name: Build gameserver
-        run: cargo build --release --target ${{ matrix.target }} -p gameserver
+        run: |
+          if [ "${{ matrix.target }}" = "aarch64-unknown-linux-gnu" ]; then
+            cross build --release --target ${{ matrix.target }} -p gameserver
+          else
+            cargo build --release --target ${{ matrix.target }} -p gameserver
+          fi
+        shell: bash
 
       - name: Build sdkserver
-        run: cargo build --release --target ${{ matrix.target }} -p sdkserver
+        run: |
+          if [ "${{ matrix.target }}" = "aarch64-unknown-linux-gnu" ]; then
+            cross build --release --target ${{ matrix.target }} -p sdkserver
+          else
+            cargo build --release --target ${{ matrix.target }} -p sdkserver
+          fi
+        shell: bash
 
       - name: Prepare artifacts (Linux/macOS)
         if: runner.os != 'Windows'
