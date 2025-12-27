@@ -15,6 +15,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
+          ref: org
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -32,23 +33,27 @@ jobs:
           # Get current commit
           CURRENT=$(git rev-parse HEAD)
           
-          # Try to merge from main or master
-          if git merge upstream/main --no-edit 2>/dev/null || git merge upstream/master --no-edit 2>/dev/null; then
+          # Try to merge from upstream main to local org
+          if git merge upstream/main --no-edit 2>/dev/null; then
             NEW=$(git rev-parse HEAD)
             
             if [ "$CURRENT" != "$NEW" ]; then
               echo "has_changes=true" >> $GITHUB_OUTPUT
-              git push origin HEAD:${{ github.ref_name }}
-              echo "✅ Synced new changes from upstream"
+              git push origin HEAD:org
+              echo "✅ Synced new changes from upstream/main to org"
             else
               echo "has_changes=false" >> $GITHUB_OUTPUT
               echo "ℹ️ No new changes from upstream"
               exit 0
             fi
           else
-            echo "has_changes=false" >> $GITHUB_OUTPUT
-            echo "⚠️ Merge conflict or no upstream branch found"
-            exit 0
+            # Conflict detected, use upstream version
+            echo "⚠️ Merge conflict, using upstream version"
+            git merge --abort
+            git reset --hard upstream/main
+            git push origin HEAD:org --force
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "✅ Force synced from upstream/main to org"
           fi
 
   build:
@@ -65,5 +70,5 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               workflow_id: 'build.yml',
-              ref: context.ref
+              ref: 'org'
             })
