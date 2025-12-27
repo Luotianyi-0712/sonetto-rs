@@ -8,9 +8,14 @@ Rust can't run on my computer, so I created this repository.
 
 Download latest build from [releases page](https://github.com/Luotianyi-0712/sonetto-rs-build/releases/tag/latest)
 
-- sdkserver and gameserver will be in the target/release directory
-- you can move these two files to another location if you want
-- in the same folder as sdkserver and gameserver make a [data](https://gitlab.com/yoncodes/sonetto-data) folder（`data/`） next to those binaries and copy `excel2json` and the `static/` folder into it.
+Actually, you only need to move the `sdkserver` executable into the `gameserver` folder. The `data/` folder is already included in the build, so no additional setup is required. Ensure your folder structure looks like this:
+```text
+.
+├── sdkserver.exe
+├── gameserver.exe
+├── Config.toml
+└── data/
+```
 - need to use the [sonetto patch](https://github.com/yoncodes/sonetto-patch) to make the game work with the server
 - now open two terminals or command prompts
 
