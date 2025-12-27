@@ -6,6 +6,8 @@ Rust can't run on my computer, so I created this repository.
 
 ## Use
 
+Download latest build from [releases page](https://github.com/Luotianyi-0712/sonetto-rs-build/releases/tag/latest)
+
 - sdkserver and gameserver will be in the target/release directory
 - you can move these two files to another location if you want
 - in the same folder as sdkserver and gameserver make a data folder and copy excel2json and static to it
