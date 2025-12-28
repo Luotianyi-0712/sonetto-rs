@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       has_changes: ${{ steps.sync.outputs.has_changes }}
-    
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -29,14 +29,12 @@ jobs:
         run: |
           git remote add upstream https://github.com/Yoshk4e/sonetto-rs.git || true
           git fetch upstream
-          
-          # Get current commit
+
           CURRENT=$(git rev-parse HEAD)
-          
-          # Try to merge from upstream main to local org
+
           if git merge upstream/main --no-edit 2>/dev/null; then
             NEW=$(git rev-parse HEAD)
-            
+
             if [ "$CURRENT" != "$NEW" ]; then
               echo "has_changes=true" >> $GITHUB_OUTPUT
               git push origin HEAD:org
@@ -44,10 +42,8 @@ jobs:
             else
               echo "has_changes=false" >> $GITHUB_OUTPUT
               echo "ℹ️ No new changes from upstream"
-              exit 0
             fi
           else
-            # Conflict detected, use upstream version
             echo "⚠️ Merge conflict, using upstream version"
             git merge --abort
             git reset --hard upstream/main
@@ -59,6 +55,16 @@ jobs:
   build:
     needs: sync
     if: needs.sync.outputs.has_changes == 'true'
-    uses: ./.github/workflows/build.yml
-    secrets: inherit
+    runs-on: ubuntu-latest
 
+    steps:
+      - name: Trigger build workflow
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'build.yml',
+              ref: 'main'
+            })
