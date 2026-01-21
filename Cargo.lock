@@ -247,18 +247,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "codegen"
-version = "0.1.0"
-dependencies = [
- "anyhow",
- "heck",
- "once_cell",
- "serde",
- "serde_json",
- "walkdir",
-]
-
-[[package]]
 name = "common"
 version = "0.1.0"
 dependencies = [
@@ -279,6 +267,18 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "4ca0197aee26d1ae37445ee532fefce43251d24cc7c166799f4d46817f1d3973"
 dependencies = [
  "crossbeam-utils",
+]
+
+[[package]]
+name = "config"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "heck",
+ "once_cell",
+ "serde",
+ "serde_json",
+ "walkdir",
 ]
 
 [[package]]
@@ -382,8 +382,8 @@ dependencies = [
  "anyhow",
  "bcrypt",
  "chrono",
- "codegen",
  "common",
+ "config",
  "protocol",
  "serde",
  "serde_json",
@@ -652,8 +652,8 @@ dependencies = [
  "byteorder",
  "bytes",
  "chrono",
- "codegen",
  "common",
+ "config",
  "dashmap",
  "database",
  "once_cell",
@@ -1797,8 +1797,8 @@ dependencies = [
  "axum",
  "axum-server",
  "chrono",
- "codegen",
  "common",
+ "config",
  "database",
  "flate2",
  "gameserver",

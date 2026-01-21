@@ -65,7 +65,7 @@ syn = "2.0"
 prettyplease = "0.2"
 quote = "1.0"
 
-codegen = { path = "lib/codegen" }
+config = { path = "lib/config" }
 common = { path = "common" }
 database = { path = "database" }
 gameserver = { path = "gameserver" }

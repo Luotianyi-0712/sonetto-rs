@@ -1,5 +1,5 @@
 use anyhow::Result;
-use codegen::configs;
+use config::configs;
 use sonettobuf::effect_type_enum::EffectType;
 use sonettobuf::{
     ActEffect, BuffInfo, FightEntityInfo, FightHurtInfo, FightStep, fight_hurt_info, fight_step,
@@ -545,7 +545,7 @@ impl SkillExecutor {
     }
 
     fn create_buff_effect(&self, caster_uid: i64, target_id: i64, buff_id: i32) -> ActEffect {
-        let duration = codegen::configs::get()
+        let duration = config::configs::get()
             .skill_buff
             .iter()
             .find(|b| b.id == buff_id)

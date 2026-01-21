@@ -1,7 +1,7 @@
 use crate::error::AppError;
 use crate::network::packet::ClientPacket;
 use crate::state::ConnectionContext;
-use codegen::configs;
+use config::configs;
 use database::db::game::player_infos;
 use sonettobuf::{CmdId, GetPlayerInfoReply, OpenInfo};
 use std::sync::Arc;

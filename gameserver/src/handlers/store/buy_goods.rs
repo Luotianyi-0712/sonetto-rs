@@ -2,7 +2,7 @@ use crate::error::AppError;
 use crate::network::packet::ClientPacket;
 use crate::state::{ConnectionContext, parse_store_product};
 use crate::util::push;
-use codegen::configs;
+use config::configs;
 use database::models::game::currencies::UserCurrencyModel;
 use database::models::game::heros::UserHeroModel;
 use database::models::game::items::UserItemModel;

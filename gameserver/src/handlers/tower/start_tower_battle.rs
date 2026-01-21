@@ -4,7 +4,7 @@ use crate::state::{
     ActiveBattle, BattleContext, ConnectionContext, create_battle, default_max_ap,
     generate_initial_deck,
 };
-use codegen::configs;
+use config::configs;
 use prost::Message;
 use sonettobuf::{
     CmdId, DungeonUpdatePush, StartDungeonReply, StartTowerBattleReply, StartTowerBattleRequest,

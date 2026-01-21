@@ -1,5 +1,5 @@
 use crate::state::gacha::parse_dupe_rewards;
-use codegen::configs;
+use config::configs;
 
 pub async fn grant_dupe_rewards(
     hero_id: i32,

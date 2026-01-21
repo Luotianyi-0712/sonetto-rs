@@ -1,4 +1,4 @@
-use codegen::configs;
+use config::configs;
 use database::{
     db::game::equipment::Equipment,
     models::game::{equipment::UserEquipmentModel, heros::HeroData},

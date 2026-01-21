@@ -1,5 +1,5 @@
 [package]
-name = "codegen"
+name = "config"
 edition.workspace = true
 version.workspace = true
 

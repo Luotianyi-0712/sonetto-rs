@@ -1,3 +1,4 @@
+use ::config::configs;
 use common::{config, excel_data_directory, host, http_port, init_config, init_tracing};
 use database::{DatabaseSettings, connect_to, run_migrations};
 use gameserver::state::AppState as GameState;
@@ -58,7 +59,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     run_migrations(&db).await?;
 
     info!("Loading game data...");
-    codegen::configs::init(excel_data_directory().to_str().unwrap())?;
+    configs::init(excel_data_directory().to_str().unwrap())?;
     info!("Game data loaded");
 
     let state = AppState {
@@ -82,7 +83,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let app = with_encryption.merge(without_encryption).with_state(state);
 
     let addr: SocketAddr = format!("{}:{}", host(), http_port()).parse()?;
-    info!("HTTP Server listening on http://{}", addr);
+    info!("SDK is listening on http://{}", addr);
 
     axum_server::bind(addr)
         .serve(app.into_make_service())

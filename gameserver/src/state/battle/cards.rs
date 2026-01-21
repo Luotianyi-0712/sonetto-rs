@@ -1,5 +1,5 @@
 use crate::error::AppError;
-use codegen::configs;
+use config::configs;
 use database::models::game::heros::{HeroModel, UserHeroModel};
 use once_cell::sync::Lazy;
 use rand::thread_rng;
@@ -96,7 +96,7 @@ pub async fn generate_ai_initial_deck(fight: &Fight, seed: u64) -> Vec<CardInfo>
 
         let target_uid = players[rng.gen_range(0..players.len())];
 
-        let game_data = codegen::configs::get();
+        let game_data = config::configs::get();
         let skill_effect_id = game_data
             .skill
             .iter()

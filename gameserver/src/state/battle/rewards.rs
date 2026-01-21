@@ -1,4 +1,4 @@
-use codegen::configs;
+use config::configs;
 
 #[derive(Debug, Clone)]
 pub struct DungeonRewards {

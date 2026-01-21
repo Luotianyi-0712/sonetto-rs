@@ -1,5 +1,5 @@
 use anyhow::Result;
-use codegen::configs;
+use config::configs;
 use database::models::game::summon::SpPoolInfo;
 
 mod helpers;

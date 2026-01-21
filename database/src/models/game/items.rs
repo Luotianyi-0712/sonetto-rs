@@ -212,7 +212,7 @@ impl ItemModel<PowerItem> for UserItemModel {
     async fn create(&self, item_id: i32, amount: i32) -> Result<Vec<i32>, sqlx::Error> {
         let mut changed_item_ids = Vec::new();
         let now = common::time::ServerTime::now_ms();
-        let game_data = codegen::configs::get();
+        let game_data = config::configs::get();
 
         let power_item_config = game_data.power_item.iter().find(|p| p.id == item_id);
         let expire_time = if let Some(config) = power_item_config {
@@ -314,7 +314,7 @@ impl ItemModel<InsightItem> for UserItemModel {
 
     async fn create(&self, item_id: i32, amount: i32) -> Result<Vec<i32>, sqlx::Error> {
         let now = common::time::ServerTime::now_ms();
-        let game_data = codegen::configs::get();
+        let game_data = config::configs::get();
 
         let insight_config = game_data.insight_item.iter().find(|i| i.id == item_id);
         let expire_time = if let Some(config) = insight_config {

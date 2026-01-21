@@ -7,7 +7,7 @@ use crate::{
     },
     util::{push, push::send_red_dot_push},
 };
-use codegen::configs;
+use config::configs;
 use database::{
     db::{
         game::summon::{

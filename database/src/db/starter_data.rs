@@ -1,4 +1,4 @@
-use codegen::configs;
+use config::configs;
 use serde_json::Value;
 use sqlx::{Sqlite, SqlitePool, Transaction};
 use std::collections::HashMap;
@@ -475,7 +475,7 @@ pub async fn load_hero_list(
         // They unlock through leveling/breakthrough
 
         // Get all voices for this character from character_voice table
-        let character_voices: Vec<&codegen::character_voice::CharacterVoice> = game_data
+        let character_voices: Vec<&config::character_voice::CharacterVoice> = game_data
             .character_voice
             .iter()
             .filter(|v| v.hero_id == hero_id)
@@ -2576,7 +2576,7 @@ pub async fn load_starter_antiques(
     tx: &mut Transaction<'_, Sqlite>,
     user_id: i64,
 ) -> sqlx::Result<()> {
-    let game_data = codegen::configs::get();
+    let game_data = config::configs::get();
     let get_time = common::time::ServerTime::now_ms();
 
     let antiques: Vec<_> = game_data.antique.iter().collect();
@@ -4146,7 +4146,7 @@ async fn load_activity101_from_json(
 
 pub async fn load_starter_bgm(tx: &mut Transaction<'_, Sqlite>, user_id: i64) -> sqlx::Result<()> {
     let now = common::time::ServerTime::now_ms();
-    let tables = codegen::configs::get();
+    let tables = config::configs::get();
 
     let bgms: Vec<_> = tables.bgm_switch.iter().collect();
 
